@@ -1,0 +1,200 @@
+Four letters picked without replacement from {i: 11, d: 4, g: 3, t: 2}. Give prob of sequence tgti.
+11/19380
+Four letters picked without replacement from iiiaivividiviivuae. What is prob of sequence vaud?
+1/9180
+Two letters picked without replacement from obofbpffff. Give prob of sequence pf.
+1/18
+Three letters picked without replacement from {m: 1, g: 1, f: 1, z: 1, c: 4, i: 2}. What is prob of sequence iiz?
+1/360
+Calculate prob of sequence tj when two letters picked without replacement from {j: 1, y: 3, b: 1, e: 2, t: 1}.
+1/56
+Three letters picked without replacement from ljjjjljlj. What is prob of sequence llj?
+1/14
+Calculate prob of sequence okyk when four letters picked without replacement from bikkykckckcbokkcbkb.
+7/11628
+What is prob of sequence oxp when three letters picked without replacement from {m: 1, o: 1, p: 6, x: 6}?
+3/182
+Calculate prob of sequence smum when four letters picked without replacement from {u: 2, s: 1, m: 5}.
+1/42
+Four letters picked without replacement from {n: 7, w: 3, e: 3, k: 3}. What is prob of sequence knkk?
+1/1040
+Three letters picked without replacement from {w: 6, f: 2, g: 6}. What is prob of sequence wfg?
+3/91
+What is prob of sequence occo when four letters picked without replacement from cccooococccccococcco?
+91/1615
+Two letters picked without replacement from qbqqqbqqb. What is prob of sequence bb?
+1/12
+Four letters picked without replacement from cmmchmmchhmhmhm. Give prob of sequence chhh.
+1/182
+Two letters picked without replacement from {s: 14, k: 3}. Give prob of sequence sk.
+21/136
+Three letters picked without replacement from {m: 6, b: 1}. Give prob of sequence bmm.
+1/7
+Three letters picked without replacement from {f: 4, x: 1, i: 3, b: 3, s: 2, e: 1}. Give prob of sequence ssx.
+1/1092
+Three letters picked without replacement from dxdddxxdxxxddxxxxxxx. What is prob of sequence ddx?
+91/1140
+Three letters picked without replacement from {i: 2, m: 1, l: 3, e: 2, a: 2}. What is prob of sequence mma?
+0
+Four letters picked without replacement from {x: 1, p: 1, s: 1, o: 2, q: 4, c: 5}. Give prob of sequence sxoc.
+5/12012
+What is prob of sequence rf when two letters picked without replacement from {r: 2, t: 1, o: 4, m: 11, f: 2}?
+1/95
+Two letters picked without replacement from {y: 3, c: 6, s: 1}. Give prob of sequence ys.
+1/30
+Calculate prob of sequence ol when two letters picked without replacement from lssosomososos.
+5/156
+What is prob of sequence abut when four letters picked without replacement from bbaabtbuaubaauuuttu?
+25/5168
+Two letters picked without replacement from {c: 6, l: 3, i: 1, x: 4, j: 3, z: 3}. What is prob of sequence ji?
+3/380
+What is prob of sequence io when two letters picked without replacement from yiouyr?
+1/30
+What is prob of sequence tnf when three letters picked without replacement from njtjtjtzfftcjjttjtt?
+8/2907
+What is prob of sequence omi when three letters picked without replacement from ommrgrizggg?
+1/495
+Two letters picked without replacement from {i: 5, m: 4}. What is prob of sequence mm?
+1/6
+What is prob of sequence rqar when four letters picked without replacement from {r: 2, g: 3, q: 2, w: 1, a: 2, t: 1}?
+1/990
+Calculate prob of sequence pggd when four letters picked without replacement from dddddpdggddgdd.
+5/2002
+Two letters picked without replacement from mimmmirimmmimim. What is prob of sequence rm?
+3/70
+Calculate prob of sequence gt when two letters picked without replacement from {l: 5, g: 10, t: 2}.
+5/68
+Calculate prob of sequence js when two letters picked without replacement from cccsjncc.
+1/56
+What is prob of sequence yts when three letters picked without replacement from {y: 2, t: 3, s: 1, r: 2, d: 10}?
+1/816
+Three letters picked without replacement from kkuuukukk. What is prob of sequence uuk?
+5/42
+Three letters picked without replacement from {s: 4, d: 1, o: 6, t: 4, n: 1, a: 1}. Give prob of sequence ana.
+0
+Three letters picked without replacement from {u: 11, y: 4, w: 1, h: 4}. What is prob of sequence uhu?
+11/171
+Four letters picked without replacement from {c: 2, p: 1, g: 1, o: 6, f: 1, j: 3}. Give prob of sequence jfgj.
+1/4004
+Four letters picked without replacement from {r: 5, q: 4, a: 1, g: 1, o: 2}. What is prob of sequence rgro?
+1/429
+Calculate prob of sequence iuud when four letters picked without replacement from duddjqqsjqiuq.
+1/2860
+What is prob of sequence pk when two letters picked without replacement from {x: 1, f: 1, d: 1, k: 2, p: 1}?
+1/15
+What is prob of sequence rnhr when four letters picked without replacement from rllrnhle?
+1/840
+Two letters picked without replacement from {p: 4, w: 1, n: 1, m: 2, o: 5}. Give prob of sequence mp.
+2/39
+What is prob of sequence zx when two letters picked without replacement from {f: 1, t: 2, m: 3, c: 3, x: 4, z: 1}?
+2/91
+What is prob of sequence um when two letters picked without replacement from rrrrcucmocrmcc?
+1/91
+What is prob of sequence yqt when three letters picked without replacement from ytyyytyqqttqqyqtq?
+3/68
+Three letters picked without replacement from {v: 3, z: 9, d: 4, e: 3}. Give prob of sequence vee.
+1/323
+Three letters picked without replacement from rrozzyyyhyororwrowz. Give prob of sequence zyo.
+8/969
+Calculate prob of sequence lvi when three letters picked without replacement from {l: 1, w: 3, v: 5, i: 8, u: 1}.
+5/612
+Calculate prob of sequence oz when two letters picked without replacement from {l: 1, o: 4, z: 6, n: 3, x: 3}.
+3/34
+Two letters picked without replacement from {b: 12, v: 8}. What is prob of sequence vb?
+24/95
+Calculate prob of sequence dd when two letters picked without replacement from xzrdzxzqrrxzxzfr.
+0
+Calculate prob of sequence rzor when four letters picked without replacement from {o: 1, r: 2, q: 1, g: 1, z: 1}.
+1/180
+Two letters picked without replacement from {w: 12, d: 5}. What is prob of sequence wd?
+15/68
+What is prob of sequence my when two letters picked without replacement from ydmyyrmmbyrmrrmym?
+15/136
+What is prob of sequence pp when two letters picked without replacement from pcppppppppppppppc?
+105/136
+What is prob of sequence qb when two letters picked without replacement from jybkyykqnn?
+1/90
+Calculate prob of sequence is when two letters picked without replacement from mixkmsgmmmxm.
+1/132
+Calculate prob of sequence vdg when three letters picked without replacement from gvddfdd.
+2/105
+Calculate prob of sequence aww when three letters picked without replacement from {a: 4, w: 8}.
+28/165
+Two letters picked without replacement from ygpypgy. What is prob of sequence yp?
+1/7
+Calculate prob of sequence kiik when four letters picked without replacement from {i: 12, k: 4}.
+33/910
+What is prob of sequence lvb when three letters picked without replacement from {j: 1, k: 1, c: 1, v: 10, l: 1, b: 2}?
+1/168
+What is prob of sequence xfxv when four letters picked without replacement from vgsvfxxvr?
+1/504
+Calculate prob of sequence nsa when three letters picked without replacement from {a: 2, m: 5, n: 6, s: 3}.
+3/280
+Three letters picked without replacement from ltelcctlctlllltllc. What is prob of sequence tll?
+1/17
+What is prob of sequence ugp when three letters picked without replacement from pgqu?
+1/24
+Four letters picked without replacement from {k: 1, a: 1, o: 5, p: 4, m: 2}. What is prob of sequence kpoo?
+2/429
+Calculate prob of sequence ppa when three letters picked without replacement from {w: 1, p: 11, a: 1, f: 4, e: 3}.
+11/684
+Three letters picked without replacement from jqjqyyxyyjjyjyy. Give prob of sequence qqj.
+1/273
+Calculate prob of sequence zoo when three letters picked without replacement from zoncooozozzzoz.
+15/182
+Two letters picked without replacement from {u: 2, b: 5, c: 1}. What is prob of sequence bb?
+5/14
+Calculate prob of sequence fll when three letters picked without replacement from fxfffffllfflfffl.
+11/280
+What is prob of sequence aag when three letters picked without replacement from {a: 3, v: 3, g: 3}?
+1/28
+Two letters picked without replacement from aaeaeeeaaaaa. Give prob of sequence ee.
+1/11
+What is prob of sequence hva when three letters picked without replacement from {h: 1, a: 1, v: 6, j: 5}?
+1/286
+What is prob of sequence vvb when three letters picked without replacement from {b: 9, v: 4}?
+9/143
+What is prob of sequence uuiu when four letters picked without replacement from iuiuiiuuu?
+5/63
+Three letters picked without replacement from {v: 8, b: 3, c: 2}. Give prob of sequence vcc.
+4/429
+Three letters picked without replacement from kyyplpk. Give prob of sequence lyk.
+2/105
+Two letters picked without replacement from brbbbbbbbb. What is prob of sequence br?
+1/10
+Four letters picked without replacement from {e: 2, g: 1, y: 1, h: 1, v: 1}. Give prob of sequence vvhv.
+0
+Four letters picked without replacement from ddxdddxdsdqxsddds. What is prob of sequence sqxx?
+3/9520
+Two letters picked without replacement from {t: 3, p: 5, e: 5, r: 5}. Give prob of sequence pt.
+5/102
+Three letters picked without replacement from {i: 10, y: 6}. Give prob of sequence yiy.
+5/56
+What is prob of sequence lnln when four letters picked without replacement from {l: 2, n: 3, g: 1, w: 7}?
+1/1430
+What is prob of sequence uuu when three letters picked without replacement from {k: 8, j: 4, u: 7}?
+35/969
+What is prob of sequence wrw when three letters picked without replacement from rxwdxdwjdj?
+1/360
+Two letters picked without replacement from {b: 3, e: 5, m: 3, i: 1, u: 3, j: 1}. Give prob of sequence bb.
+1/40
+Four letters picked without replacement from {g: 9, k: 8}. Give prob of sequence kggg.
+6/85
+Calculate prob of sequence lyyy when four letters picked without replacement from {l: 5, y: 5, a: 5}.
+5/546
+Three letters picked without replacement from iophojjhphippiffhh. Give prob of sequence pfj.
+1/306
+Two letters picked without replacement from {w: 1, y: 1, i: 4}. What is prob of sequence yw?
+1/30
+Calculate prob of sequence yc when two letters picked without replacement from cycccccccycyc.
+5/26
+What is prob of sequence dd when two letters picked without replacement from diddddzzddzd?
+14/33
+Four letters picked without replacement from {q: 2, w: 1, e: 1, v: 8}. Give prob of sequence vvev.
+14/495
+What is prob of sequence tf when two letters picked without replacement from kfdfqukftk?
+1/30
+Calculate prob of sequence cccc when four letters picked without replacement from {j: 1, r: 3, c: 10}.
+30/143
+What is prob of sequence gg when two letters picked without replacement from aggzmgggng?
+1/3

@@ -1,0 +1,200 @@
+Suppose 3*f + 2*m = 12, -f + 2*m = 6*m - 4. Suppose -f*o + 2*o - 5*x = -886, -5*o + x = -2188. Is o a multiple of 39?
+False
+Suppose -3*m + 10 = 2*c, m - 10 = -2*c - 0*m. Suppose 6*v - 264 = c*v. Is 33 a factor of v?
+True
+Let y(m) = -11*m - 71. Let u(g) = 5*g + 35. Let q(p) = p**3 - 4*p**2 + 2*p + 6. Let x be q(3). Let a(d) = x*y(d) + 7*u(d). Is 30 a factor of a(14)?
+True
+Suppose 9*y + 173 + 115 = 0. Is 6/(-48) - 11524/y a multiple of 11?
+False
+Suppose -3*w = -s - 10067, 2*s = -4*w + 757 + 12649. Is 13 a factor of w?
+True
+Let k(n) = n**3 - 8*n**2 - n + 14. Let y be k(8). Suppose -p = -y*p. Is 10 a factor of p*5/(-15) + 19?
+False
+Suppose -x + r + 3 = 0, 0*r - 1 = -r. Suppose 4*z + 263 = 4*v + 823, x*z + 5*v - 605 = 0. Is 7 a factor of z?
+False
+Suppose 7*u - 4*u + 5 = -2*z, 2*u + 2 = 0. Let l = 51 - 0. Let n = l + z. Is 12 a factor of n?
+False
+Suppose -11*z - 5*z = -224. Suppose 0 = z*j - j - 3666. Does 37 divide j?
+False
+Let x = -2 - -5. Suppose -x*o + 16 = o, p = 2*o - 2. Suppose p*h = 75 + 195. Does 10 divide h?
+False
+Let m = -58 + 83. Suppose d + 5*y - m = 0, 4*d + 3*y = 9*d - 97. Does 5 divide d?
+True
+Let z = 6875 + -4207. Does 92 divide z?
+True
+Let q = 532 - 370. Does 9 divide q?
+True
+Let h(o) = 7*o**2 + 7*o - 6. Let n be h(1). Is 16 a factor of (1 + 4)*n/6*72?
+True
+Let d = 130 + -127. Suppose d*t - 437 = -11. Is 20 a factor of t?
+False
+Let g(z) = -3*z - 14. Suppose -46 = -3*t - 4. Suppose -10*k = -t*k - 40. Is 7 a factor of g(k)?
+False
+Let n = 132 - 127. Suppose n*r = -5*r + 1260. Is r a multiple of 21?
+True
+Let i = 1365 + 23. Suppose 4*d - 281 = 4*y - 5*y, -3*d = 5*y - i. Does 21 divide y?
+False
+Suppose 0 = -0*n - 5*n + 1043 - 328. Does 19 divide n?
+False
+Let v(k) = 11*k**2 - 19*k - 33. Is v(11) even?
+False
+Let g(t) be the first derivative of 7*t**2/2 - 64*t + 57. Does 5 divide g(12)?
+True
+Suppose 3526 = -4*n + u + 12901, 2*n - 2*u - 4680 = 0. Is n a multiple of 3?
+False
+Suppose -3*m + 266 + 778 = 5*a, a + m = 208. Is a a multiple of 15?
+True
+Let l(z) = 1150 - 48*z. Is l(10) a multiple of 5?
+True
+Suppose -4*a + 4*d = a + 5, 0 = -5*a - 5*d + 40. Let r be (1 - -2)/a + (-4)/(-4). Suppose -2*p - 26 - 6 = -r*z, -p = 4*z - 84. Is z a multiple of 10?
+True
+Let t(z) = -z**3 + 18*z**2 + 22*z - 17. Let y be t(19). Does 34 divide (-56)/(-2)*(290/y - 4)?
+False
+Let p(f) = 128*f**2 - 89*f - 6. Is 12 a factor of p(-6)?
+True
+Let d = 14808 - 8740. Does 46 divide d?
+False
+Is (-2)/(8 + 22905/(-2862)) a multiple of 7?
+False
+Let n(u) = -2. Let d(q) = q - 1. Let k(j) = -2*d(j) + 2*n(j). Let h be k(5). Does 12 divide (-4 + -4 + 3)*h?
+True
+Let w be 120/16*2/1. Suppose -360 = -w*s + 11*s. Suppose s = 3*v + 3*v. Is v a multiple of 10?
+False
+Let p be 1 - 4/(-6 - -2). Suppose -116 = 3*j - 4*k, 0*k + p = k. Let i = j + 52. Does 4 divide i?
+True
+Let g = 115 - -533. Is g a multiple of 11?
+False
+Let b = -7 + 38. Suppose -6 = b*j - 33*j. Suppose -3*v = j, v + 2*v = -3*t + 111. Is 14 a factor of t?
+False
+Suppose 5*t - 15 = 0, -3*n + 4 = -t - 5. Suppose 6*h - 11*h - 5*q + 830 = 0, 2*q = -n*h + 660. Is h a multiple of 12?
+False
+Let y(m) = 32*m - 64. Let h(t) = 11*t - 21. Let l(r) = -8*h(r) + 3*y(r). Is l(16) a multiple of 36?
+False
+Suppose 2 = x, 0 = -2*z - 4*x + 985 + 341. Does 19 divide z?
+False
+Suppose 26*h - 7150 = 21*h. Suppose -5*m = -2*f - h, -2*m - 6*f = -f - 601. Is 24 a factor of m?
+True
+Let k = 202 - 200. Suppose -7*a - k*a = -1008. Does 56 divide a?
+True
+Is 3494751/676 + (-3)/4 a multiple of 25?
+False
+Let f(i) = 62*i**2 + 4*i + 92. Does 103 divide f(9)?
+True
+Let t = 40 + 3. Let k = t + -26. Is k even?
+False
+Let v(j) = j**3 + 12*j**2 + 13*j + 24. Let i(s) = 2 - 13*s. Let c be i(1). Let m be v(c). Suppose 7 = -m*y + 183. Does 11 divide y?
+True
+Suppose -c - 34 - 6 = 2*s, -s - 30 = 3*c. Let f(h) = h**3 + 19*h**2 + 17*h + 41. Is f(s) a multiple of 2?
+False
+Let q(j) = 121*j + 46. Suppose -13 = -d - 3*b, 4*d + 5*b - 36 = -5. Is q(d) a multiple of 53?
+True
+Let d = 102 + 3248. Is 67 a factor of d?
+True
+Suppose -3*j + 16 = -314. Let z = j + 250. Is 36 a factor of z?
+True
+Let b be 18 + -1 + (-4)/(-4). Let c be b/18 + (0 - 2/2). Suppose 0 = -2*d - 2*d - 2*o + 130, c = -d + o + 25. Is 6 a factor of d?
+True
+Let p = 183 + -181. Suppose 434 = p*l + 150. Does 6 divide l?
+False
+Let d = 4827 + -2672. Is 3 a factor of d?
+False
+Let z = 1419 + -1041. Is z a multiple of 6?
+True
+Let o(g) = -g**2 - 15*g - 13. Let y be o(-9). Let f = 57 - y. Suppose -3*v + f = -146. Is v a multiple of 27?
+True
+Let x be (-48)/(-26) + 12/78. Suppose -5*q - 162 = 3*j, -x*j + 22 = q - 2*q. Let u = q + 64. Is u a multiple of 6?
+False
+Suppose -6*n = -51*n + 11670 + 12090. Is n a multiple of 24?
+True
+Let c = 174 + -137. Let o(a) = 10*a - 166. Is o(c) a multiple of 51?
+True
+Let j be (-54 - 0)*14/28. Let i(l) = -l**2 - 33*l - 28. Does 35 divide i(j)?
+False
+Suppose 0 = 86*x - 90*x - 24. Is 1 + 115 + x + 8 a multiple of 9?
+False
+Let k(c) = -2*c**2 + 19*c + 21. Let t = -135 - -145. Is 7 a factor of k(t)?
+False
+Let j(q) = 76*q + 49. Let y(a) = -37*a - 24. Let h(u) = 4*j(u) + 7*y(u). Does 10 divide h(4)?
+False
+Suppose -4*g = 3*p - 2136, -14*p + 18*p + 3*g = 2848. Is 8 a factor of p?
+True
+Let y be (13/(-4))/(-2*(-1)/56). Let v = y - -144. Is 3 a factor of v?
+False
+Suppose -113*m + 721 = -10*m. Let f be 2/(-7) - (-3442)/(-7). Is f/(-7) - 2/m a multiple of 12?
+False
+Let n(o) = 8*o + 38. Let i be n(-7). Let c = i - -38. Is c a multiple of 4?
+True
+Suppose 0 = -n - 3, 4*j + 4*n = 8*n + 5052. Is 90 a factor of j?
+True
+Let u be (1/(-3))/(12/(-144)). Suppose 5*l = -w + 3*l + 57, 0 = u*w + 4*l - 240. Does 9 divide w?
+True
+Suppose 5*y - 4 = 3*y. Suppose -3*c + y*u = -7*c + 16, -30 = -5*c - 5*u. Let f(m) = 23*m - 6. Is 8 a factor of f(c)?
+True
+Suppose -5722 = 5*c - 19177. Is 22 a factor of c?
+False
+Let t be (240/210)/(4/14). Suppose -2*x + 2*l = -120, -5*l = -t*x + x + 174. Is x a multiple of 21?
+True
+Suppose -g - 4*z = -4*g + 314, -420 = -4*g + 5*z. Let s = g - 6. Suppose c = 5, c - s = -4*b + b. Is 14 a factor of b?
+False
+Let b(h) = -15*h - 1. Let u(t) = -2*t - 11. Let r be u(-7). Suppose -3*v + x - 31 = -4*x, -15 = -r*x. Is b(v) a multiple of 7?
+False
+Let t(z) = 500 - 34*z. Does 5 divide t(-49)?
+False
+Let f(v) = -22*v - 22. Let b(d) = 11*d + 11. Let w(s) = 5*b(s) + 3*f(s). Let u be w(-4). Suppose 7*p - u = 6*p. Is p a multiple of 12?
+False
+Let t = -89 - -117. Suppose -v = 3*h - t - 39, 0 = -2*v + 5*h + 145. Is 35 a factor of v?
+True
+Let i(z) = 3*z**2 + 11*z + 7. Let b be (-2 - (-3 + 3))*(-22)/(-4). Let v = -18 - b. Is 24 a factor of i(v)?
+False
+Let v = -12 + 7. Let i(l) = 7*l**3 + 5*l**2 - l - 9. Let t(r) = 23*r**3 + 18*r**2 - 3*r - 28. Let p(c) = -13*i(c) + 4*t(c). Is p(v) a multiple of 8?
+False
+Suppose 3*p - 5*d - 470 = 0, -5*p - 4*d + 434 = -2*p. Let u = p + -27. Does 15 divide u?
+False
+Let v(z) = -9 - 22*z + 5*z + 0*z. Is v(-7) a multiple of 5?
+True
+Suppose 3*b - 12 = -4*i, i + 4*i = -3*b + 12. Suppose i = -8*x - 5*x + 3354. Does 28 divide x?
+False
+Suppose k + 0*v + 2*v - 1233 = 0, 2*k + 3*v = 2467. Suppose -n + 3*u = -320, 4*n - 32*u - k = -29*u. Is n a multiple of 15?
+False
+Suppose 4*a + 4*g = -1908, 2*g = 5*g + 9. Is a/(-2) + (23 - 20) a multiple of 12?
+True
+Suppose 0 = -5618*p + 5616*p + 9172. Is p a multiple of 47?
+False
+Let f = 21313 + -37773. Does 28 divide (-2)/(-9) + f/(-45) + -2?
+True
+Let t(n) = 77 - 7*n. Let j(z) = 3*z - 38. Let h(q) = -5*j(q) - 2*t(q). Let k(w) = w**2 + 16*w - 30. Let v be k(-18). Is h(v) a multiple of 15?
+True
+Is 2 a factor of 4 + 133 - (37 - 27)?
+False
+Suppose 2*g - 642 - 1330 = 0. Let r = -633 + g. Is r a multiple of 62?
+False
+Let x = 12412 + -8462. Is x a multiple of 18?
+False
+Does 7 divide 53457/15 + (-4 - (-231)/55)?
+False
+Let l(j) = 2*j**3 - 6*j**2 + 12*j - 58. Is 43 a factor of l(10)?
+True
+Suppose 15*h + 1069 - 4389 = -5*h. Does 4 divide h?
+False
+Let b(i) = -2*i**2 + 45*i + 10. Let q = 13 + 7. Is 8 a factor of b(q)?
+False
+Let w = -52 + 219. Let j = w + -48. Does 7 divide j?
+True
+Let q = 19 + 23. Let p be (-1 - 2546/(-10)) + q/105. Suppose 6*d - p = 58. Is 18 a factor of d?
+False
+Suppose 2*n = 3*i + 35, 0*i + 1 = i. Suppose 15*a + 816 = n*a. Is a a multiple of 34?
+True
+Let k = 15 - 71. Let c = k - -107. Suppose 0 = -4*a + c - 3. Is a a multiple of 10?
+False
+Let g(f) = 2*f**3 - 5*f**2 - 8*f + 8. Suppose 0 = 2*h - z - 13, h - 4*z + 6*z = -6. Does 17 divide g(h)?
+False
+Let v(g) = 136*g - 324. Does 12 divide v(12)?
+True
+Let o be 80/96 + (-8515)/(-6). Suppose -8*n = 76 - o. Does 21 divide n?
+True
+Let w be (-33)/(-44)*(-16)/(-6). Suppose -5*k = 2*j - 11, -w*k - 2*j + 0 = -2. Suppose -505 = -3*n - 5*v, -n - 625 = -5*n + k*v. Is 32 a factor of n?
+True
+Let t = 160 + -130. Suppose 0*x = 10*x - t. Does 2 divide x?
+False
+Does 6 divide (1420 - (-6 - -15)) + -1?
+True

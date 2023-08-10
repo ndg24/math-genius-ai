@@ -1,0 +1,200 @@
+Suppose 2*q - 4*z + 8 = 0, -2*q - 4 = 2*z - 2. What is the tens digit of (-4 - (-5)/(-20))/(q/80)?
+7
+Let m = -2494 + 3669. Suppose 3*b - 701 = 4*q, b + 4*b - m = 5*q. Suppose 5*a - b = 2*u, 3*a = -3*u + 66 + 69. What is the units digit of a?
+7
+Let j be 4/(-16) + (-87)/4. Let l = j - -26. Let q(z) = z**3 + 3*z**2 - 8*z - 1. What is the units digit of q(l)?
+9
+What is the thousands digit of (10 - ((-1 - 0) + 4)) + 4570?
+4
+Suppose 0 = 38*k - 37*k + 3. What is the hundreds digit of (2/k - -1)/(137/165633)?
+4
+Let o(c) = 4*c**2 + 43*c - 89. What is the tens digit of o(31)?
+8
+Let g = 0 - -11. Suppose -g + 53 = 7*j. Suppose 3*w - 5*h = 2, -2*w + 3*h = -w + j. What is the units digit of w?
+9
+Let t(n) = 818*n**2 - n + 14. What is the units digit of t(-3)?
+9
+Suppose 2*z + 81*y - 2340 = 80*y, z - 1167 = y. What is the units digit of z?
+9
+Suppose 35*v - 37332 = 31*v - 4*k, 0 = -v - 5*k + 9349. What is the thousands digit of v?
+9
+Let h(z) = z**3 + 4*z**2 - 5*z. Let y be h(-5). Suppose y = -o + 8 - 6. Suppose o*a + 54 - 182 = 2*q, -a + 39 = 4*q. What is the tens digit of a?
+5
+Let b(v) = v + 6. Let l be b(-3). Suppose 41*g - 45*g + 364 = 0. Suppose -5*f + 4*h + g = 0, 0 = -5*f + l*h + 2*h + 90. What is the units digit of f?
+9
+Suppose 27*z - 18*z - 11052 = 0. Suppose 4*d - z = -344. What is the units digit of d?
+1
+Suppose -3*n + 8*n = 20. Suppose n*w - 6*m - 37 = -m, 3*m = -5*w. Suppose 40 = 5*l + 5*z, -4 = 5*l - w*l - 2*z. What is the units digit of l?
+3
+Let a(j) = 715 - 19*j. What is the hundreds digit of a(-29)?
+2
+Let w(m) = 22 + 19*m + 34 - 69. Let v be w(5). What is the units digit of 0 + v + (5 - 8) + 3?
+2
+Let n = 19195 - 12098. What is the tens digit of n?
+9
+Let l(u) = -7*u**2 + 7*u + 3. Let d be l(-5). Let r = d + 344. Suppose 303 = 5*z - r. What is the tens digit of z?
+8
+Let j(r) = -4*r**3 + 1 + 2*r - 6*r**2 - r**3 + 8*r**2. Let n be j(-1). What is the tens digit of 54 + n + (-1 - 1)?
+5
+Let u = -1135 + 2025. Let v = -500 + u. What is the units digit of v?
+0
+Let j(k) = -k**3 + 14*k**2 + 11*k - 25. Let z be (-3*6)/(0 - 12/8). What is the units digit of j(z)?
+5
+Suppose 9*a - 78507 = -2*a. What is the tens digit of a?
+3
+Let d = -200 - -77. Let x be (0 - (-12)/(-9))*d. What is the tens digit of (x/6)/(0 + 6/9)?
+4
+Suppose 6*b = 1561 + 467. Suppose 169 = a - 5*t, 7*t - 2*t = -2*a + b. What is the tens digit of a?
+6
+Let f = -22 + -22. Suppose -931 = 34*z + 3897. Let l = f - z. What is the tens digit of l?
+9
+Suppose 5*u = 2*u. Suppose u = -2*n + 3*n - 3. Suppose 475 = 4*x - n*j + 59, -5*x - 5*j = -485. What is the tens digit of x?
+0
+Let g be (4/(-7))/((-5)/35). Let f(x) = -2*x + x - 4*x - g*x + 7. What is the units digit of f(-10)?
+7
+Let r be (-4)/((-48)/34) - (-2)/12. Suppose 0*z = 6*z - r*z. Suppose 2*d + z*d - 76 = 0. What is the units digit of d?
+8
+Suppose 0 = 4*i + 3*k - 922, 3*i + 3*k - 555 - 138 = 0. Suppose g - 5*v = 94, 0 = -4*g + 5*v - i + 620. What is the units digit of g?
+9
+Let c(b) = -54*b**3 - 13*b**2 - 75*b + 3. What is the hundreds digit of c(-4)?
+5
+Suppose -172 = -0*y - 4*y. Let j = 119 - y. Suppose 5*d = 2*v - 0*d - 41, 4*v - 4*d - j = 0. What is the units digit of v?
+8
+Let l = -140 - -145. Suppose q = -l*x + 129, -3*q - x = -135 - 238. What is the units digit of q?
+4
+Let w = 34 + -32. Suppose 24 = -3*f + w*g, -2*f = -0*f + 4*g. What is the units digit of 2 - (-3 + f/(-3) + -81)?
+4
+Let j(x) be the first derivative of -x**3/3 - 21*x**2/2 + 10*x - 12. Let z = 43 + -61. What is the tens digit of j(z)?
+6
+Suppose 138450 = y + 24*y. What is the hundreds digit of y?
+5
+Let i(h) = -h**3 - 12*h**2 - 7*h - 23. Let a be i(-7). Let s = 431 + a. What is the units digit of s?
+2
+Let n be (48/(-40))/((-1)/(-5)). Let q be (n - -5)*(-80 + -1). Suppose 0 = -4*j + 257 - q. What is the units digit of j?
+4
+What is the tens digit of 3460/15*-15*12/(-40)?
+3
+Let a(p) = 166*p + 1003. What is the tens digit of a(28)?
+5
+Suppose -35*j + 34*j = -8. Suppose 0 = -3*o - 2*p + 5*p + 63, -2*p = j. What is the tens digit of o?
+1
+Let z(n) = 30*n - 86. Suppose t = 6*t - 70. What is the units digit of z(t)?
+4
+Suppose 5*z - 4*g - 284 = -8*g, 4*g = 4*z - 256. What is the hundreds digit of 5/3*-22*z/(-8)?
+2
+Suppose 0 = 5*a - 10, -3*a + 1152 = 4*k - 2*k. Suppose -12*m = -k - 1755. What is the hundreds digit of m?
+1
+Let w be 2/6 + (-16522)/(-33). Suppose 0*o + 664 = 4*f + 5*o, 3*f = -3*o + w. Suppose f = 52*s - 49*s. What is the units digit of s?
+7
+Let t be 2/10 - 9/(-5). Let h = t - 0. What is the tens digit of (5 - 27)/(((-4)/5)/h)?
+5
+Let o be (6 - -1)*(-13)/13. What is the hundreds digit of (-4 - o)*(-1520)/(-12)?
+3
+Let x(v) = v**2 - 3*v - 76. Let j be x(-22). Suppose 5*h - 941 = j. What is the units digit of h?
+3
+Suppose -h = -26*h - 33467 + 112692. What is the hundreds digit of h?
+1
+Let y = 866 + -1320. Let m = -217 - y. What is the units digit of m?
+7
+Let a(r) = 71*r - 5. Let x = -19 + 21. Let d be a(x). Let f = -80 + d. What is the tens digit of f?
+5
+Let z(d) = -d**3 - 26*d**2 + 20*d + 225. What is the thousands digit of z(-33)?
+7
+Let m(g) = g**2 - 17*g + 32. Let i be m(10). What is the tens digit of i*(135/(-10) - -4)?
+6
+Let u(r) = r**2 + 10*r - 4. Let z be u(-9). Let c(s) = -s**2 - 16*s - 17. Let g be c(z). Suppose 0*f = f + 2, -g = -3*n + 5*f. What is the units digit of n?
+4
+Let z(c) = 2*c**2 + 21*c + 14. Let x be z(-10). What is the tens digit of 6/x*(0 + 574/3)?
+8
+Suppose 3*y + 12240 = 4*f, 36*f - y = 38*f - 6110. What is the thousands digit of f?
+3
+Let z(p) = 124*p + 4. Let k be z(2). Suppose -2*s + 64 = -k. Let a = s - 62. What is the units digit of a?
+6
+Suppose -2*n + 14*n = -0*n + 54768. What is the thousands digit of n?
+4
+Let u be 76*((-273)/52)/21. Let r be 1/(1/(1*-13)). Let q = r - u. What is the units digit of q?
+6
+Let c = 45 - 143. Suppose 666 = 4*u + 2*z, 3*z - 4*z = u - 166. Let d = c + u. What is the tens digit of d?
+6
+Suppose -5*a + 13 + 7 = 0. Let f(x) = -31*x - 21. Let n be f(a). What is the tens digit of (n/10)/((-1)/2)?
+2
+Let o = 22 - 26. Let m(n) = -52*n - 5. What is the hundreds digit of m(o)?
+2
+Suppose -19*b - 80 = -39*b. Suppose f = 4*f + 9. What is the tens digit of (-8)/f*(b + 2)?
+1
+Let c(n) be the third derivative of 2*n**2 + 0 + 5/3*n**3 + 1/3*n**4 + 0*n. What is the tens digit of c(9)?
+8
+Let r(d) = 7*d**2 + 33*d + 70. What is the thousands digit of r(14)?
+1
+Let n(o) = 5*o - 42. Let x be n(0). What is the units digit of x - -42 - (1 - 10/2)?
+4
+What is the hundreds digit of 1248/(-234)*-11*48?
+8
+Let b(x) = x**2 - 15*x + 14. Let z be b(14). Let l(i) = 2 + 11 + z*i**2 - 9 - 5*i + i**2. What is the tens digit of l(10)?
+5
+Let c be (-2)/(-4) + 4/(-6 + -2). Suppose 1811 = 5*q + v, 2*v + 3*v + 20 = c. What is the hundreds digit of q?
+3
+Let d be (-6280)/25*((-7)/2 + 1). Let f = d + -198. What is the tens digit of f?
+3
+Suppose -22*j + 141 = 31. Suppose j = 4*z - 5*p - 25, -3*p - 21 = -3*z. What is the units digit of z?
+5
+Let v be (3 + 0)*(-80)/6. Suppose 18*d + 414 + 504 = 0. Let r = v - d. What is the tens digit of r?
+1
+Suppose 0 = -27*a + 59923 - 1333. What is the thousands digit of a?
+2
+Let t(x) = 7*x**2 + 67*x + 388. What is the tens digit of t(-5)?
+2
+Suppose j + 22538 = 3*w, -w + 9572 = 5*j + 2086. What is the units digit of w?
+1
+Suppose 12 = 4*t, 4*x = 5*x - 4*t + 9. Suppose 5*y - 312 = -6*k + 3*k, x*y = -5*k + 504. What is the tens digit of k?
+9
+Let q(o) be the second derivative of 0 - 12*o**2 + 1/12*o**4 + 11*o + 7/6*o**3. What is the tens digit of q(-14)?
+7
+Suppose -18*v = 18*v - 13*v - 190762. What is the units digit of v?
+4
+Suppose 25 = 5*r + 5*g, 0*r + 15 = 2*r - 3*g. Suppose r*c = 7*c - 340. What is the units digit of c?
+0
+Let t = -217 + 179. Let h = 150 - t. What is the units digit of h?
+8
+Let t(v) = 2*v + 16. Let w(o) = -o**3 - 2*o**2 - o. Let l be w(-2). Let z be (-5)/(-15)*l*9. What is the units digit of t(z)?
+8
+What is the hundreds digit of (6896/(-10))/(36/(-90))?
+7
+Let v(u) = -u**3 - 10*u**2 + 4*u - 3. Let s be v(-10). Let i = s + 106. What is the units digit of i?
+3
+Let b be (-6)/4*(-64)/3. Suppose -27*v - 1325 = -b*v. What is the hundreds digit of v?
+2
+Let m(s) = 6*s - 68. Let r(j) = 137 - 11*j. Let u(c) = -5*m(c) - 2*r(c). What is the units digit of u(-14)?
+8
+Suppose -3*s = 2*s - 2*v + 680, 0 = -4*v + 20. Let d = 8 - 8. What is the tens digit of s/4*(d - 2)?
+6
+Let v(l) = -l - 11. Let o be v(-11). Suppose 5*x + 13 - 78 = o. What is the tens digit of x?
+1
+Let p(y) = -772*y - 1074. What is the thousands digit of p(-9)?
+5
+Let m(p) = 1084 - 26*p. What is the tens digit of m(-22)?
+5
+Suppose 3*c + 2*c = b + 40087, 8030 = c + 4*b. What is the tens digit of c?
+1
+Let v = 4585 + -3597. What is the hundreds digit of v?
+9
+Suppose 2*u + 9 = 3*n, 5*n = -0*n + 25. Let j be u + (-2 - 2)/(-4). What is the units digit of (-8)/(j - 0)*1/(-1)?
+2
+Let r(z) = -z**3 - 3*z**2 + 4*z + 3. Let n be r(-4). Let c be (2 - 0)/1 + 0/148. Suppose n*a - 440 = -c*a. What is the tens digit of a?
+8
+Let x = -4574 - -10816. What is the tens digit of x?
+4
+Suppose 21*r = 28 + 14. Suppose -14 = -2*k + r. What is the units digit of k?
+8
+What is the thousands digit of -6 + (-87)/(-18) - 2/(-12) - -9191?
+9
+Let p be (24/10)/(4 + (-148)/40). Let r(u) = u - 8. Let o be r(p). Suppose -7*b + 716 - 93 = o. What is the tens digit of b?
+8
+Suppose -133931 - 88104 + 44579 = -24*w. What is the thousands digit of w?
+7
+Let b = -3665 + 11596. What is the hundreds digit of b?
+9
+Suppose 3*t = -20 + 2. Let g be 26/(1/t*-4). Suppose 0 = -r - 8 + g. What is the units digit of r?
+1
+Let f(k) = -13*k**3 - k**2 + 2. Let q be f(2). Let t = 113 + q. What is the units digit of t?
+7

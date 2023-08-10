@@ -1,0 +1,200 @@
+Let o(s) = s**2 + 4566*s - 54910. Determine o(12).
+26
+Let y(g) = -189*g - 384. Calculate y(-2).
+-6
+Let v(d) = -4600*d - 9139. Determine v(-2).
+61
+Let o(u) = 68*u - 767. What is o(13)?
+117
+Let j(v) = -48220*v - 289318. Give j(-6).
+2
+Let b(o) = 5730 - 174*o. Calculate b(35).
+-360
+Let l(q) = -2*q**3 + 27*q**2 + 52*q - 967. Determine l(13).
+-122
+Let b(t) = 14*t**3 + 47*t**2 - 196*t - 9. Calculate b(4).
+855
+Let n(w) = 3*w**3 + 71*w**2 - 18*w + 280. Calculate n(-24).
+136
+Let f(j) = 25487*j - 101926. Calculate f(4).
+22
+Let z(l) = 800*l - 135182. Give z(169).
+18
+Let y(s) = -s**3 + 26*s**2 + 77*s + 27. Calculate y(28).
+615
+Let v(j) = -3*j**3 - 76*j**2 + 151*j - 43. Calculate v(-27).
+-475
+Let x(z) = 4765*z + 223959. Determine x(-47).
+4
+Let m(u) = -13*u**2 + 177*u + 17970. Determine m(-31).
+-10
+Let n(x) = 1513*x + 5887. Determine n(-4).
+-165
+Let b(r) = 28*r + 4116. Give b(-143).
+112
+Let f(j) = -112*j**2 + 2179*j + 2178. Determine f(-1).
+-113
+Let a(z) = 7819 - 1910*z. Give a(4).
+179
+Let d(n) = 1226*n + 7409. Determine d(-6).
+53
+Let r(q) = -q**2 + 44645*q - 133922. Determine r(3).
+4
+Let v(m) = m**3 + 2*m**2 - 1614*m - 8091. Give v(-5).
+-96
+Let z(k) = 6*k**3 - 847*k**2 + 127*k + 2034. What is z(141)?
+60
+Let t(z) = -8*z**2 + 948*z - 2234. Determine t(116).
+86
+Let m(g) = 3066*g - 3057. Determine m(1).
+9
+Let h(j) = j**2 + 102*j - 112321. What is h(-390)?
+-1
+Let c(f) = -2*f**2 + 4*f + 298. Give c(-24).
+-950
+Let x(p) = 3*p**3 + 176*p**2 - 136*p - 4543. What is x(-59)?
+0
+Let m(g) = 2332*g**2 - 9330*g + 4. Determine m(4).
+-4
+Let m(c) = 2*c**3 - 756*c**2 + 17651*c - 26. Determine m(25).
+-1
+Let g(c) = -c**3 - 97*c**2 + 432*c + 2884. Give g(-101).
+56
+Let h(u) = 72*u + 3236. Determine h(-63).
+-1300
+Let o(b) = -11*b**3 - 88*b**2 - 155*b - 8. Calculate o(-3).
+-38
+Let m(u) = -4*u**2 - 1263*u + 41857. Calculate m(-346).
+-9
+Let b(x) = -9005*x - 26988. Calculate b(-3).
+27
+Let o(v) = v**3 - 48*v**2 + 511*v - 6. Calculate o(32).
+-38
+Let m(v) = -96*v**2 + 1094*v + 2189. Calculate m(-2).
+-383
+Let t(b) = -834*b - 229343. What is t(-275)?
+7
+Let u(d) = 2*d**3 + 158*d**2 + 283*d - 78. What is u(-77)?
+1847
+Let g(j) = j**2 + 247*j - 9631. What is g(34)?
+-77
+Let z(t) = 4*t**2 - 10*t - 345. Give z(-8).
+-9
+Let g(m) = 274205 - 39172*m. Calculate g(7).
+1
+Let r(b) = 46*b**3 + 42*b**2 + 56*b + 14. What is r(-1)?
+-46
+Let f(s) = -1606*s - 6433. Determine f(-4).
+-9
+Let r(f) = f**2 + 85007*f + 170012. What is r(-2)?
+2
+Let p(c) = 200*c + 1018. Give p(-5).
+18
+Let k(v) = -41*v**2 - 59*v + 30. Calculate k(-2).
+-16
+Let r(l) = 4*l**2 + 973*l + 44100. Give r(-183).
+-3
+Let q(l) = -1035*l - 13663. What is q(-13)?
+-208
+Let b(d) = d**3 + 13*d**2 - 556*d + 46. Calculate b(-31).
+-16
+Let w(s) = s**3 - 11*s**2 - 80*s + 36. Give w(16).
+36
+Let p(b) = -10*b**2 + 643*b - 208. Calculate p(64).
+-16
+Let t(p) = -7306*p - 569856. Give t(-78).
+12
+Let m(l) = 28*l**2 + 189*l - 946. Give m(5).
+699
+Let p(f) = -31*f - 542. Calculate p(-40).
+698
+Let m(b) = -7*b**2 - 191*b - 2111. Give m(-12).
+-827
+Let v(i) = -2*i**3 + 121*i**2 + 166*i + 1223. Determine v(62).
+-17
+Let h(g) = -15*g**2 + 65*g + 683. Calculate h(-5).
+-17
+Let p(y) = 2*y**3 - 24*y**2 - 43*y + 488. Calculate p(13).
+267
+Let f(p) = -20687*p - 62062. Give f(-3).
+-1
+Let l(a) = 53261 - 1210*a. Calculate l(44).
+21
+Let s(m) = m**3 + 17*m**2 - 135*m - 1480. Determine s(-13).
+951
+Let k(y) = y**2 - 212*y + 8330. What is k(52)?
+10
+Let y(r) = -2*r**3 - 70*r**2 + 1906*r + 28. Give y(18).
+-8
+Let v(m) = -m**3 - 14*m**2 - 133*m - 1095. Calculate v(-11).
+5
+Let w(i) = i**2 - 101*i - 298. Give w(90).
+-1288
+Let w(d) = -d**2 - 352*d + 24216. Give w(59).
+-33
+Let z(u) = u**2 + 7098*u + 70843. Give z(-10).
+-37
+Let s(r) = 1426*r - 146850. What is s(103)?
+28
+Let b(f) = -f**3 - 405*f**2 + 25811*f - 2299. Calculate b(-461).
+6
+Let s(v) = -7*v**2 - 3494*v + 95576. Give s(26).
+0
+Let v(l) = -16*l**3 + 176*l**2 + 61*l - 679. Determine v(11).
+-8
+Let d(n) = 1792*n - 6970. Determine d(4).
+198
+Let u(h) = h**3 - 14*h**2 - 639*h + 8529. Give u(13).
+53
+Let a(m) = m**2 + 167*m + 1551. Determine a(-10).
+-19
+Let d(l) = 154*l + 1019. Give d(-6).
+95
+Let y(b) = -7*b**2 - 121*b + 967. Give y(6).
+-11
+Let p(c) = 7*c**3 + 298*c**2 - 135*c - 254. What is p(-43)?
+4
+Let k(m) = 7*m**2 + 26*m - 45. Determine k(3).
+96
+Let f(y) = 15*y**2 + 2061*y + 2880. Determine f(-136).
+24
+Let a(b) = 3*b**3 - 5*b**2 + 54*b - 11. What is a(0)?
+-11
+Let v(q) = -q**2 - 638*q + 32893. Determine v(48).
+-35
+Let n(l) = 1896*l - 1399254. Determine n(738).
+-6
+Let r(j) = j**2 - 82*j + 981. Give r(67).
+-24
+Let x(t) = -25*t**2 + 27*t - 19. Calculate x(3).
+-163
+Let f(o) = -o**3 - 89*o**2 - 1970*o - 1217. Determine f(-38).
+-1
+Let u(n) = 63*n**3 - 13*n**2 - n + 42. Give u(-2).
+-512
+Let i(d) = -d**3 + 61*d**2 + 286*d + 82. Determine i(-4).
+-22
+Let w(k) = 8690*k + 191210. What is w(-22)?
+30
+Let j(m) = m**3 - 26*m**2 + 84*m + 571. Calculate j(21).
+130
+Let j(c) = 337*c**3 - 2*c**2 + 173*c + 173. Calculate j(-1).
+-339
+Let t(k) = 1248*k + 49913. Determine t(-40).
+-7
+Let x(d) = 229899 - 25544*d. Give x(9).
+3
+Let f(u) = 39*u**2 - 237*u + 12. Determine f(2).
+-306
+Let l(m) = -3*m**2 + 144*m - 1492. Give l(11).
+-271
+Let t(v) = -451*v - 122671. Calculate t(-272).
+1
+Let q(p) = p**2 - 78*p + 1105. Calculate q(22).
+-127
+Let d(b) = 194*b**2 - 35114*b - 53. Calculate d(181).
+-53
+Let c(h) = -2*h**2 + 2457*h + 44867. Determine c(-18).
+-7
+Let a(h) = -10*h**2 - 172*h - 345. What is a(-2)?
+-41

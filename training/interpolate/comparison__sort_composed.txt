@@ -1,0 +1,200 @@
+Let k(b) = -2*b**2 - 33*b + 238. Let p be k(-22). Sort p, -42, -3.
+-42, p, -3
+Let z = -218/3 + 72. Let o be (-3)/4 + ((-6)/(-16))/((-57)/(-76)). Sort 3/8, -1, z, o in increasing order.
+-1, z, o, 3/8
+Let m(l) = -l**2 + l + 1. Let d(z) = z**3 + 5*z**2 - 18*z + 32. Let x(g) = -d(g) + 6*m(g). Let y be x(-13). Put 1, -35, y in ascending order.
+-35, y, 1
+Let k be 3478/376 + -9*1. Sort k, 0, 0.3, -233 in decreasing order.
+0.3, k, 0, -233
+Suppose 41 = 4*u - 4*x + 13, 5*x = u - 23. Suppose 2*v + 2 + 0 = u*h, -3*v = -3*h - 3. Put -2, 28, v in increasing order.
+-2, v, 28
+Let r be 4/5 - (-432)/(-40). Let c = r + 55. Let h = 43 - c. Sort 4, 2, h, 3 in ascending order.
+h, 2, 3, 4
+Let b(n) = -n**2 + 44*n + 245. Let o be b(49). Sort -5, 4, -4, o.
+-5, -4, o, 4
+Suppose -u + 60 = -5*k - 4*u, -k = u + 12. Let f = -11 - k. Let m be (-12)/8*(-10)/3. Sort m, f, -4, -2.
+-4, -2, f, m
+Let a(c) = 4*c + 4. Let p be a(-2). Let n = 4 - 9. Sort -9, p, n in increasing order.
+-9, n, p
+Let j = -467.2 - -459.1. Put -2/5, 3/4, j, -3, -1/5 in descending order.
+3/4, -1/5, -2/5, -3, j
+Let f = 3 + 0. Let a = 5536.6 + -5536. Sort -5, f, a.
+-5, a, f
+Let g = -1478 - -1474. Sort 48/7, 1/2, 3/8, -2, g.
+g, -2, 3/8, 1/2, 48/7
+Let t(v) = v**3 + 7*v**2 + 2*v - 20. Suppose 2*b + 2*i = -0*b - 2, b = -5*i + 19. Let a be t(b). Sort -79, -5, 3, a.
+-79, -5, 3, a
+Suppose -j - 2*j + 4*t - 6 = 0, -5*t - 6 = 3*j. Let c be (j*3)/((-756)/(-72)). Put 2, c, 4, 12 in descending order.
+12, 4, 2, c
+Let c = -28 + 33. Suppose m = 3*o - 49, -c*o - 25 = m + 16. Let r = -91/2 - m. Sort 1, 4, 0, r in decreasing order.
+4, 1, r, 0
+Let r = 0.114 - 0.14. Suppose 2*a - 3 = -n, 2*n = 3*a - 0*n - 8. Put a, 0, r in decreasing order.
+a, 0, r
+Let u = 45 + -148. Let o = -104 - u. Sort o, -1/19, 2, -0.4 in ascending order.
+o, -0.4, -1/19, 2
+Let j(t) = t**3 + 2*t**2 - 3*t - 4. Let q be j(-3). Let h = -33 - -33. Suppose -3*u - 7*m = -2*m - 9, 2*u + m + 1 = h. Sort u, 0, q in decreasing order.
+0, u, q
+Suppose 3*x + 0 = -4*s - 30, 0 = -3*s - 3*x - 21. Let y = s - -33/4. Sort -0.4, y, 0.2, 4 in increasing order.
+y, -0.4, 0.2, 4
+Let p(i) = 3*i - 19. Let w(a) = 6*a + 73. Let h be w(-11). Let m be p(h). Put m, 1, 32 in ascending order.
+1, m, 32
+Let a = 23.142 - 0.242. Let p = 23.2 - a. Sort -4, 4, -0.5, p in decreasing order.
+4, p, -0.5, -4
+Suppose 3*w = -2*b + 18, -2*w = 35*b - 32*b - 27. Sort b, 5, -3, -23, -4 in decreasing order.
+b, 5, -3, -4, -23
+Let p = 9 - 6. Suppose -364*u = -359*u - 10, 5*t + 21 = 3*u. Sort 16, -5, p, t in decreasing order.
+16, p, t, -5
+Let q be (-36)/6 + 9 + -2. Let s(j) = -j - 32. Let k be s(-17). Sort k, 2, q, -5 in descending order.
+2, q, -5, k
+Let z(a) = a**2 + 7*a - 20. Let h be (-128)/14 - 5/(-35). Let v be z(h). Let n = v + 6. Sort 5, -1, n in ascending order.
+-1, n, 5
+Let l = 0.251 + 1.747. Let w = l - -0.002. Sort -1/5, w, 0.6 in decreasing order.
+w, 0.6, -1/5
+Let x = -0.012 + 2.112. Let y be 2 - -10*10/(-60). Put y, -0.5, 0, x in descending order.
+x, y, 0, -0.5
+Suppose -4*t - 477 = 5*m, -5*t + 4 + 167 = -2*m. Sort 1, 0, 1/2, m.
+m, 0, 1/2, 1
+Let m = -2/4381 - -8768/13143. Sort -11, 0.28, m in increasing order.
+-11, 0.28, m
+Suppose 0 = 2*g + 5*u - 40, -g - 14*u + 15*u + 20 = 0. Sort -3, -2, 2, -4, g in decreasing order.
+g, 2, -2, -3, -4
+Let c be (14*2/8)/((-63)/(-126)) + -29. Let a(y) = -y**3 + y**2 + 2*y. Let x be a(2). Sort c, -5, x, 3 in decreasing order.
+3, x, -5, c
+Suppose 5*f - w - 34 = -2*w, -5*f - 2*w + 38 = 0. Let m be -6 + 5 - ((-2)/(-1) - f). Sort 1, m, -93, -2 in ascending order.
+-93, -2, 1, m
+Let x be (-9)/((-9)/3)*(-50)/(-15). Let r be 10/45 - (-75)/27. Suppose -2*j + 17 - 19 = 0. Put j, x, r, -5 in ascending order.
+-5, j, r, x
+Let x be 39/(-12) - -3 - (-361)/(-76). Sort 11, 28, 1, 2, x.
+x, 1, 2, 11, 28
+Let p = -11.86 + 11.76. Suppose 0 = -5*k - 3*u - 4, 4*k = -3*u - 2. Put p, 1/6, 2/7, k in descending order.
+2/7, 1/6, p, k
+Suppose -5*p = 5*n + 840, 4*p - 5*n = -147 - 543. Let c be (-2)/(-6) + p/51. Put 0, c, -6 in ascending order.
+-6, c, 0
+Let q(j) = -j + j - 2*j - 16 + j. Let t be q(-11). Suppose -42 = 32*w - 138. Sort w, 5, t.
+t, w, 5
+Let z = -18 + -93. Let x = z - -554/5. Sort -5, x, -2/9, 1 in ascending order.
+-5, -2/9, x, 1
+Let f be (5 + -2 - -5)/((-4)/(-34)). Suppose 4*j - 20 = f. Sort 3, j, 2, -3 in decreasing order.
+j, 3, 2, -3
+Let o be (-2)/(-5)*(-1)/(-2)*1785/714. Put o, -0.3, -4, -3/4, 5/2 in decreasing order.
+5/2, o, -0.3, -3/4, -4
+Let l = -7 - -13.4. Let y = l - 7.4. Let g be (-2)/2 + (-10)/5. Put g, 1, y, 2/5 in descending order.
+1, 2/5, y, g
+Suppose 0 = -17*r + 14*r + 9. Suppose -r*w - 9 = 5*f, f + 5*w = 5*f + 22. Sort -26, 4, f in descending order.
+4, f, -26
+Let m(l) = 27*l - 22. Let z be m(1). Let o be (-3 - (-2 + 0))*3 - 2. Let t(k) = k**2 + 3*k. Let f be t(-3). Sort o, -3, f, z in decreasing order.
+z, f, -3, o
+Let x = 189 - 154. Suppose 2*w + 21 = 27. Put x, w, 5 in descending order.
+x, 5, w
+Let t(c) = -c**2 - 6*c - 6. Let n be t(-5). Suppose 2*f = 3*p - 8, -12 = 9*p - 11*p. Sort n, 39, f in increasing order.
+n, f, 39
+Let y = 2793.7 + -2792. Put 0.4, y, 8, -2/3 in increasing order.
+-2/3, 0.4, y, 8
+Let o(r) = r - 1. Let v be o(2). Let w = -209 - -205. Let g = 955/8 - 119. Put v, w, g, 1/2 in increasing order.
+w, g, 1/2, v
+Let x = 36.93 + -37. Let q = x + -0.43. Let v = 5.4 - 4.4. Sort -2/3, v, q, 2/11 in descending order.
+v, 2/11, q, -2/3
+Let i = 0 - -0.04. Let f be 2/(-7*2/(-2)). Let x = -39784 + 159133/4. Sort 1/8, x, i, f in ascending order.
+x, i, 1/8, f
+Let o = -26.962 + 26.99. Sort 0.4, 0.2, o in decreasing order.
+0.4, 0.2, o
+Suppose 4*g - 23 = 9. Suppose -3*v = h - 5, -2*v = -h + 4*h - 15. Put h, 6, g in ascending order.
+h, 6, g
+Let g = -0.04 - 1.46. Let t = 4.8829 + -9.8829. Put t, 5, g, -1/2 in descending order.
+5, -1/2, g, t
+Suppose -4*t = -q + 20, 0*q = -5*t - 5*q. Suppose -3*h + 16 = -41*r + 46*r, 2*h - r + 11 = 0. Put h, t, 4, 3 in decreasing order.
+4, 3, h, t
+Let k be 2/6 - 30450/495. Let a = k - -61. Let y(p) = 2*p**2 - p - 1. Let g be y(2). Put a, g, -4, -1/2 in ascending order.
+-4, -1/2, a, g
+Let g = -2357 - -2364. Put 86, g, 3, -1 in increasing order.
+-1, 3, g, 86
+Suppose -2*f = -7*f - 15. Let s(m) = 19*m + 72. Let k be s(-4). Sort 6, 3, k, f.
+k, f, 3, 6
+Let x = 10.54 + -11. Let p(c) = 2*c**3 - 24*c**2 + 78*c - 35. Let n be p(6). Sort -2, n, x.
+-2, x, n
+Suppose m = 5*j + 15, -5*m - 4*j - 36 = 5. Let r(o) = o**3 - 11*o**2 + 19*o - 4. Let q be r(9). Sort m, 1, q, 0 in decreasing order.
+q, 1, 0, m
+Let y be 1 + -5 + 0 + 7/2. Let t be 2/((3 - 0) + -8). Let v = 13.1 - 13. Put 4, y, v, t in decreasing order.
+4, v, t, y
+Let i be -1 - (-1)/(0 - -1). Let s be (i - (-3)/(-2)) + 13/2. Put -8, 2, 3, s in increasing order.
+-8, 2, 3, s
+Let b = -0.4054 + 0.8054. Sort b, -0.4, 3, -3, -64 in decreasing order.
+3, b, -0.4, -3, -64
+Let a = -4401 - -4403. Put -1093, 3, a in increasing order.
+-1093, a, 3
+Suppose -y + 46 = -g + 3*y, 3*g + 3*y + 183 = 0. Let k be ((-5)/15)/((-5)/2*(-6)/90). Put k, g, 4 in decreasing order.
+4, k, g
+Let u = -4752.4 + 4752. Sort 0.08, 88, u.
+u, 0.08, 88
+Let a be 2/9 + -102*(-6)/162. Let d be (-1)/(-14)*(-8 + a - -8). Sort d, 1/29, 4, 3.
+1/29, d, 3, 4
+Let p = -159 - -53. Let i = -106 - p. Sort i, -3/2, 0.4 in descending order.
+0.4, i, -3/2
+Suppose -h = 2*u + 2, 5*u + 4*h = 8*h - 18. Let w = -111 - -117. Suppose -76 = 5*d - 3*o, -3*d = -w*d - 5*o - 66. Sort d, 5, u in increasing order.
+d, u, 5
+Let d be 0/(((-9)/(-6) - 1)*-4). Suppose d = 3*g - 20 + 29. Let t = 2.6 + 0.4. Put t, -0.4, 1, g in increasing order.
+g, -0.4, 1, t
+Suppose 19*a = a + 252. Let w be -3 + -2*(a/(-20) - 1). Put w, 3/4, -5/11, 1 in descending order.
+1, 3/4, w, -5/11
+Let o(v) = -17*v**2 - 3*v. Let s be o(2). Let q = 44 + s. Let l be 2*(-3)/q + 3/15. Put l, 0.2, -2/9, 0 in ascending order.
+-2/9, 0, 0.2, l
+Let a = -235 - -234. Let b = -2162/9 - -240. Put a, b, -0.03, 1 in descending order.
+1, -0.03, b, a
+Let a = -19571 + 19570. Let n(y) = 2*y - 1. Let u be n(-2). Suppose p = -5*d - 20, 5*d - p + 6 = -4. Sort d, 0, u, a in descending order.
+0, a, d, u
+Let j = 283/360 - -1/72. Let b = -108 + 105. Put j, b, -0.5 in ascending order.
+b, -0.5, j
+Let v = 2.6 - 2. Let h = 1.6 - 4.6. Let q be (-4)/34 - (-9213)/(-1887). Sort q, h, -0.1, v.
+q, h, -0.1, v
+Let w = 0.6 + -0.35. Let d = -182.25 - -163. Let t = d + w. Put 4, -1/4, t in descending order.
+4, -1/4, t
+Let g = -7681 - -7663. Suppose -4*q = 4*k - 8, 6*k + 3*q = 2*k + 9. Sort k, g, -1.
+g, -1, k
+Let v = -664.3 - -664. Let d be (-2)/(-8) - 46/(-8). Sort v, d, 0.2 in descending order.
+d, 0.2, v
+Let s = 217 - 201. Let l be (s/120*-5)/(2/(-6)). Put 7, l, -0.4 in increasing order.
+-0.4, l, 7
+Let q(y) = -19 - 28 - 6*y - 5 + 31. Let w be q(-4). Sort -3, 1, w in ascending order.
+-3, 1, w
+Suppose -178 = -4*s - 186. Let o = 0.57 + -0.07. Put -28, -4/7, o, s in descending order.
+o, -4/7, s, -28
+Suppose 5*d - 25 = 0, -d = l + 89 + 266. Let y = -723/2 - l. Let j = 3.01 + -0.01. Sort j, 4, -4, y in descending order.
+4, j, y, -4
+Suppose -3*b = 2*v + 12, 2*b + 8 = -0*v - v. Suppose 2*o - 153 = -145. Put 1, b, o in increasing order.
+b, 1, o
+Let q = -18 - -104. Suppose -2*h + 2*o = q, h - o = o - 44. Let z = -40 - h. Put 0, -5, z in descending order.
+z, 0, -5
+Let q(u) = -24*u - 25. Let i be q(-2). Let m(h) = h**3 - 22*h**2 - 24*h + 18. Let y be m(i). Sort 3, 0, 4, y.
+y, 0, 3, 4
+Let i be 12*13/52 + 28/(-8). Put 5/3, -13, i in descending order.
+5/3, i, -13
+Suppose 0 = 3*x + 5*j - 95, 83 = 3*x - 3*j + 5*j. Suppose -z = -21 + x. Put z, 0, 1, -3 in descending order.
+1, 0, -3, z
+Suppose -2*f = -3*f. Suppose 3*g - 5*g = f. Suppose 4 = b, s - 3*s - 30 = -5*b. Put s, g, -8 in ascending order.
+-8, s, g
+Let a = 141 + -141.4. Let u = -326 + 1626/5. Sort a, u, -7/6, 5 in ascending order.
+-7/6, u, a, 5
+Let w = -11 + 11.09. Suppose 12*d + 108 = 6*d. Let r be (-1 - 1)*d/36. Sort 4, w, r in decreasing order.
+4, r, w
+Let g be 8/(-12)*(24 - 6). Put g, -5, -2, 5 in ascending order.
+g, -5, -2, 5
+Suppose -3*n + 17 - 44 = 0. Let a(f) = -2*f**2 - 4*f**2 - f + 2*f**2 - f**3 + 3*f**2 + 3. Let r be a(0). Sort 4, n, r, -1 in decreasing order.
+4, r, -1, n
+Suppose 37*l - 135 + 240 = -228. Sort 5, -4, -3, 3, l in increasing order.
+l, -4, -3, 3, 5
+Let o be (3/5)/((-2)/20) + 2. Put o, -20, -5, -3, 4 in decreasing order.
+4, -3, o, -5, -20
+Suppose -2*m + 0*m + 42 = 0. Let b be 56/m*(-3)/(-2). Suppose 4*k - x + 14 = -6, k = -2*x + b. Put 2, -10, k, -1 in decreasing order.
+2, -1, k, -10
+Let f = 0.32 + -0.3. Let c = -2/93 + -265/651. Let w = -28001/2 + 14000. Sort -1, f, c, w in descending order.
+f, c, w, -1
+Let a be ((-6)/(-18))/((-2)/(30*1)). Let o = -115 - -121.3. Let f = o - 4.3. Sort -1/6, a, f in decreasing order.
+f, -1/6, a
+Suppose 0 = 25*r + 21*r - 76*r + 30. Put -5, 4, -4, r in decreasing order.
+4, r, -4, -5
+Let o be (39/52)/(((-3)/24)/((-21)/945)). Let b = -6 - -1. Sort 4/5, o, -1/2, b in descending order.
+4/5, o, -1/2, b
+Let l = -1/6 - 1/6. Put -0.3, 2, l, -1/5, 7 in decreasing order.
+7, 2, -1/5, -0.3, l
+Let s be (-1*(-1 + 0 - -1))/1. Suppose 5*x = -2*j + 14, x - 16 = 27*j - 23*j. Sort -4, 5, s, j in decreasing order.
+5, s, j, -4

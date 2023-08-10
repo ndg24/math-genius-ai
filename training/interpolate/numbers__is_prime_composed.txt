@@ -1,0 +1,200 @@
+Let k(j) = -8*j**2 + j. Let r(v) be the first derivative of 25*v**3/3 - 3*v**2/2 + 15. Let o(n) = -7*k(n) - 2*r(n). Is o(-5) a prime number?
+False
+Let i be 1/(-3) - (5168/12 + 3). Let h = i + 813. Is h a prime number?
+True
+Suppose -11 = -3*s + a, s + 4*s - 25 = 3*a. Suppose 7*q - 1901 = -3*b + 9*q, -1885 = -3*b - s*q. Is b prime?
+True
+Is (-21003)/(-3) + (8 - 8) a prime number?
+True
+Is (-1)/(-1)*18/90 - (-3015132)/15 a prime number?
+False
+Let f be (-3)/(0 + 3)*2841 + 1. Let z = 4494 + f. Is z prime?
+False
+Let m be 14/(-4)*(-1 + 3/7). Suppose -m*b - 2*b = -316. Is b prime?
+True
+Suppose -7*o + 16*o = 0. Suppose 22*c - 14*c - 1064 = o. Is c a composite number?
+True
+Let h(s) = 1269*s + 34. Let q be h(9). Suppose 3*v - q = -2*v. Is v a prime number?
+False
+Let x = -162 + 165. Suppose -c = -x*w + 8*w - 392, 3*w = -3*c + 1188. Is c composite?
+False
+Is (-544138)/(-6) - (-9 - (145/3)/(-5)) prime?
+False
+Let j = 65 + -62. Let p be (8 - 4)/(4/3). Suppose -p*u - j*u + 8454 = 0. Is u a prime number?
+True
+Let t(z) = -165*z**3 - 2*z**2 - 4*z - 1. Suppose 5*q + 10 = 13*v - 10*v, 6 = -3*q - 3*v. Is t(q) prime?
+True
+Let p(c) = c**3 - 12*c**2 - 14*c + 5. Let t be p(13). Let i be (1*(-3 - -2))/(2/t). Suppose i*w + 324 = -2*s + 4*s, -476 = -3*s + w. Is s prime?
+False
+Let r = -144 - -555. Suppose -r = -k + 740. Is k composite?
+False
+Suppose 26*g - 29*g + 12843 = 0. Let x = g - 3038. Is x a prime number?
+False
+Let u(x) = 107906*x**2 - x. Is u(-1) a composite number?
+True
+Let g(h) = -28681*h - 593. Is g(-6) composite?
+True
+Suppose 4*u = 5*b, -2*b - 11 = u - 6*b. Suppose -j - 6 = -p, 3*p = -p - u*j + 15. Suppose p*y + 3*o - 1713 + 472 = 0, -4*o + 502 = 2*y. Is y a composite number?
+True
+Let x = 65 + -65. Suppose 7*h - 2*h - 1315 = x. Is h composite?
+False
+Let m(g) = 12314*g**3 - g + 2. Let l be m(1). Suppose 0 = -23*v + 28*v - l. Is v a prime number?
+False
+Let b(y) = 7026 - 2*y**2. Let w be b(0). Suppose 0 = g - w + 2005. Is g composite?
+False
+Let a = -280 - -177. Let j = 748 - a. Is j prime?
+False
+Suppose c + 5*c + 192 = 0. Let o = 35 + c. Suppose -o*u = -3*f + 1632, -4*u - u = -f + 556. Is f a prime number?
+True
+Let m(j) = j**2 + 7*j - 24. Let f be m(-10). Suppose -3*d - f = -d, -4*o + d + 15 = 0. Suppose 20 = p - 5*r, -r + 0*r + o = 0. Is p a prime number?
+False
+Suppose 5*t + 2*x = 107644, -5*t + 3*x + 107647 = 4*x. Suppose -s + t = 9*s. Is s prime?
+True
+Suppose -u + 6 = 4*i - 18, 0 = i - 5. Let w be (12/(-10))/(u/(-10)). Is w + -2 - (-1 - 0 - 23) a prime number?
+False
+Let n(c) = -2012*c - 493. Is n(-4) prime?
+False
+Let g(w) = -14*w**2 + w + 48. Let v be g(6). Suppose -5*l - 338 + 90 = 3*o, 3*l + o + 152 = 0. Let a = l - v. Is a a composite number?
+True
+Let u = -20 + 11. Let a be ((-6)/u - (-2)/(-3))/(-2). Suppose 3*j = -a*j + 2763. Is j a composite number?
+True
+Suppose -3*g + 27 = -c + 3*c, -5*c + 55 = 5*g. Suppose -c*l - 347 + 17 = 0. Let v = 324 + l. Is v a composite number?
+False
+Suppose -5*t + 160325 = 5*y, -5*t = -0*t + 2*y - 160337. Is t a composite number?
+False
+Let y = 76 - 74. Suppose -y*c + 3022 = d, 2*c - d = d + 3022. Is c prime?
+True
+Let a(x) = x**3 + 69*x**2 - 69*x - 365. Is a(-68) composite?
+False
+Suppose 8667 - 52317 = -18*f. Let c = -1376 + f. Is c prime?
+True
+Is (2/(-6))/((-31)/9167847) prime?
+False
+Let k(p) = 82*p**2 - 47*p + 323. Is k(10) a composite number?
+False
+Is ((5 - 2)/(-6))/(2 + (-782151)/391074) a composite number?
+False
+Suppose -180 = 5*m - 3*u - u, -3*m - 5*u = 71. Let h be m/(-2 + (-112)/(-57)). Let i = h + -505. Is i a prime number?
+False
+Let z(n) = -2*n**2 + 9*n + 10. Let x be z(5). Suppose 0 = -3*v + x*v + 2*f - 1014, 2567 = 5*v - 3*f. Is v prime?
+False
+Let p = -124726 - -182597. Is p a composite number?
+True
+Suppose -3*s - 18 + 968 = -5*w, 0 = 2*s - 4*w - 634. Suppose -1 = -z + 2, 5*z = 2*p - s. Suppose 0 = -u + p + 52. Is u a prime number?
+False
+Let r(v) = -78*v - 43. Let j(y) = y + 1. Let c(z) = -3*j(z) + r(z). Is c(-7) prime?
+True
+Let q(i) = 152*i**2 - 11*i + 26. Suppose 4*s = 7*s - 9. Is q(s) composite?
+False
+Let g = -161 + 162. Is (-10346)/(-7) - (g + 0) a composite number?
+True
+Suppose 7012496 = 81*r + 2029943. Is r a prime number?
+False
+Let y = 2819 + 18452. Is y prime?
+False
+Suppose 7*w = 11*w - 20. Is 325 + (-11 + w - 0) a composite number?
+True
+Is (0 + 1337391/12 - -1) + 138/184 prime?
+False
+Suppose 3*u - 63742 = -j, -21*u + 17*u + 84983 = -5*j. Is u prime?
+True
+Let b = -96998 + 180175. Is b a prime number?
+True
+Let n(w) = -3*w**3 + 62*w**2 - 32*w - 257. Is n(-18) composite?
+True
+Let d be -3*4/18 + (-20)/15. Is ((-10857)/d)/3 - (-6)/4 a composite number?
+False
+Is ((-41137)/124)/((-4652)/(-1552) + -3 - 0) a prime number?
+False
+Let t(y) = 22 - 4*y. Let o be t(6). Let p(u) = 708*u**2 - 5*u - 3. Is p(o) a composite number?
+True
+Let t(k) = -k**3 - 8*k**2 - k. Let i be t(-4). Let s be i/27 + 2 - 21/27. Is (-22445)/(-35) - 2*s/(-7) a prime number?
+True
+Let n(p) = 448*p**2 + 89*p + 1057. Is n(-14) a composite number?
+True
+Let i be (4/6)/(5/(-30)). Let z(n) = 6*n - 3*n**2 - 9*n**3 + 2*n**2 + 8*n**2 - 2*n**2 + 3. Is z(i) prime?
+False
+Let n(l) = 745*l**2 + 5*l - 1. Is n(10) a prime number?
+False
+Let v(a) = 0*a - 2*a**2 - 14 + a + a**3 + 2*a - 7*a**2. Let d be v(10). Suppose -2*f + d + 111 = c, 0 = 2*c - 10. Is f a prime number?
+False
+Let v(l) = -27 + l**3 + 10*l**2 - 2*l**3 + l + 13. Let q be v(10). Is (2 + q)/(-10) - (-12128)/10 composite?
+False
+Suppose f - 3*f - 26 = -2*g, 0 = -f + 2*g - 18. Is 5654/f*(-2 - (-1 + 3)) a composite number?
+True
+Suppose -86*s = -85*s + 1. Let x(g) = 114*g**2 - 1. Is x(s) a composite number?
+False
+Suppose -52*j = -49*j - 147. Let b be (j/(-35))/(1/(-5)). Suppose -b*w = -434 - 581. Is w a prime number?
+False
+Is 51772/7 - (81/9)/3 a prime number?
+True
+Let x = 10252 + -6927. Suppose 2*q - 5563 = -5*u, 9*u - 2*q - x = 6*u. Is u prime?
+False
+Let f(n) = -n**3 + 59*n**2 - 74*n + 21. Is f(32) a prime number?
+True
+Let b = -68315 - -192072. Is b a composite number?
+False
+Suppose a + p - 11811 = -2487, -9328 = -a + p. Is a a composite number?
+True
+Let r = -2667 + 757. Let l = -3 - r. Is l a prime number?
+True
+Let t(m) = -2*m**3 - 5*m**2 + m - 7. Suppose -2*q = 13 - 3. Let u be t(q). Suppose u = 17*k - 16*k. Is k a composite number?
+False
+Suppose -4*u + 2*g = -0*u - 32, -4*u + 44 = -5*g. Is 9/6*(5 + 7862/u) composite?
+False
+Let i = -4 + -22. Let k = i - -39. Suppose -14*v + 907 = -k*v. Is v a composite number?
+False
+Let a(s) = -s**3 + 4*s**2 + 5*s + 6. Let q be a(5). Suppose -2*f + 2*i - 75 + 11 = 0, -2*i + 100 = -3*f. Is (f + -3)*(-10)/q composite?
+True
+Suppose 8 = 3*j - j. Suppose j*o = 3*d - 518, -2*d + 855 = 3*d - 5*o. Suppose -h = -165 - d. Is h prime?
+True
+Let f(b) = 239*b - 47. Let s be f(10). Let v = s + -602. Is v composite?
+False
+Let s be (5 - 3356)*212/(-6). Is 56/(-196) - s/(-14) a composite number?
+True
+Let m = 1868 + -1199. Let r = -2 + 5. Suppose m = r*z + 72. Is z a prime number?
+True
+Suppose -22*y + 48 = -6*y. Suppose o - 3*s - 1049 - 873 = 0, y = s. Is o a prime number?
+True
+Let p = -4245 + 6466. Suppose -p = -5*y + 2*h, 3*h + 895 = 5*y - 3*y. Is y composite?
+False
+Let z be 1/((-33)/9 - -4). Suppose z*c - 2*c = 7566. Suppose -3*d + 9*d = c. Is d composite?
+True
+Suppose -88*a - 8180999 = -147*a. Is a a prime number?
+True
+Let m(a) = 1471*a**2 - 9*a - 38. Let n be m(-3). Is -1*n/(-4) - -6 composite?
+False
+Suppose d - 6*d - 4*q = 106, d = q - 14. Is (-2 + 19128/d)/(6/(-9)) composite?
+False
+Suppose -53 = -5*b - 123. Let l(n) = 10*n**2 + 10*n + 2. Is l(b) a composite number?
+True
+Let n(b) = 4 + 74*b**2 - 3 + 6*b - 23*b**2. Let v = 1096 - 1102. Is n(v) composite?
+False
+Let a(q) = q**3 + 45*q**2 - 16*q - 85. Is a(35) composite?
+True
+Suppose 5*a + 2*c - 8837 = 0, -5*a + 5*c + 8825 = 10*c. Suppose -p = 2*f - a, -2*f - 2*p + 1336 = -428. Is f composite?
+False
+Let y(i) = -5*i**2 + 31*i + 36. Let n(z) = 5*z - 19*z**2 + 17*z**2 + 12 + 5*z. Let r(j) = 8*n(j) - 3*y(j). Is r(-11) prime?
+False
+Suppose 4*c + 4*z = -52, -4*z - 32 - 33 = 5*c. Let x = c - -50. Is x composite?
+False
+Suppose -4769 - 15436 = -y. Suppose -5*k - y = -5*u, 20191 = 5*u + 7*k - 5*k. Is u a composite number?
+True
+Suppose 0 = -64*u + 63*u - 3*m + 50615, 5*m = -2*u + 101234. Is u composite?
+False
+Suppose 4*l = c + 4849, -3*l - 4*c + 5713 = 2081. Let k(t) = -80*t**2 + t + 1. Let j be k(2). Let i = j + l. Is i a composite number?
+True
+Suppose -7*r + 11111 = -2*m - 4*r, -5*m - 4*r - 27766 = 0. Let t = -3801 - m. Is t a prime number?
+True
+Suppose 0 = -2*g + m + 11, 7 = g + 3*g + m. Suppose 2*n + 4*a + 816 = 6*n, -g*n - 4*a + 619 = 0. Suppose -n = v - 858. Is v prime?
+True
+Let l be ((-44)/(-33))/((-2)/42). Let w(y) = -2*y**3 + 5*y**2 - 3*y - 1. Let g be w(4). Let k = l - g. Is k prime?
+False
+Let z(g) = 3*g**2 + 2*g + 181. Let j be z(0). Suppose 2*m - j - 2017 = 0. Is m composite?
+True
+Let t(h) = 5*h**3 + 5*h**2 - 7*h + 2. Let z = 199 + -190. Is t(z) composite?
+False
+Is (12 - (0 - -9)) + 234178 prime?
+True
+Let h(j) = 10*j - 95*j - 3*j - 86*j - 1. Is h(-3) prime?
+True

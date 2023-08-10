@@ -1,0 +1,200 @@
+Sort 218, -44, 2, -70, 1 in decreasing order.
+218, 2, 1, -44, -70
+Sort -34, -19, -4, 38, -1 in descending order.
+38, -1, -4, -19, -34
+Sort 6, 95, -26, -20.
+-26, -20, 6, 95
+Sort 3, -54.575, 0.05 in ascending order.
+-54.575, 0.05, 3
+Put 2/7, -2/49, -1/2, -3/7090 in increasing order.
+-1/2, -2/49, -3/7090, 2/7
+Put 3, -26, -2173 in descending order.
+3, -26, -2173
+Put 2, -82, -6, -2, 1, 0, -9 in descending order.
+2, 1, 0, -2, -6, -9, -82
+Put 112, 17, -25, -28, 3 in decreasing order.
+112, 17, 3, -25, -28
+Sort -930, -0.3, 13/6, -3/7.
+-930, -3/7, -0.3, 13/6
+Sort 263608, -1, 4 in descending order.
+263608, 4, -1
+Put -40, 210, 5/6, -3/11 in decreasing order.
+210, 5/6, -3/11, -40
+Sort -1, -331, -151.58 in descending order.
+-1, -151.58, -331
+Sort 3307, 384, -4 in increasing order.
+-4, 384, 3307
+Sort 4, -5, -2, 44, 163, -1, -4.
+-5, -4, -2, -1, 4, 44, 163
+Sort 0, 6, 37, -3, -1, -84, -5 in decreasing order.
+37, 6, 0, -1, -3, -5, -84
+Sort 3816, 6, -53 in ascending order.
+-53, 6, 3816
+Put -63, 236, -14, 4 in ascending order.
+-63, -14, 4, 236
+Sort 5, 3, 18, 12, -93 in ascending order.
+-93, 3, 5, 12, 18
+Sort -1, 4, -2, 9, 874, 5 in decreasing order.
+874, 9, 5, 4, -1, -2
+Put 14, 1, -3, 11, 4, -4, -5 in increasing order.
+-5, -4, -3, 1, 4, 11, 14
+Sort 4/599, -2/21, -5, 4, -9, -0.5.
+-9, -5, -0.5, -2/21, 4/599, 4
+Sort -177, -167, 177 in increasing order.
+-177, -167, 177
+Put -3, 3, -1, 27957, 0.8 in ascending order.
+-3, -1, 0.8, 3, 27957
+Sort -11/6, 7/4, -4, -76, -0.43 in descending order.
+7/4, -0.43, -11/6, -4, -76
+Put -2/7, -0.3, -103, 4, -133 in descending order.
+4, -2/7, -0.3, -103, -133
+Put -3, 60035, 29 in increasing order.
+-3, 29, 60035
+Put -0.233, -156, -9, -2/3, 0 in ascending order.
+-156, -9, -2/3, -0.233, 0
+Sort 27, 3, 5, 1, -1565 in descending order.
+27, 5, 3, 1, -1565
+Put 2/17, -1/9, -3.333, 5 in descending order.
+5, 2/17, -1/9, -3.333
+Sort 5, 2, -1074, 0, -238 in increasing order.
+-1074, -238, 0, 2, 5
+Put 1, -15, 2, 110, 8 in increasing order.
+-15, 1, 2, 8, 110
+Sort 1960, -4/9, -26, -2/15 in increasing order.
+-26, -4/9, -2/15, 1960
+Sort -26, -96, 441, -2/5 in increasing order.
+-96, -26, -2/5, 441
+Sort 70/29, -24.4, 1/3 in increasing order.
+-24.4, 1/3, 70/29
+Put 6, 37, 117, 17 in decreasing order.
+117, 37, 17, 6
+Put -569, -4, -5, 2, 5, 1, 50 in descending order.
+50, 5, 2, 1, -4, -5, -569
+Put 28, -39, 137, -4 in decreasing order.
+137, 28, -4, -39
+Sort 5, -223, 831.
+-223, 5, 831
+Sort 14, 7/2, -0.104, -18.
+-18, -0.104, 7/2, 14
+Put 39, -3, -5, 20430 in decreasing order.
+20430, 39, -3, -5
+Sort -190434, 15, 2 in ascending order.
+-190434, 2, 15
+Put 0.1, -20, -2, -0.0168 in increasing order.
+-20, -2, -0.0168, 0.1
+Put 10, 1, -14, 2042 in descending order.
+2042, 10, 1, -14
+Sort -1, 3, 10, 5, -52, -60.
+-60, -52, -1, 3, 5, 10
+Sort 0.06, -0.11, -914, 3/4, 0.1.
+-914, -0.11, 0.06, 0.1, 3/4
+Put -2, -1, 9, 41, -7, 4, -4 in ascending order.
+-7, -4, -2, -1, 4, 9, 41
+Put 4, 38, -0.3, 178, 0.3, 2 in descending order.
+178, 38, 4, 2, 0.3, -0.3
+Sort 0, -1, -2, -3, -17, -398.
+-398, -17, -3, -2, -1, 0
+Put -4, -1, 0, -702, 1, 5 in descending order.
+5, 1, 0, -1, -4, -702
+Sort 0, 1, 9, -119, 3, 7, -3 in descending order.
+9, 7, 3, 1, 0, -3, -119
+Put -6, -4011, -1, -17, 1 in descending order.
+1, -1, -6, -17, -4011
+Put 125, -1, -1645, 6 in ascending order.
+-1645, -1, 6, 125
+Put -0.07, -119, 4/107, -1/3 in ascending order.
+-119, -1/3, -0.07, 4/107
+Put -5, -1, -4392/7, 9 in descending order.
+9, -1, -5, -4392/7
+Put -3/8, -0.149233, 0 in decreasing order.
+0, -0.149233, -3/8
+Put -8, -43, -5, 57, 3 in ascending order.
+-43, -8, -5, 3, 57
+Sort -14, -4, 4, 1181 in descending order.
+1181, 4, -4, -14
+Sort -10, -2, -27169, 4 in descending order.
+4, -2, -10, -27169
+Sort -233587, -11, -3.
+-233587, -11, -3
+Put 26, 0, 0.5, 741/10, 0.3 in decreasing order.
+741/10, 26, 0.5, 0.3, 0
+Put 5, -622, 1, 44 in decreasing order.
+44, 5, 1, -622
+Sort 5, 92, -1484, -16 in increasing order.
+-1484, -16, 5, 92
+Put -14, -4, -51090, 3 in ascending order.
+-51090, -14, -4, 3
+Put 387, 9, 4, -3, -21, -2 in ascending order.
+-21, -3, -2, 4, 9, 387
+Sort -18, -4, -61, 155 in increasing order.
+-61, -18, -4, 155
+Sort 2/83, 0.2, 5/6, 1/8, 5, -1 in descending order.
+5, 5/6, 0.2, 1/8, 2/83, -1
+Sort 0, 2/9, 2, -2/97, 4, -0.15, 18.
+-0.15, -2/97, 0, 2/9, 2, 4, 18
+Sort 6, -4, 4.8, 3, 2 in ascending order.
+-4, 2, 3, 4.8, 6
+Put 5, -42, -2, -8, 0, 2, 11 in decreasing order.
+11, 5, 2, 0, -2, -8, -42
+Put -6, -63, -136, -3 in ascending order.
+-136, -63, -6, -3
+Sort -0.97, 4, 2/16213 in increasing order.
+-0.97, 2/16213, 4
+Sort 0, -27, -3, 5, 3, -5, 113 in ascending order.
+-27, -5, -3, 0, 3, 5, 113
+Put -7687, 1, -59, -1 in ascending order.
+-7687, -59, -1, 1
+Sort 5, 1, 10, 129, 2, 0, 28 in decreasing order.
+129, 28, 10, 5, 2, 1, 0
+Put -2, 1, 10, -1, -65 in decreasing order.
+10, 1, -1, -2, -65
+Put -28, -2, -216, -25, 3 in ascending order.
+-216, -28, -25, -2, 3
+Put 16, 3, -15, 1796 in ascending order.
+-15, 3, 16, 1796
+Sort 0, 0.18, -3, 14816/5, 1/4 in decreasing order.
+14816/5, 1/4, 0.18, 0, -3
+Sort -2254, 0, -192 in ascending order.
+-2254, -192, 0
+Sort -1, -4, 10, 2, -0.5, 60450.
+-4, -1, -0.5, 2, 10, 60450
+Put 4, 49, 1179, -2 in decreasing order.
+1179, 49, 4, -2
+Put -117, 7, 0, -108 in decreasing order.
+7, 0, -108, -117
+Put -1, -1.5, 42.503 in decreasing order.
+42.503, -1, -1.5
+Put 2, 5, 4, 1298, -1/4, -2/29 in increasing order.
+-1/4, -2/29, 2, 4, 5, 1298
+Put 2, 0, 1, -18, 5, 21, 3 in ascending order.
+-18, 0, 1, 2, 3, 5, 21
+Put 3, -2, -6, 4208, -1 in decreasing order.
+4208, 3, -1, -2, -6
+Sort 116749, 0, 6 in descending order.
+116749, 6, 0
+Put 0.1, 24/89, 0.9, 4, 5 in decreasing order.
+5, 4, 0.9, 24/89, 0.1
+Sort -174, 38, 14, -2, -4.
+-174, -4, -2, 14, 38
+Put 4, 2/7, 25848, 8 in decreasing order.
+25848, 8, 4, 2/7
+Put 758, 354, 2 in ascending order.
+2, 354, 758
+Put -1.64, 0.5, -0.3, -2/13, -2, 5 in decreasing order.
+5, 0.5, -2/13, -0.3, -1.64, -2
+Sort 20, -7, 37975.
+-7, 20, 37975
+Sort -3/131, 19.47, 0.2 in decreasing order.
+19.47, 0.2, -3/131
+Sort -1524, -3, -30, -2 in decreasing order.
+-2, -3, -30, -1524
+Sort -1, -1859, -2, -5, -4, -15 in descending order.
+-1, -2, -4, -5, -15, -1859
+Put 1, -4952, -177 in descending order.
+1, -177, -4952
+Put 3074, -75, 3, -5 in descending order.
+3074, 3, -5, -75
+Put -6, -1, 13, 1, 4599 in decreasing order.
+4599, 13, 1, -1, -6
+Put 5, 3998, -4, 8, 2, -2 in descending order.
+3998, 8, 5, 2, -2, -4

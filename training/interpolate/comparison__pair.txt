@@ -1,0 +1,200 @@
+Do -1 and -209/7093 have the same value?
+False
+Which is smaller: -23137/241 or -97?
+-97
+Which is bigger: -4/27 or 534353?
+534353
+Is -54651 less than -54700?
+False
+Which is bigger: 6307484 or 1/4?
+6307484
+Which is smaller: -2/19293 or -0.0843?
+-0.0843
+Which is bigger: 2293150 or 2293159?
+2293159
+Which is bigger: -1644 or 7706?
+7706
+Is -1276 not equal to -54829/43?
+True
+Is -5292.204 at least -1/4?
+False
+Which is bigger: -150562 or -150617?
+-150562
+Which is greater: 448882 or 448884?
+448884
+Which is greater: -7672286 or -7672288?
+-7672286
+Are 165414 and 165412 unequal?
+True
+Which is smaller: -199/19740 or -1?
+-1
+Which is smaller: -9 or 1352060?
+-9
+Is -4/24216197 less than or equal to 1?
+True
+Is -1 greater than or equal to -143/4879?
+False
+Which is smaller: 0 or -1/2756594?
+-1/2756594
+Is -31/256284 not equal to 1?
+True
+Is 0 > -2/352467?
+True
+Is 0 < 28/1720779?
+True
+Which is bigger: 23900845 or 23900844?
+23900845
+Which is greater: -1 or 15/2004161?
+15/2004161
+Which is smaller: 8147459/5 or 1629492?
+8147459/5
+Is -21314 < -22343?
+False
+Which is bigger: 0 or -1373/10058?
+0
+Is 3 at most as big as 10345/4573?
+False
+Which is bigger: -1 or -7/771256?
+-7/771256
+Is 1/16660 smaller than 0.174?
+True
+Is -24077 less than -288925/12?
+False
+Is -1 greater than or equal to 22/1433797?
+False
+Does 6566222 = 6566224?
+False
+Do -0.1 and 15303203 have the same value?
+False
+Which is bigger: 651580/107 or 6091?
+6091
+Is -381.46 at least as big as -13?
+False
+Which is greater: 872 or 303080/347?
+303080/347
+Which is bigger: 3.1 or -27710/33?
+3.1
+Which is bigger: 0.005784 or -0.141?
+0.005784
+Which is bigger: 44.96057 or -1?
+44.96057
+Is 36644271 at least as big as 1/2?
+True
+Which is smaller: -5175 or -4062?
+-5175
+Which is bigger: -23117 or -22777?
+-22777
+Which is smaller: -22 or 1983?
+-22
+Is -3.550071 at most 2/15?
+True
+Which is greater: 0 or -4/20707779?
+0
+Is 2742684/53 less than or equal to 51750?
+True
+Which is greater: 993858 or 10932426/11?
+993858
+Which is smaller: 0.074 or 111397?
+0.074
+Is 147 at most as big as -43.629?
+False
+Is -860/76453 greater than or equal to 1?
+False
+Are -4551743 and -13655233/3 nonequal?
+True
+Which is greater: 19/3 or 35754?
+35754
+Which is smaller: -7786 or -7991?
+-7991
+Which is smaller: 455 or 9647?
+455
+Which is smaller: 1/13306 or 430?
+1/13306
+Is 249215 != 249259?
+True
+Which is greater: 169792 or 1358339/8?
+1358339/8
+Which is bigger: 16378/117 or 141?
+141
+Which is bigger: -144/6361 or 1?
+1
+Is -33/64 greater than 143/47?
+False
+Which is bigger: 1161612 or 1161611?
+1161612
+Is -32200 bigger than 28/5?
+False
+Which is smaller: -217626 or -3?
+-217626
+Is 17179 <= 17197?
+True
+Is 9857/235 > 0.2?
+True
+Which is smaller: 4326 or 1727?
+1727
+Is -385.1 less than -151?
+True
+Which is smaller: 14/3240915 or 0?
+0
+Which is smaller: -12068 or -10596?
+-12068
+Is 1350555 < 1350560?
+True
+Is -117526 < -822691/7?
+False
+Do -1 and -6/6309229 have different values?
+True
+Which is greater: 1590158 or 20672058/13?
+20672058/13
+Do -177.38 and 1/4 have the same value?
+False
+Does 0.38224 = 24.8?
+False
+Does 0 = 92/69125?
+False
+Is -845857 != -845859?
+True
+Which is greater: -7377 or -254?
+-254
+Is 120.58 at most 53/25?
+False
+Which is greater: -2242486/3 or -747494?
+-747494
+Is -64/7 less than or equal to 1768?
+True
+Is 18939 less than 19160?
+True
+Does 672875 = -10?
+False
+Are -137495 and -2612420/19 nonequal?
+True
+Which is bigger: 291157/73 or 3988?
+291157/73
+Which is greater: -1 or 2/136020741?
+2/136020741
+Is -5404178 at most as big as -5404178?
+True
+Which is bigger: 13499270 or 13499271?
+13499271
+Which is smaller: 459700 or 459691?
+459691
+Is -5/3 greater than -1119/397?
+True
+Is -2.25823 > -15?
+True
+Is -1 at least as big as 32/939227?
+False
+Is 62/343761 smaller than 0?
+False
+Is 1454 not equal to 255785/176?
+True
+Which is greater: 139694 or 139701?
+139701
+Is -1 at least as big as 101/71629?
+False
+Which is smaller: -3036705 or -15183529/5?
+-15183529/5
+Which is smaller: -16111341 or -16111340?
+-16111341
+Which is smaller: -3264409 or -3264410?
+-3264410

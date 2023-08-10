@@ -1,0 +1,200 @@
+Let m(x) = -5 + x**2 + 3 + 7 + 6*x. Let s be m(-5). Let p = -170 - -174. Solve s = -4*o - 0 + p for o.
+1
+Let k = -199 + 201. Suppose 0 = k*f + 4 - 8. Solve 0 = 7*l - 6*l - f for l.
+2
+Suppose -960 = -12*k - 8*k. Suppose 41*j - 53*j + k = 0. Solve -2*r + 3*r - j = 0 for r.
+4
+Let g(x) = 24 - 18*x. Let i be g(6). Let j be (18/4)/((-42)/i). Solve -4*t - j = -1 for t.
+-2
+Suppose -3 = -4*h - 11, 3*h + 96 = 3*j. Suppose -4*r - 2*g = -4*g - j, 0 = 2*r + 2*g - 12. Solve r*a - 2 = 5*a for a.
+1
+Suppose -2*c - 7 = -11. Suppose -3*p + c*p = -7. Solve -4*q - 3 = -p for q.
+1
+Suppose 204 - 469 = -54*b + 8213. Solve -2*p = -147 + b for p.
+-5
+Let b = -181 - -186. Suppose -3*i - b = -17. Solve 0 = 5*j - i*j + 1 for j.
+-1
+Let h = -154 + 166. Suppose -h = 5*m - 3*s, 4*s = -s + 20. Solve m = -5*l - 0*l - 5 for l.
+-1
+Suppose 2*s - 3*b = -0*b + 68, 2*b - 8 = 0. Solve 0 = s*l - 11*l + 145 for l.
+-5
+Let x(m) = 3*m**2 - 23*m + 19. Let a be ((-210)/90)/(1 + 4/(-3)). Let n be x(a). Solve -n*i + 9 = -1 for i.
+2
+Let n be 441/(-182)*2 - (-4)/(-26). Let l be -1 + (-15)/n + 1. Let c = -2 + 3. Solve -c - l = -u for u.
+4
+Let k = 19 + -19. Suppose 5*n - 2*g - 55 = 0, k*n - 3*g = -2*n + 11. Solve 3*u - n - 2 = 0 for u.
+5
+Let c(p) = -p**3 + 28*p**2 + 162*p + 169. Let q be c(33). Solve -38*o = -3*o + q for o.
+-2
+Let c(z) = 3*z**2 + 25*z - 12. Let y be c(-14). Let l = y + -224. Solve -l*i - 4 = -i for i.
+-4
+Suppose 0 = 17*b - 98 - 89. Suppose 0 = -b*t - 3*t. Solve t = 2*i + i - 15 for i.
+5
+Suppose 0 = 5*k - 2*u + 455, 3*k + k = 5*u - 381. Let a = 100 + k. Solve 0 = 3*f + 2 - a for f.
+3
+Let r(k) = -k**2 + 11*k - 16. Let m(a) = -a**2 + 12*a - 15. Let n(y) = -3*m(y) + 2*r(y). Let d be n(13). Suppose -5*s - 8 = -18. Solve d = s*u + 1 + 1 for u.
+-1
+Let s be -9 + 17 - 3/(3/2). Suppose -185*v = -188*v + s. Solve -v = 4*r + 6 for r.
+-2
+Let z(i) = 2*i**2 - 4*i + 1. Suppose -4*m - 3*j = 1, 3*m - 2*j + 3*j - 3 = 0. Let l be z(m). Suppose 25 = 3*q + l. Solve 3*d = -d + q for d.
+2
+Suppose 0 = 26*l - 23*l. Let o be l*(6 - 185/30). Solve o = k + 2 - 0 for k.
+-2
+Let z(t) = 4*t**2 - 12*t + 43. Let w(b) = -3*b**2 + 13*b - 41. Let x(v) = -6*w(v) - 5*z(v). Let m be x(-10). Solve -1 = 4*q + m for q.
+-3
+Suppose 0 = 11*a - 5*a. Suppose -2*q + 5*b = -6*q, q + 3*b = 0. Suppose -v + 0*v + 2 = q. Solve a = p + v - 1 for p.
+-1
+Let h = 715 - 681. Solve 22 - h = -6*t for t.
+2
+Let n = -4919 + 4931. Solve 195*i = 191*i - n for i.
+-3
+Let k be (-1)/(6 - 4)*-40. Let d be 2 + -5 + k/4. Solve -4 = h - d for h.
+-2
+Let q be 1 - (140/14)/10. Solve 4*b + 18*b + 44 = q for b.
+-2
+Suppose 7*d - 10 = 5*d. Suppose -d*r + 154 = 4*t, 2*t + 91 = 3*r - 19. Let z = r + -31. Solve -z*i + 8 = -i for i.
+4
+Suppose -20 - 4 = -6*c. Suppose c*d - 3*d = -2*r - 18, 0 = 2*d. Let k be 24/(-6) - (1 + r). Solve 0 + 20 = k*y for y.
+5
+Let i be (-2226)/12 + 2 + (-1)/(-2). Let o = i - -185. Solve 8 = 2*y + o*y for y.
+2
+Suppose 0 = 5*v - t - 13, v + t - 2 - 3 = 0. Suppose -2*s - 24 = -6*s. Suppose 2 + s = 4*q. Solve 0 = -v*j + q + 1 for j.
+1
+Let r(o) = -2*o**2 - 8*o + 28. Let g be r(2). Solve 911*t + g = 915*t for t.
+1
+Let g(m) = -m**2 - 21*m - 15. Let o be g(-12). Let w be (o/9)/((-7)/(-21)). Let a = 33 - w. Solve a + 0 = -r for r.
+-2
+Let s(m) = m**2 + 5*m - 2. Let v be s(9). Let d = -100 + v. Solve -d = 10*p - 4*p for p.
+-4
+Let t(x) = -3*x**2 + 10*x - 8. Let y be t(2). Suppose 4*m + 8 = -5*k - 2, -2*m - 18 = -4*k. Suppose -n + k = -y*n. Solve -j - n = -3 for j.
+1
+Let l be 560/64*(-36)/(-15). Solve -16*w + 15 = -l*w for w.
+-3
+Let f = -735 + 735. Let l(x) = -x - 4. Let w be l(-6). Solve -3*b - w*b + 25 = f for b.
+5
+Suppose 103*o + 11 = 112*o - 7. Let s(f) = 2 - f. Let u be s(-7). Solve -10*q = -u*q + o for q.
+-2
+Suppose 3*t - 15 = -3*w, -4*w - 26 + 28 = -5*t. Solve 0 = -w*n - 186 + 195 for n.
+3
+Let p = 564 - 538. Solve 18*v - 64 = p for v.
+5
+Let j = 1525 - 1504. Solve 72 = 15*m + j*m for m.
+2
+Let w be -3 + -15*(-24)/9. Suppose -5*v + 37 = w. Solve v = 5*p - 7*p for p.
+0
+Let f(v) = v**2 + 8*v + 11. Let n = -10 - -29. Let h = n + -26. Let b be f(h). Solve -b*k + 25 = 5 for k.
+5
+Suppose -l + 6 = 4*g, -l - g + 13 = 7. Suppose 55 + 11 = l*y. Solve y - 9 = -w for w.
+-2
+Let g(i) be the third derivative of -5*i**4/12 - 37*i**3/6 - 27*i**2. Let s be g(-4). Solve s = -4*u + u for u.
+-1
+Let w = -4691 - -4691. Solve w = -2*j - 36*j + 76 for j.
+2
+Suppose 0 = 4*l + 3*f - 6, l + 3*f - 6 = -9. Suppose l*x - 3 = q, -4*q - 7*x - 1 = -8*x. Solve q*j = -4*j for j.
+0
+Let f be -4 + (-2 - -3)*(4 + -9). Let m(t) = 3*t + 30. Let l be m(f). Solve 6*b + 9 = l*b for b.
+-3
+Let o be 12 - 17/((-119)/(-84)). Solve o = 15*n - 3*n + 12 for n.
+-1
+Let s = 4969 + -4963. Solve s*b + 40 = 16*b for b.
+4
+Suppose -28 = 3*w - 2*f + 24, 0 = -w - 2*f - 28. Let d(o) = -o**3 - 18*o**2 + 41*o + 23. Let s be d(w). Solve 0 = -s*m - 12 + 6 for m.
+-2
+Suppose -3*j + 26 = -5*x - 92, -j - x = -42. Solve 65 = 28*l - j*l for l.
+-5
+Let m be (1892/(-66))/(14/(-12)) - 4/7. Solve -24*h + m = -30*h for h.
+-4
+Let n be ((-6)/4)/((-21)/28). Suppose n*g + 5*g = 4*g. Suppose 5*f + 0*p - 8 = -4*p, 4*f + 2*p - 10 = g. Solve -a = f - 1 for a.
+-3
+Suppose -50*o = -42*o + 1376. Let h = o + 172. Solve -3*n + n = h for n.
+0
+Suppose 0 = 5*d + 20, -3*y + 19 = 3*d - 5. Solve -13*o = -y*o + 4 for o.
+-4
+Let h(l) = 6 - 9*l. Let o be h(16). Let b = 140 + o. Solve p = -p + b for p.
+1
+Suppose -5*h + 4 = -10*h - c, -h = -5*c - 20. Suppose h = -3*r + 2*r. Let x be 8/(-6) - ((-296)/24 + 6). Solve r = -x*f + 2 - 17 for f.
+-3
+Let l be (-27)/(-5) - (-4)/(-10). Let w(s) = s**3 + 61*s**2 - 105*s - 2666. Let d be w(-62). Solve -l*h + 2*h - 15 = d for h.
+-5
+Suppose 4 = -4*c - 4*l, -4*c + 3*l - 9 - 2 = 0. Let b be (483/126)/(c/(-12)). Solve -25*i = -b*i - 8 for i.
+4
+Let o(w) = -w**2 + 50*w - 85. Let t be o(31). Solve -7*f = 476 - t for f.
+4
+Let u = -319 + 319. Suppose 0 = -t + 2*t - 36. Let n = -21 + t. Solve u*v = 3*v - n for v.
+5
+Suppose 136 = 16*p + 40. Solve 8*g + p + 2 = 0 for g.
+-1
+Let v = -2708 + 3591. Solve -v*c - 4 = -884*c for c.
+4
+Let s be (-828)/(-10) - (-1)/5. Suppose -14*i = -s - 1. Solve 3*v + 0*v = i for v.
+2
+Let b be (-705)/(-60) - (-6)/(-8). Let j be b - (6 - 3) - -4. Suppose 2*w = -2*w + j. Solve r = w*r - 6 for r.
+3
+Suppose 5*z = -103 + 113. Let u be -3 - (4 - z - 6). Solve 0 = y + 5 - u for y.
+-4
+Let k(a) = 82*a - 1470. Let g be k(18). Solve 10 = -16*u + g*u for u.
+-1
+Let l(a) = a**3 - 8*a**2 + 14*a + 5. Let t be l(5). Suppose 11*p - 6*p + 20*p = t. Solve p = 5*w + 1 + 4 for w.
+-1
+Suppose 2*v = 6, -2*v + 4*v + 50 = -2*d. Suppose 2*r = -2*r - 108. Let t = r - d. Solve -c + t = 3 for c.
+-2
+Let w(h) = 86*h + 1980. Let p be w(-23). Solve 2 - p = 37*q for q.
+0
+Suppose -51*r - 546 = -93*r. Solve -12*m = -r*m + 1 for m.
+1
+Suppose 7*y + 33 + 296 = 0. Let x = y - -50. Solve -2 = -x*g + 13 for g.
+5
+Let v be (-180)/48 - 1377/(-204). Suppose -3*a = -4 - 5. Solve -a*n = v*n for n.
+0
+Let f(u) = -6*u - 8. Let m be f(-6). Let w = -34 + 44. Suppose 0 = -30*o + m*o + w. Solve o*j = 2*j for j.
+0
+Suppose -27 = -4*x + 3*k + 1, 20 = -5*k. Solve x*b + 6*b = -2*b for b.
+0
+Suppose -936*u - 6168 = -948*u. Solve -u*w + 516*w - 8 = 0 for w.
+4
+Let g(u) = u**2 + 26*u + 48. Let q be g(-24). Suppose 5*n - 6 = 4*l - 2*l, 3*n - 4*l = -2. Suppose -5*f = -21*f + 128. Solve n*c + q = -f for c.
+-4
+Let h(d) = 8 - 2*d. Let j be h(3). Suppose -2*s = m + 9, j*s + 22 = -2*m + 8. Let x be (-2 - 7/s)*(-16)/(-6). Solve 2*v + 0*v = x for v.
+2
+Let o(w) = 10*w - 42. Let c be o(-10). Let h = -140 - c. Solve -10 = h*p - 4*p for p.
+5
+Let c be 20/24 + (-635)/(-30). Solve -39 = -c*l + 35*l for l.
+-3
+Suppose 0 = -10*k + 4*k + 114. Let b = k + -16. Suppose 5*a - 9 = -3*q + 6, 10 = -b*a + 2*q. Solve a = -4*u + 2*u + 4 for u.
+2
+Suppose -4*w + 8 = 12, 5*b = -3*w - 3. Solve 130*l - 133*l - 6 = b for l.
+-2
+Let l = 1464 + -1454. Solve -l*j - 13 = 7 for j.
+-2
+Suppose 0 = -a - 4*p + 138 - 139, 5*a = -4*p + 11. Solve 8*j - a*j = 25 for j.
+5
+Suppose 0 = -3*t - 2*t, -t = -3*i + 24. Let h be (-2)/i - 105/28 - -20. Solve 7*r + h = 3*r for r.
+-4
+Suppose -2*t = 3*a - 45, -3*a - 9*t + 45 = -10*t. Solve 120*w - 123*w - a = 0 for w.
+-5
+Let y(b) be the second derivative of b**4/12 + b**3/3 - 5*b**2 + 14*b + 1. Let o be y(-5). Solve 3*w + o + 4 = 0 for w.
+-3
+Let u be (-113)/(-37) - (-80)/(-1480). Let w = 5 + 1. Solve -u*m = -6 - w for m.
+4
+Let l(n) = n**2 - 3*n - 5. Let s be l(-2). Let x(p) = 10*p**2 - 9*p**2 - 3 + s. Let r be x(-2). Solve 2*h = 2 + r for h.
+4
+Let l = -188 + 191. Let w = 34 - 3. Let a = 51 - w. Solve 8*q - l*q = -a for q.
+-4
+Let s(w) = -3*w**2 - 3*w + 12. Let m be s(-6). Let k = m + 110. Let h = k - 26. Solve c = h*c + 10 for c.
+-2
+Suppose -9*v - 4*p = -6*v - 56, -p = -4*v + 43. Solve 464*a - v = 470*a for a.
+-2
+Suppose 0*f - 16 = -4*f. Suppose 10 = -5*p, f*u + 2*p = 4 - 0. Solve -u = 3*b - 8 for b.
+2
+Suppose 0 = 4*s - l - 27, 0 = 2*s - 8*l + 5*l - 1. Solve s*y = 13 + 11 for y.
+3
+Let w(y) = -4*y**2 - 3*y + 4. Let u be w(1). Let a be (-4)/(-3) + 0 + (-29)/u. Solve -3*n + 2 = a for n.
+-3
+Let m be 3 + 6/9 + 8/(-12). Suppose m*f - 3 = 6*f, -2*x = 4*f. Solve x*b + 6 = 2 for b.
+-2
+Let c(x) be the third derivative of x**5/60 + x**4/6 + x**3/2 - 7*x**2. Let y be c(-3). Suppose j - 5*u + 23 = y, 3*u = u + 10. Solve -f + 0*f - j = 0 for f.
+-2
+Suppose 4*j = 3*o - 3, -2*o + 0 = 2*j - 2. Let s = -124 + 131. Suppose j = s*i - i. Solve i*l = 4*l for l.
+0
+Suppose -142*o - b = -144*o + 82, -4*o - b + 170 = 0. Solve -o = -20*s + 6*s for s.
+3

@@ -1,0 +1,200 @@
+Collect the terms in 4217 + 6*j**3 + 4224 + 4*j + 4222 - 12663.
+6*j**3 + 4*j
+Collect the terms in -184*t - 139*t + 1 - 6*t + 0.
+1 - 329*t
+Collect the terms in -23*g - 2253*g**3 + 173*g + 2251*g**3 + 177*g.
+-2*g**3 + 327*g
+Collect the terms in 11*f + 18208*f**2 - 18224*f**2 - 13*f + 2*f.
+-16*f**2
+Collect the terms in -7600*z**2 + 15187*z**2 - 1352*z**3 - 7587*z**2.
+-1352*z**3
+Collect the terms in -1978*k**3 - 17307041 + 1975*k**3 + 17307041.
+-3*k**3
+Collect the terms in -25780*n + 25778*n - 3121 + 3121.
+-2*n
+Collect the terms in -22*m - 9*m + 40*m + 25*m - 8*m - 9*m.
+17*m
+Collect the terms in 33945 - 33945 - 418*h + 832*h - 410*h.
+4*h
+Collect the terms in 7*a**3 - 83106*a + a**2 + 0*a**3 + 166214*a - a**2 - 83100*a.
+7*a**3 + 8*a
+Collect the terms in -76*w**3 + 269 + 145*w**3 - 67*w**3 + 16.
+2*w**3 + 285
+Collect the terms in 3*f**3 - 15296*f**2 - 2*f**3 + 15277*f**2 + 0*f**3.
+f**3 - 19*f**2
+Collect the terms in 3*n - 183270*n**2 + 91631*n**2 - 6*n**3 - n**3 + 91639*n**2.
+-7*n**3 + 3*n
+Collect the terms in 14*n - 131*n + 21*n - 9 + 83*n.
+-13*n - 9
+Collect the terms in -1934*n**3 - 1176*n**3 + 3108*n**3 + n**2.
+-2*n**3 + n**2
+Collect the terms in -4*r**3 + 55343*r + 55301*r + 55346*r - 165990*r.
+-4*r**3
+Collect the terms in 2480*w**2 + 14*w**3 - 2477*w**2 + 2 + 3 - 5 - 49*w**3.
+-35*w**3 + 3*w**2
+Collect the terms in -12*u - 10*u + 3 - 3*u + 201*u**2 + 7.
+201*u**2 - 25*u + 10
+Collect the terms in -21*d + d**2 + 83*d - 1 + 65*d + 2*d**2.
+3*d**2 + 127*d - 1
+Collect the terms in 272 + 239*n**2 + 244 - 516 - 102*n**2 - 138*n**2.
+-n**2
+Collect the terms in -1864*b**2 + 5 + 5230*b**2 - 5 - 1684*b**2 - 1680*b**2.
+2*b**2
+Collect the terms in -396 + 1195 - 394 - 405 + 15*z + z.
+16*z
+Collect the terms in 4 - 1304*a**2 - 4 - 1283*a**2.
+-2587*a**2
+Collect the terms in 7*l**2 - 6*l**3 + 10*l**3 - 10*l**2 + 3*l**2 - 1587*l.
+4*l**3 - 1587*l
+Collect the terms in 8 + 41523*k**3 + 12 - 40 - 41459*k**3 + 18.
+64*k**3 - 2
+Collect the terms in -4*q**2 - 82644*q + 82644*q - 590.
+-4*q**2 - 590
+Collect the terms in -9091*p**2 + 77 - 36 - 6881*p**2 - 41.
+-15972*p**2
+Collect the terms in 152136*b**3 - 76002*b**3 - 76124*b**3.
+10*b**3
+Collect the terms in 21687*o**3 + 3177*o**3 + 7661*o**3 + 8334*o**3.
+40859*o**3
+Collect the terms in 5787*s - 11586*s + 5730*s + 9*s**2.
+9*s**2 - 69*s
+Collect the terms in 2*m - 27161706 + 27161708 + 9*m.
+11*m + 2
+Collect the terms in -45 - 5913*j - 51 + 96.
+-5913*j
+Collect the terms in -1798*l - 11*l**2 - 1825*l + 5470*l - 1847*l.
+-11*l**2
+Collect the terms in 2*l + l - l + 5 - l + 0*l + 28.
+l + 33
+Collect the terms in -1 - 2*g - 23013*g**2 - 4*g + 6*g + 23033*g**2.
+20*g**2 - 1
+Collect the terms in 98510*i + 13*i**2 - 98510*i + i**2 - 17*i**2.
+-3*i**2
+Collect the terms in 4386*y**3 - 4089*y**3 - 3953*y**3.
+-3656*y**3
+Collect the terms in -18132*j**3 + 3*j**2 - 3*j**2 + 428904*j**3.
+410772*j**3
+Collect the terms in -2 - 1733215854*m + 1733215854*m - 2*m**2 + 2.
+-2*m**2
+Collect the terms in -227*l**2 - 249*l**2 + 436*l**2.
+-40*l**2
+Collect the terms in -36 + 124 - 38 - 39 - 45*x**2 - 11.
+-45*x**2
+Collect the terms in -1479*q**3 - 4*q - 4*q + 6*q + 2*q + 1457*q**3.
+-22*q**3
+Collect the terms in 3248*x - 6520*x + 83*x**3 + 3272*x.
+83*x**3
+Collect the terms in 20*z**2 + 2*z**2 + 15*z - 127*z**2 + 8*z**2.
+-97*z**2 + 15*z
+Collect the terms in 12*f - 15*f - 8 - 11*f - 6*f**3 + 14*f + 3*f**3.
+-3*f**3 - 8
+Collect the terms in -334678 - 37*v - 334667 + 669345 + 184*v.
+147*v
+Collect the terms in -3*y**2 + 695511*y**3 + 3*y**2 - 1391008*y**3 + 695510*y**3.
+13*y**3
+Collect the terms in -121*l + 284*l + 350*l + 610*l.
+1123*l
+Collect the terms in 450*q**2 - 5*q**3 - 204*q**2 + q**3.
+-4*q**3 + 246*q**2
+Collect the terms in 190*l**2 - 358*l**2 - 35*l**2 + 191*l**2.
+-12*l**2
+Collect the terms in -6*a**3 - 136270 - 5*a + 136270.
+-6*a**3 - 5*a
+Collect the terms in -90*k**3 + 267*k**3 - 105*k**3 - 116*k**3.
+-44*k**3
+Collect the terms in 1957*r + 4410932 - 4410932.
+1957*r
+Collect the terms in -13193828 + 13193828 + 15*q.
+15*q
+Collect the terms in -9*o + 196 + 52 + 55 + 3*o + 6.
+309 - 6*o
+Collect the terms in -a**2 - a**2 + 1677*a + a**3 - 22 - 8.
+a**3 - 2*a**2 + 1677*a - 30
+Collect the terms in m - 4*m**2 - 3*m**2 + 16475608 - m - 16475608.
+-7*m**2
+Collect the terms in g**2 + 431330*g - 215082*g - 216248*g.
+g**2
+Collect the terms in 886*u**2 - 295*u**2 - 297*u**2 + 12*u**3 - 295*u**2.
+12*u**3 - u**2
+Collect the terms in 379*j**3 - 17*j**2 - 236*j**3 + 45*j**2 - 28*j**2.
+143*j**3
+Collect the terms in -613568*p**3 + 613551*p**3 - 2*p**2 + 2*p**2.
+-17*p**3
+Collect the terms in 2 - 26364*n**2 + 2 + 8707*n**2 - 4.
+-17657*n**2
+Collect the terms in 22212*b**2 + 4390*b**3 - 22212*b**2.
+4390*b**3
+Collect the terms in -9399*a + 1273*a - 15*a - 1.
+-8141*a - 1
+Collect the terms in -9 + 9 - 2503318*m**2.
+-2503318*m**2
+Collect the terms in -21631*t**2 + 21631*t**2 + 56*t**3 - 72*t**3 + 43*t**3.
+27*t**3
+Collect the terms in -1 + 1 + 2135*z - 9741*z.
+-7606*z
+Collect the terms in 46*t - 4 - 84*t - 34 + 41*t.
+3*t - 38
+Collect the terms in -5 - 352268*g + 5 - 147739*g.
+-500007*g
+Collect the terms in -323*m**2 - 1 + 1 + 932*m**2 - 287*m**2 - 305*m**2.
+17*m**2
+Collect the terms in -17*w**3 - 59862371389*w + 59862371389*w.
+-17*w**3
+Collect the terms in -1049 + 311 + 36*j - 566 - 34*j.
+2*j - 1304
+Collect the terms in 3803*g - 4905*g - 5457*g.
+-6559*g
+Collect the terms in 4252 - 9754 - 20*v + 5500.
+-20*v - 2
+Collect the terms in 10500715*p - 21001424*p + 10500712*p.
+3*p
+Collect the terms in 2043*d**2 - 2*d - 2543*d**2 + 2*d + 0*d.
+-500*d**2
+Collect the terms in -2*q - 249 + 849 - 263 - 337 + 3*q.
+q
+Collect the terms in 7*y - 3*y - 6*y - 2*y**3 + 2*y - 1137*y**2.
+-2*y**3 - 1137*y**2
+Collect the terms in -16*x**3 + 8*x**2 + x - 4*x + 15*x**3 + 2*x - 43*x**2.
+-x**3 - 35*x**2 - x
+Collect the terms in -7347180*l + 14694328*l - 7347149*l.
+-l
+Collect the terms in -2749 + 712 + 7*p**2 + 712 + 622 + 703.
+7*p**2
+Collect the terms in -817 + 817 + 10451*b - 10452*b.
+-b
+Collect the terms in 293*b - 277*b + 745*b + 419*b.
+1180*b
+Collect the terms in -99*z**3 - 6879*z**2 + 13764*z**2 - 6885*z**2 + 82*z**3.
+-17*z**3
+Collect the terms in -853*u**3 - u + 440*u**3 + 2*u + 439*u**3 - u - 3*u**2.
+26*u**3 - 3*u**2
+Collect the terms in 80*v - 23 - 39*v + 19 - 38*v.
+3*v - 4
+Collect the terms in -150*q - 92*q - 79*q + 332*q.
+11*q
+Collect the terms in 369*z**2 - 141*z**2 - 116*z**2 - 41*z**2.
+71*z**2
+Collect the terms in -4602*d**3 + 2868*d**3 - 10353*d**3.
+-12087*d**3
+Collect the terms in -3*z**3 - 2276 - 19*z**2 - 3*z - 251 + z.
+-3*z**3 - 19*z**2 - 2*z - 2527
+Collect the terms in -1837*h**2 + 993*h**2 + 987*h**2.
+143*h**2
+Collect the terms in 27*w + 33*w + 26*w + 29*w - 126*w + 20*w + w**2.
+w**2 + 9*w
+Collect the terms in -8*f**3 - 3 + 1597871*f - 798934*f - 798934*f + 3.
+-8*f**3 + 3*f
+Collect the terms in -165 + 62 - 107*k + 50 + 100*k + 53.
+-7*k
+Collect the terms in -761 - 195*b - 775 + 1536.
+-195*b
+Collect the terms in 14 - 18 - 126*r + 4 + 463*r.
+337*r
+Collect the terms in -3*m**2 - 2429225765339 + 2429225765339.
+-3*m**2
+Collect the terms in -40313552*t**2 - 40313560*t**2 + 80627116*t**2.
+4*t**2
+Collect the terms in -18 + 81*u + 53 + 174 + 17.
+81*u + 226
+Collect the terms in 34 + 43 + 3*n - 107*n**2 - 77.
+-107*n**2 + 3*n

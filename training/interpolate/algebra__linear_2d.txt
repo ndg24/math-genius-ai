@@ -1,0 +1,200 @@
+Solve -5*a + 121986 = -a - 5*d + 122034, 22 = 5*a + 4*d for a.
+-2
+Solve 24*j = 20*j - 5*n + 127, 3*j + 3*n = 96 for j.
+33
+Solve -4*h = 10*a - 12*a + 16, -128*a - 110 + 130 = -5*h for h.
+-4
+Solve -155*f + 3*d + 27 = -301*f + 147*f, -65*f + d + 9 = 0 for f.
+0
+Solve 5*b - f + 26 = 0, -67 = b - f - 144 + 83 for b.
+-5
+Solve 5*s - 20 = -6*r, -7713*r + 15412*r - 8 = 7703*r - 2*s for r.
+0
+Solve 0 = 2*d + 34*v - 36 - 18, -3*d + 81 = -3*v for d.
+27
+Solve 0 = 3*i + 2*s + s + 27, 3*s - s - 24 = -23*i for i.
+2
+Solve -2*j - 13049 + 13065 = -3*n, n + 32 = 4*j for n.
+0
+Solve 3*j + 80 = -2*u, 4*j - 45 + 145 = 4*u for j.
+-26
+Solve -156*g + 158*g + i = 4, -g = -35*i - 144 for g.
+4
+Solve -5*c + 214 = 12*k, -c + 2948 = 2946 for k.
+17
+Solve -2*m = 2*o - 362 + 374, o + 9*m + 38 = 0 for o.
+-2
+Solve 3*z - 7*z - 104 = 5*d, -33525*d + 5*z = -33524*d + 15 for d.
+-20
+Solve -5*s - 55 = -2*l, -3*l + 129 = 2*s + 2*l + 122 for s.
+-9
+Solve -5*i - 5 = -3*g, 76*g - 161*g - 2*i = i - 431 for g.
+5
+Solve 2*v - 9*g + 15 = 0, -151*g + 146*g + 13 = -5*v - 7 for v.
+-3
+Solve 0 = -5*p + 2*q + 18 + 17, p - q - 169 + 159 = 0 for p.
+5
+Solve -50*a + 3*t - 59 = -45*a, -t = -6*a - 76 for a.
+-13
+Solve 79 = -5*n - 3*d, 25*n - 17*n - 9*n + 90 = -4*d for n.
+-2
+Solve -u = -2*i - 19, 148 - 107 = 3*u - 4*i for u.
+3
+Solve 4*m + 103 = 5*i, 1849 = -5*i - 3*m + 1798 for i.
+3
+Solve 0 = o + 2*b + 14, 52504*o + b + 40 = 52498*o for o.
+-6
+Solve -2*f - 168 + 198 = -48*i + 50*i, -1 = f - 3*i for f.
+11
+Solve 2035*a - 2039*a = -4*h - 24, 3*h + 24 = -a + 5*a for a.
+6
+Solve -4*u - 21 = -2*c + 13, -4*u - 20*c + 26 = -10*c for u.
+-6
+Solve 5*m - 27871*i + 12 = -27874*i, 2*m - 3*i = 12 for m.
+0
+Solve 3*g + 31 = -5*f + 58 + 54, -4*f + 68 = 4*g for g.
+2
+Solve 0 = -139*f + 144*f - 3*a - 46 + 49, -6*a + 42 = 2*f for f.
+3
+Solve -2*t - 4*k + 8*k + 38 = 0, t + 62 = 6*t + k for t.
+13
+Solve -4*j = -1475*i + 1480*i + 48, 5*j + 258 = -31*i for i.
+-8
+Solve 0 = 3*w - 3*y + 18, 8 = -1817*y + 1819*y for w.
+-2
+Solve 151 = 5*k - 1632*z + 1636*z, -3*z = 4 - 1 for k.
+31
+Solve d - 882*s + 4 = -877*s, -2*d - 2*s - s = 8 for d.
+-4
+Solve -4*r - 3*t = 13, -2*r + t = -6196 + 6215 for r.
+-7
+Solve -2*p + 5 = d - 10, -3*p + 659*d - 654*d = 127 for p.
+-4
+Solve 3*t = -4*d - 6, 188 = 15*t + 4*d + 170 for t.
+2
+Solve 4*g = 26*r - 98, -5*r = 13666*g - 13661*g + 10 for g.
+-5
+Solve 2*z - 56 = 636*h - 639*h, 166 = 4*z + 9*h for z.
+1
+Solve 9109*b - 9114*b = -m - 165, m = -11*b + 363 for b.
+33
+Solve -7315*b + 2 = -2*h - 7314*b, -2*b - 22 = -30*h for h.
+1
+Solve -5*g - 15 = -d, 14927*g - 14930*g + 5*d = 9 for g.
+-3
+Solve -14 = 4*i - 2*o, 550*i - 549*i - o + 6 = 0 for i.
+-1
+Solve -4*o = -k + 11, 3*k + 109*o + 52 = 104*o for k.
+-9
+Solve -20554*n = -20551*n + a + a - 20, 5*n = a + 55 for n.
+10
+Solve 4*m + 2585*a + 2579*a - 5159*a = 17, 3*a - 17 = m for m.
+-2
+Solve r - 51713 + 51675 = 6*u, 16 = -2*u + 2*r for u.
+-6
+Solve -136*z = -126*z + q - 385, z + 2*z + q = 112 for z.
+39
+Solve 29 = 3*b - 24*q + 26*q, 9*q + 9*q - 174 = 2*b for b.
+3
+Solve 2*z = 2*v + 40, 868*z - 873*z = v - 76 for v.
+-4
+Solve 27 = 3*f - x + 18 + 9, 26 = 5*f + 7*x for f.
+1
+Solve 0 = 2*y - 117*f + 222, 0*y = 5*y - f + 6*f - 40 for y.
+6
+Solve -257*d - 4 = -4*o - 259*d, 3*d + 3*d = -3*o + 21 for o.
+-1
+Solve -4*w + 16 = -6*y, 90*w = 96*w + 3*y + 24 for w.
+-2
+Solve 5*a = 4*p + 32, 8058*p + 2 = 8048*p - a - 24 for p.
+-3
+Solve 2*g + 0 = -w - 3, -2*w + 6*g + 10 = 2*g for w.
+1
+Solve -11*i + 91 = 11*k - 13*i, 5*k - 32 - 9 = i for k.
+9
+Solve 4*x - 4*u = 2*x + 62, 2*u = 2812*x - 2805*x - 169 for x.
+23
+Solve 8*v + 3*o + 33 = 3*v + 149 + 19, 0 = 5*o - 25 for v.
+24
+Solve u + 4*j = -7, -u - 139630*j + 139634*j + 17 = 0 for u.
+5
+Solve -b + 55495*m + 6 = 55491*m, -5*b + 0*b = -m + 8 for b.
+-2
+Solve 9*o + 2*y - 85 = -2*y, -70*y + 100 = 11*o - 69*y for o.
+9
+Solve 1 = -3*u - 5*z - 5, -u + 103311 - 103313 = 18*z for u.
+-2
+Solve -5*i + 129 = -r, -14*i + 246*r - 126*r = 125*r - 369 for i.
+26
+Solve 3*s - 5*u - 142 = -140, 4*s = -4*s + 4*u - 4 for s.
+-1
+Solve -4*o + 28 = -4*r, -79133*o + 4*r + 52 = -79137*o for o.
+-3
+Solve -4*p + 32 = -2130*v + 2134*v, 22 = -4*p + 2*v for p.
+-1
+Solve -o - 10 = -m, 8 = -o - 127*m + 132*m + 2 for o.
+-11
+Solve -357 = -5*q - 16*i - 6*i + 76, 0 = -4*i + 76 for q.
+3
+Solve i + d - 2 = 0, 46299*i - 44 = 46286*i + 5*d for i.
+3
+Solve -25*a = 7*u + 37, -324*a = 3*u - 328*a - 43 for u.
+9
+Solve 4*z + 144 = 8*w, -w = -126645*z + 126650*z - 40 for w.
+20
+Solve 0 = -3*x + 34*b - 13*b - 174, 264*b - 7 = 4*x + 261*b for x.
+5
+Solve z + t = -2*z - 32, 1094*t + 8 = 1090*t for z.
+-10
+Solve -357*z + 182*z = -176*z - 3*t - 4, 21*z - 2*t - 46 = 0 for z.
+2
+Solve 30368*v = 30364*v + 7*h + 66, 5*v - 15 = 2*h for v.
+-1
+Solve -5*m - 10 = -35*s + 46*s, -4*s + 5*m + 2 = -8 for s.
+0
+Solve s + 3*h = 17, 3*h - 288215 = -2*s - 288202 for s.
+-4
+Solve t - 5*c - 2 = 0, 5*t - 130 = -4*c - 149 for t.
+-3
+Solve -41*u - 41 = -39*u + 9*i, -10 - 5 = 3*i for u.
+2
+Solve -2*j = 14*w + 50, -1414*w - j - 25 = -1416*w for w.
+0
+Solve -1948*g + 1945*g = 5*c - 5, -c = 2*g - 8 for g.
+5
+Solve -6*r = -4*f - 34, 4*r + 3951 - 4012 = -5*f for r.
+9
+Solve -4*b - 6566 + 6555 = 3*u, u - 4*b = 7 for u.
+-1
+Solve 4*g - 13*y = -30, 4*g - 7*y + 8 = -4*y - y for g.
+-1
+Solve 2*i - 358 - 684 = -94*m, 2*i = -7*m + 3*m + 52 for i.
+4
+Solve h - 33 = -5*k, 263564*k + 2*h + 39 = 263569*k for k.
+7
+Solve -3*p + 6*q = 2*q + 98, -43*p + 47*p - 613 = -27*q for p.
+-2
+Solve 0 = -4*j + 8*h - 1246 + 914, -131 = -5*j - 4*h for j.
+-5
+Solve -8*g - 75*k = -g - 76*k - 33, k + 25 = -g for g.
+1
+Solve -w = -4*u + 3, -2*u - 11*w + 15 = 15*w - 31*w for u.
+0
+Solve -9 = 3*c, 3*i - 6 = 224*c - 225*c for i.
+3
+Solve -7933 + 7857 = 4*x - 6*s, -5*x - 109 = -4*s for x.
+-25
+Solve 4*f = 5*a - 97, -4*f + 1378 = -13*a + 1643 for f.
+2
+Solve n - 51*y + 476 = -62*y, 0 = -3*n - y - 52 for n.
+-3
+Solve 0 = -25*a + 30*a + 4*h + 57, 9*a - 3*h - 44 = 14*a for a.
+-1
+Solve 5 = 5*h - 228*n - 227*n + 453*n, 3*n = 0 for h.
+1
+Solve -282214*k = 5*c - 282215*k + 11, 7 = -5*c - 3*k for c.
+-2
+Solve -3*v - 4*m + 25 = 0, -5*v = -116153*m + 116158*m - 45 for v.
+11
+Solve -5*k + 8*t - 4*t + 111 = 3*t, 8*t = 2*k - 14 for k.
+23

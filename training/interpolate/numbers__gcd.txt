@@ -1,0 +1,200 @@
+Calculate the highest common divisor of 4681615 and 145.
+145
+What is the greatest common factor of 1155740 and 80?
+20
+Calculate the highest common divisor of 180 and 1286916.
+12
+Calculate the greatest common factor of 208075 and 11439.
+41
+Calculate the greatest common divisor of 2007143 and 43389.
+1607
+Calculate the greatest common factor of 587 and 476.
+1
+What is the greatest common factor of 6655390 and 3255?
+1085
+Calculate the greatest common divisor of 220 and 6022610.
+110
+What is the highest common factor of 2528 and 17024816?
+1264
+Calculate the highest common factor of 7731686 and 565.
+113
+What is the greatest common divisor of 348677 and 231?
+7
+Calculate the highest common divisor of 285012 and 7182.
+378
+What is the highest common factor of 1001 and 5447351?
+91
+What is the greatest common factor of 165 and 1490115?
+165
+What is the highest common divisor of 78822 and 115362?
+522
+What is the highest common divisor of 250821 and 214861?
+899
+What is the greatest common factor of 694840 and 2842?
+58
+Calculate the greatest common divisor of 2667 and 130935.
+21
+Calculate the highest common divisor of 1430 and 2047890.
+130
+What is the greatest common divisor of 20060 and 44860?
+20
+What is the highest common divisor of 2553 and 22931?
+23
+What is the greatest common divisor of 91 and 2345902?
+13
+Calculate the highest common factor of 11762070 and 60.
+30
+What is the highest common divisor of 11375845 and 65?
+65
+Calculate the highest common factor of 5360 and 10935740.
+1340
+Calculate the greatest common factor of 546 and 1778881.
+13
+What is the greatest common divisor of 161044 and 4484?
+76
+Calculate the highest common factor of 683625 and 375.
+375
+What is the highest common factor of 599898 and 1066?
+26
+Calculate the highest common factor of 85626 and 399186.
+1206
+What is the greatest common factor of 10625 and 87227?
+17
+Calculate the highest common divisor of 111302 and 4988.
+58
+What is the greatest common factor of 167544 and 27216?
+72
+Calculate the highest common divisor of 161859 and 70503.
+993
+Calculate the highest common factor of 14816058 and 222.
+222
+Calculate the greatest common factor of 85034286 and 426.
+426
+What is the highest common divisor of 739500 and 10150?
+1450
+Calculate the highest common factor of 118835 and 635.
+5
+What is the highest common factor of 19596 and 294078?
+138
+What is the greatest common divisor of 592 and 201096?
+8
+Calculate the greatest common divisor of 34207 and 784163.
+433
+Calculate the highest common factor of 43968 and 246528.
+192
+What is the greatest common factor of 754607 and 7728?
+161
+What is the highest common factor of 1788195 and 8439?
+291
+What is the highest common factor of 7972 and 818?
+2
+Calculate the greatest common divisor of 646087 and 117.
+13
+What is the greatest common divisor of 27498610 and 1510?
+1510
+What is the greatest common factor of 1150 and 13191650?
+1150
+What is the highest common divisor of 292 and 4329630?
+146
+What is the greatest common factor of 441 and 193207?
+49
+Calculate the greatest common factor of 132 and 4171164.
+12
+Calculate the highest common factor of 491706 and 27966.
+354
+What is the greatest common factor of 58527 and 595489?
+929
+What is the greatest common divisor of 678 and 376742?
+226
+Calculate the greatest common divisor of 3522 and 214.
+2
+Calculate the greatest common factor of 55347 and 3819.
+57
+What is the greatest common factor of 1440 and 802800?
+720
+Calculate the highest common factor of 71588964 and 134.
+134
+Calculate the greatest common factor of 566321 and 595.
+119
+Calculate the highest common factor of 7216 and 1770626.
+902
+What is the greatest common divisor of 32 and 20638016?
+32
+What is the greatest common divisor of 74672 and 136061?
+359
+What is the greatest common factor of 900 and 13721850?
+450
+What is the highest common divisor of 118875 and 707544?
+951
+What is the highest common divisor of 404400 and 386202?
+2022
+What is the highest common divisor of 192864 and 3432?
+24
+What is the highest common divisor of 1755798 and 462?
+66
+What is the highest common divisor of 2271 and 16767?
+3
+What is the highest common divisor of 4725 and 260421?
+21
+What is the greatest common divisor of 485 and 53703565?
+485
+What is the greatest common divisor of 9615 and 105780?
+15
+What is the highest common factor of 33269 and 2006?
+17
+Calculate the highest common divisor of 1322 and 20448.
+2
+What is the highest common divisor of 920 and 678320?
+40
+Calculate the highest common divisor of 2873 and 7240844.
+221
+Calculate the highest common factor of 5340 and 2311152.
+1068
+What is the highest common divisor of 126 and 6873874?
+14
+What is the highest common factor of 7 and 9963527?
+7
+What is the highest common factor of 6585536 and 3440?
+688
+What is the highest common factor of 1471806 and 126?
+126
+What is the highest common factor of 1701 and 1384992?
+189
+What is the highest common divisor of 34829 and 10527?
+29
+What is the highest common divisor of 144 and 14016456?
+72
+What is the greatest common factor of 511434 and 6622?
+154
+What is the highest common divisor of 9167 and 250713?
+89
+What is the greatest common factor of 78188 and 5984?
+44
+What is the greatest common divisor of 1853 and 78778?
+17
+What is the greatest common divisor of 1885 and 1119040?
+65
+Calculate the greatest common factor of 14145 and 26925.
+15
+What is the highest common divisor of 66002136 and 3896?
+3896
+Calculate the greatest common factor of 1061226 and 522.
+522
+Calculate the highest common factor of 660 and 12906300.
+660
+Calculate the highest common divisor of 12445762 and 28.
+14
+What is the highest common divisor of 29 and 14406794?
+29
+What is the greatest common factor of 612 and 558936?
+36
+Calculate the greatest common factor of 296 and 760248.
+8
+What is the highest common factor of 10473 and 180?
+3
+Calculate the highest common factor of 3941125 and 1000.
+125
+Calculate the greatest common divisor of 10792064 and 256.
+128
+Calculate the greatest common divisor of 23 and 7061.
+23

@@ -1,0 +1,200 @@
+Let x(p) = -2*p**3 - 2*p**2 - 2*p + 4424. List the prime factors of x(0).
+2, 7, 79
+Let j(c) = -c**3 - 2*c**2 + 11*c + 4. Let i = 24 - 28. Let k be j(i). What are the prime factors of ((-61)/(-3))/((24/(-9))/k)?
+61
+Let z(b) = 159 - 88*b. What are the prime factors of z(-18)?
+3, 7, 83
+Let w(o) = 10*o**3 + 3*o**2 + 5*o + 2. Let g be w(-3). What are the prime factors of (-2 - -1) + 3 + (2 - g)?
+2, 5, 13
+Let u be (50/40)/((-1)/12). What are the prime factors of (-36)/u*1360/12?
+2, 17
+Let o = 26 - 128. Let t be (-1)/6 + 7633/o. Let u = 154 + t. List the prime factors of u.
+79
+Let s(z) = 9*z**3 + 26*z**2 - 64*z + 18. List the prime factors of s(9).
+3, 17, 53
+Let y be (216/(-3))/(-4) - 3 - 3. Let o be (-2 - -5)*6/27*y. What are the prime factors of (1 + 8)/(o/(-12) + 1)?
+3
+List the prime factors of -1*(6 + (7 - 2792)) - (0 - -3).
+2, 347
+Suppose 4*y - 5*a = -0*a - 639, 5*a = -4*y - 649. Let n = 293 + y. What are the prime factors of n?
+2, 3, 11
+Let q(a) = a**3 - 2*a**2 + 226. Suppose -n + 0 = 3*s + 5, 0 = -s - 2*n - 10. What are the prime factors of q(s)?
+2, 113
+Let n = 1293 + 1356. What are the prime factors of n?
+3, 883
+Let y(b) = -b**3 + 22*b**2 - 16*b - 24. Let q be y(21). Let c = q - 70. What are the prime factors of c?
+11
+Suppose 3*k - 4*h = 387, h - 369 = -4*k + 166. List the prime factors of k.
+7, 19
+Let c be 2*2/(-26) + (-123)/(-39). Suppose -5*r - c*p = 57 - 1322, 5*r + 5*p - 1275 = 0. What are the prime factors of r?
+2, 5
+Suppose 5*l + 445 = 5*m, 5*l + 90 = -5*m - 335. What are the prime factors of (l/(-2))/((-132)/(-1144))?
+13, 29
+Suppose 2*w = -4*i + 12214, 2*i + 5*w - 1532 = 4555. What are the prime factors of i?
+2, 191
+Let m = 140 + -110. Let z = m - -40. List the prime factors of z.
+2, 5, 7
+List the prime factors of (119162/72 - (-4)/18)/((-1533)/(-4088)).
+2, 2207
+Suppose g + 6370 = 6*g. Suppose w - q - 314 = 0, 0 = 22*w - 18*w + 2*q - g. What are the prime factors of w?
+317
+Let h(j) be the first derivative of 23*j**3 + j**2 - j - 2. Let n(a) = -4*a - 39. Let s be n(-10). List the prime factors of h(s).
+2, 5, 7
+Let h(o) = 59*o**2 - 172*o + 504. What are the prime factors of h(3)?
+3, 173
+Let k(y) = y**2 - 11*y + 7. Let v be k(11). Suppose 5*c - 2*b = -30 - 23, -4*b + v = c. Let j(x) = x**3 + 9*x**2 - 9*x + 21. List the prime factors of j(c).
+2, 3, 17
+Let w(t) = 3*t**2 - 7*t**2 - 14*t - 2*t**2 - 6*t**3 - 19 + 2*t**2. What are the prime factors of w(-4)?
+3, 7, 17
+Let l = 4400 - 3070. List the prime factors of l.
+2, 5, 7, 19
+Let z = 14867 - 6683. List the prime factors of z.
+2, 3, 11, 31
+Suppose 0 = -d + 3*d - 2. What are the prime factors of (5/15)/(d*(-2)/(-1614))?
+269
+Let c(r) = 59 - 83*r. Let j be c(3). Let z = -129 - j. What are the prime factors of z?
+61
+Let n(h) = h**2 - 8*h - 6. Let i be n(9). Suppose x - 245 = i*f, -f - 1160 = -5*x + f. List the prime factors of x.
+2, 5, 23
+Let b be (-4)/6*-9*6. Suppose -3*u = -6*u - b. Let j = u + 68. List the prime factors of j.
+2, 7
+Let u be 9*(-14)/49 - 6/14. Let y(x) = 42*x**2 - x - 1. List the prime factors of y(u).
+2, 5, 19
+Let g(w) = -w**2 + 12*w + 1. Let h(k) = -3*k**2 + 37*k + 4. Let d(s) = 7*g(s) - 2*h(s). Let l = 101 - 94. List the prime factors of d(l).
+2, 5
+Let r(h) = 2*h**2 + h - 4. Let w be (17 + -5)/(1 + 0). Suppose -w*o + 8*o = -24. What are the prime factors of r(o)?
+2, 37
+Suppose -4*z + 4*u - 32 = 0, -2*z + 11*u - 16*u = 2. Suppose 0 = -2*n + 3 - 5. Let l = n - z. What are the prime factors of l?
+5
+Suppose 3*n = c + 1648, 3 = 2*n - 2*c - 1089. Suppose 8*y - 65 - n = 0. Suppose -3*d + 5*b = -84, 8 = -2*d - b + y. What are the prime factors of d?
+3, 11
+Let h(k) = 2*k - 8. Let a be h(5). Let x be (a + 132)/((-6)/(-3)). Suppose x = 5*i - 333. What are the prime factors of i?
+2, 5
+What are the prime factors of 7/((-4)/((-9280)/2))?
+2, 5, 7, 29
+Let j = 230 + -230. Suppose 4*p - 1229 = z, -p - 5*z + 254 + 48 = j. What are the prime factors of p?
+307
+Let p(q) = 36*q**2 + 13*q + 35. Let t be p(-4). Suppose -5599 = -12*s - t. List the prime factors of s.
+2, 3, 5, 7
+Let j be 18/(6 + (-2682)/444). Let t = j + 896. What are the prime factors of t?
+2, 113
+Suppose r + 5 = 0, -x + 3*r - 2*r = 74. Let g = 169 + x. What are the prime factors of g?
+2, 3, 5
+Let v(n) be the second derivative of n**5/20 + 5*n**4/4 + 25*n**3/6 - 11*n**2/2 - 4*n. What are the prime factors of v(-13)?
+2
+List the prime factors of -135 + 8937 - (-6)/(-1).
+2, 3, 733
+List the prime factors of (-34024)/(-18) - 46/207.
+2, 3, 5, 7
+Let o(n) be the second derivative of n**6/120 - 9*n**5/40 + 11*n**4/12 - 15*n. Let g(x) be the third derivative of o(x). List the prime factors of g(15).
+3, 7
+What are the prime factors of -7 + (46/(-69))/((-6)/81009)?
+2, 3, 1499
+Suppose 59*n - 4*y + 17396 = 63*n, 5*n = 3*y + 21737. List the prime factors of n.
+2, 1087
+Let y be (-6)/(-36) - (-2)/(-12). Suppose 5*i + 2*b - 52 = -19, y = -2*i + b + 6. Suppose -3*s - 98 = -i*s. What are the prime factors of s?
+7
+Suppose 0 = 5*k - 0*k - 4*l - 43, 0 = -2*k - 4*l + 6. Suppose 4 = g - k. What are the prime factors of g?
+11
+Let y(x) = 2*x**3 + 55*x**2 + 10*x + 25. What are the prime factors of y(-26)?
+11, 163
+Let q = -10297 + 16756. What are the prime factors of q?
+3, 2153
+Let v be 4 + (-100)/26 - 2/13. Suppose v = 6*u - 11*u + 1425. What are the prime factors of u?
+3, 5, 19
+Let h = -879 - -3725. What are the prime factors of h?
+2, 1423
+Let q(z) be the third derivative of -z**6/120 - z**5/15 - 3*z**4/8 - z**3/3 + 2*z**2. Let b = -425 + 420. What are the prime factors of q(b)?
+2, 17
+Suppose -13 = -2*f + 3*a, -4*f = 2*a - 6 - 60. Suppose 2124 = f*p - 312. List the prime factors of p.
+2, 3, 29
+Let g be (2 + -3)*(-2)/((-4)/1086). Let z = -94 - g. List the prime factors of z.
+449
+Let p = 3 - -14. Let a = -13 + p. Let v(i) = 19*i - 1. List the prime factors of v(a).
+3, 5
+Let q be 3 - 4/2 - (-218)/1. Suppose -q + 1300 = 5*w - d, 3*d - 1097 = -5*w. What are the prime factors of w?
+7, 31
+Let j(v) = -v**3 - 9*v**2 - 21*v - 15. Let f be j(-6). Suppose 5*l + o - 230 = -4*o, l = -f*o + 36. List the prime factors of l.
+3, 17
+Suppose 3*l = 5*i + 7, -i + 2 = i. Let z(c) = -c**3 - 5*c**2 - c + 3. Let w be z(-6). Suppose l*n + 1 - w = 0. What are the prime factors of n?
+11
+Let h(m) = 2*m - 34. Let x be h(-17). Let v = 247 + x. What are the prime factors of v?
+179
+Let u(h) = -190*h - 1750. What are the prime factors of u(-48)?
+2, 5, 11, 67
+Let d be (12/(-8))/((-15)/10). Let v(x) = 4*x + 2. Let o be v(d). Let t(j) = -j**2 + 14*j - 5. What are the prime factors of t(o)?
+43
+Let c(x) = -x**2 + 13*x + 1. Let n = 35 - 31. Suppose -3*h + 4*a - 2 = 0, -n*h + 4*a + 3 = -1. What are the prime factors of c(h)?
+43
+Let o(n) = -4*n - 2 + 6*n + 13 + 3. Let d be o(-8). List the prime factors of (56/21)/(d/(-69)).
+2, 23
+Suppose 2*q = -q, -q = 2*o + 2*q - 15116. List the prime factors of o.
+2, 3779
+Let u be 1 + 0/(-4) + 72. Suppose 3*d + y - u = 0, -4*y + 112 - 12 = 4*d. List the prime factors of (-33)/(-6)*d/4.
+3, 11
+Let p(f) = 3*f**2 - 12*f - 23. Let y be p(-3). Let u = 222 - y. What are the prime factors of u?
+2, 7, 13
+Suppose w + m - 2326 - 1328 = 0, -5*w + 18267 = 2*m. What are the prime factors of w?
+13, 281
+Suppose 2*p = 2*n + 6, -5*p + n + 6 = -5. Let o be (-6)/(1/(-20 + p + -2)). Suppose 0 = 7*k - 4*k - o. List the prime factors of k.
+2, 5
+Let i(q) be the second derivative of 3*q**3 - 11*q. Let z be i(2). Suppose -4*u = 2*u - z. What are the prime factors of u?
+2, 3
+Let c be -1 - 1131/(-5) - (-8)/(-40). Let t = c - 174. What are the prime factors of t?
+3, 17
+Suppose -z + 2*n = -2912, -4*z + 11663 = 22*n - 25*n. List the prime factors of z.
+2, 1459
+Suppose -2*l - 246 = -5*y + 425, 4*y + 3*l = 523. Suppose y = 3*u - 458. What are the prime factors of u?
+197
+Let y = -938 + 6218. What are the prime factors of y?
+2, 3, 5, 11
+Suppose -h + 4866 = t, h - 2130 - 2745 = -4*t. List the prime factors of h.
+3, 1621
+What are the prime factors of -146*(-5 + 66/(-4))?
+43, 73
+Suppose 0 = -7*i - 6*i + 31959 + 31858. List the prime factors of i.
+4909
+Let u = 1301 - -1140. List the prime factors of u.
+2441
+Suppose 0 = 9*x - 127 + 109. Let h = 32 + -21. Suppose -576 = -h*q + x*q. What are the prime factors of q?
+2
+Let t = -296 + 67. Let d = 325 + t. Suppose 3*p - 51 = d. What are the prime factors of p?
+7
+Let a = 0 - -14. Let t(d) = -6*d**2 - 15*d + 10. Let y be t(a). What are the prime factors of (-8)/28 + (-2 - y/14)?
+2, 3
+Suppose 1616 = 244*c - 240*c. Suppose -1890 = -5*o + j, 0*o + o + 5*j = c. List the prime factors of o.
+379
+Let m(z) = -25*z - 54. Let p be m(8). Let f = p + 441. List the prime factors of f.
+11, 17
+Suppose 21*b + 9*b = 174570. List the prime factors of b.
+11, 23
+Let j be -1*7/(-14)*(0 - 0). Suppose j = 7*h - 8*h + 25. List the prime factors of ((-45)/h)/(1/(-25)).
+3, 5
+What are the prime factors of ((-1065)/1)/(((-3)/(-18))/(33/(-66)))?
+3, 5, 71
+Suppose -9*j + 3*j = 522. Let s = 83 - j. Let i = s + -119. What are the prime factors of i?
+3, 17
+Suppose 3*u + x - 43 = 0, -4*x + 5*x = 5*u - 85. Suppose 4166 = u*j - 426. List the prime factors of j.
+7, 41
+Let f(v) = 15*v - 120. Let r be -2*(-19)/(-3)*(-3)/2. What are the prime factors of f(r)?
+3, 5, 11
+Let j = 14314 - 4546. What are the prime factors of j?
+2, 3, 11, 37
+Let q be 1 - -4 - 2 - 1. Suppose -38 + 324 = 2*w + q*f, -w + 168 = -4*f. List the prime factors of w.
+2, 37
+Let n = 2298 + 1244. List the prime factors of n.
+2, 7, 11, 23
+Let o be (-52)/(9/4 - 2). Suppose 539 = -3*k - 4*t + 174, 3*k - 2*t + 371 = 0. Let c = k - o. What are the prime factors of c?
+5, 17
+Let d(m) = 63*m - 45. Let n be d(8). Let x = n - 221. List the prime factors of x.
+2, 7, 17
+Suppose -2*p + 6*p = -4, -u + 3*p = -443. Suppose -4*d + 3*d = -u. List the prime factors of d.
+2, 5, 11
+Suppose 5*u - 3*i = 6*u + 15, -4*u + 20 = -4*i. Suppose u = 21*g - 13*g - 24. List the prime factors of g.
+3
+Let o be (3070/(-30))/(2/(-12)). Let n = o + -406. What are the prime factors of n?
+2, 13
+Let v = -160 + 164. Suppose l - 6*l + 831 = -2*c, 3*l - v*c - 493 = 0. List the prime factors of l.
+167
+Suppose 5*h - 16 - 16 = 2*l, 5*h - l - 36 = 0. Let v(j) be the first derivative of 4*j**2 - 13*j - 456. List the prime factors of v(h).
+3, 17

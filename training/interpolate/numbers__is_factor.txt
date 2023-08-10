@@ -1,0 +1,200 @@
+Is 6649270 a multiple of 536?
+False
+Does 45 divide 5348340?
+True
+Is 56874920 a multiple of 18?
+False
+Is 76 a factor of 7834080?
+True
+Does 9 divide 8616996?
+True
+Does 43 divide 1196813?
+False
+Does 2162 divide 30948535?
+False
+Does 38 divide 8529831?
+False
+Is 6 a factor of 1902486?
+True
+Is 18 a factor of 28343160?
+True
+Is 19175573 a multiple of 53?
+False
+Is 23 a factor of 7084135?
+False
+Is 20539928 a multiple of 128?
+False
+Is 20236887 a multiple of 6?
+False
+Is 2999 a factor of 6228923?
+True
+Is 1596 a factor of 60338896?
+False
+Does 44 divide 76648750?
+False
+Is 18518994 a multiple of 234?
+True
+Is 26329830 a multiple of 584?
+False
+Is 678 a factor of 34494606?
+True
+Is 9859798 a multiple of 41?
+False
+Is 59365481 a multiple of 102?
+False
+Is 12899574 a multiple of 9?
+True
+Is 13 a factor of 34643427?
+True
+Is 2821 a factor of 16169972?
+True
+Is 173 a factor of 16501778?
+True
+Does 107 divide 23856897?
+False
+Is 556 a factor of 38153276?
+True
+Is 33483528 a multiple of 83?
+True
+Is 10833998 a multiple of 71?
+False
+Does 485 divide 8420570?
+True
+Is 13233622 a multiple of 809?
+True
+Does 2811 divide 16697340?
+True
+Is 50 a factor of 73737750?
+True
+Is 4042226 a multiple of 55?
+False
+Does 163 divide 34052098?
+False
+Is 15 a factor of 7527585?
+True
+Does 32 divide 42604128?
+True
+Is 1012903 a multiple of 2?
+False
+Does 697 divide 50946855?
+False
+Is 8971755 a multiple of 1807?
+True
+Is 14 a factor of 98639968?
+True
+Is 72362640 a multiple of 1064?
+True
+Does 26 divide 3381169?
+False
+Does 116 divide 6624064?
+True
+Is 477 a factor of 66155827?
+False
+Is 75 a factor of 33906975?
+True
+Does 391 divide 49597959?
+True
+Is 44 a factor of 11544576?
+False
+Does 47 divide 11709020?
+False
+Is 90 a factor of 12139946?
+False
+Is 32063016 a multiple of 296?
+True
+Is 11 a factor of 20518949?
+True
+Is 70156366 a multiple of 13?
+False
+Does 1196 divide 53276539?
+False
+Is 129 a factor of 65918874?
+False
+Does 56 divide 10181640?
+True
+Does 30 divide 81957542?
+False
+Is 23048500 a multiple of 25?
+True
+Is 12382638 a multiple of 89?
+False
+Is 41360047 a multiple of 47?
+True
+Is 151 a factor of 584219?
+True
+Is 1287 a factor of 17309568?
+False
+Does 134 divide 48424786?
+True
+Does 3765 divide 50895270?
+True
+Is 33657612 a multiple of 1644?
+True
+Does 1115 divide 57770396?
+False
+Is 28058260 a multiple of 305?
+False
+Is 39919224 a multiple of 24?
+True
+Is 17 a factor of 34562653?
+False
+Is 424 a factor of 25366031?
+False
+Does 129 divide 57405645?
+True
+Does 82 divide 17891498?
+True
+Is 20302668 a multiple of 5?
+False
+Is 712656 a multiple of 12?
+True
+Is 794 a factor of 49271670?
+True
+Is 775 a factor of 25320748?
+False
+Is 10449944 a multiple of 20?
+False
+Is 30422820 a multiple of 19?
+False
+Is 18665275 a multiple of 265?
+True
+Is 60935160 a multiple of 1378?
+True
+Is 15 a factor of 19386585?
+True
+Is 27059384 a multiple of 294?
+False
+Is 14 a factor of 69791373?
+False
+Does 145 divide 15957685?
+True
+Is 10 a factor of 42427160?
+True
+Is 10 a factor of 2117436?
+False
+Is 87946780 a multiple of 163?
+False
+Is 857513 a multiple of 22?
+False
+Is 2762600 a multiple of 5?
+True
+Does 2 divide 466393?
+False
+Does 310 divide 22346252?
+False
+Is 19088055 a multiple of 9?
+True
+Is 22279092 a multiple of 922?
+False
+Is 137293 a multiple of 3?
+False
+Does 24 divide 66484224?
+True
+Is 167 a factor of 21695529?
+False
+Is 38297124 a multiple of 54?
+True
+Is 30312650 a multiple of 250?
+False
+Is 617 a factor of 3096723?
+True

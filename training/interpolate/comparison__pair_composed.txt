@@ -1,0 +1,200 @@
+Let k = 4888 + -4882. Is -20.1 equal to k?
+False
+Let c be -6 + (18/12)/(12/40). Which is bigger: 22/113 or c?
+22/113
+Let l = -190 + 217. Let z(v) = 9 - 7*v. Let p(u) = -2. Let d(h) = 10*p(h) + 2*z(h). Let t be d(-2). Which is greater: l or t?
+l
+Let g = 1/16345119 - -1306530742073/1193193687. Let m = g + -1095. Which is smaller: m or 0?
+m
+Suppose 0 = 3*o + 3*o - 901536. Let f = 41019700/273 - o. Let v = 2/91 + f. Is v at most as big as 17?
+True
+Suppose 23*n + 96 = 1353 + 721. Is n greater than 1104/13?
+True
+Let v = -3057 - -3058. Is v < -2/13743?
+False
+Let o be (-530)/(-4) + (-2)/(-4). Let b be (3/2*1)/((-243)/(-21708)). Is o bigger than b?
+False
+Let n be (27/(-9))/(-204)*8. Is n bigger than 21/5?
+False
+Let z = 0 - 2.15. Let b = 0.15 + z. Let m = 244 - 742/3. Is m greater than b?
+False
+Let b = 250 + -123. Let v = b - 67. Let l = -88 + v. Does 1/4 = l?
+False
+Let u = 2950 + -3385. Is -0.3 smaller than u?
+False
+Let v = 30 + -31. Let d be (3/(-678))/((-13)/(-52)). Which is bigger: d or v?
+d
+Let s = -3195 + 3208. Does s = 25/2?
+False
+Let u = 291 - 138. Suppose -u = 10*h - 27*h. Which is greater: 13 or h?
+13
+Let g = 109 - 97. Suppose 0 = 14*h - g - 86. Which is smaller: 2 or h?
+2
+Let z = -2/55 - -24/55. Let y = -0.9 + 8.9. Let h = -8.1 + y. Which is smaller: h or z?
+h
+Suppose 0 = -6*v + 147 + 27. Suppose 47 = 4*i - v. Which is smaller: 18 or i?
+18
+Let h = -2533 + 27829/11. Let m(p) = -p**3 - 5*p**2 - p - 7. Let w be m(-5). Which is greater: h or w?
+w
+Let y(v) = -v**2 - 5*v + 30. Let l be 3/(2/(-3) - (-8)/24). Let n be y(l). Is n at most 6/13?
+True
+Let m = 3.6 + 1.4. Let c be 6*6/(-1) - 0. Let i = 182/5 + c. Is i less than m?
+True
+Suppose -268 = t - 278. Suppose 13 = t*d + 23. Let m be 2/10*-13 - -2. Which is smaller: m or d?
+d
+Suppose p + 0*p + 9 = -2*d, 2*p + d + 6 = 0. Let y be (-6)/39 - 10744/299. Let m = y - -36. Which is greater: p or m?
+m
+Let j = 301 - -273. Suppose 6*i + 656 = -j. Is -204 bigger than i?
+True
+Let n be (-2)/(-4) + (-1377)/(-18). Let t = -255 - -333. Is t greater than n?
+True
+Let q be (0 + 4/(-14))*-9. Suppose g + 3738 = 22*g. Suppose -g*s + 179*s = -1. Are s and q nonequal?
+True
+Let t(i) be the first derivative of 1/3*i**3 + 3*i + 5*i**2 + 5. Let w be t(-7). Is w greater than -17?
+False
+Suppose 5*p = 2*p - 3. Let o be (-3687)/7374*((-2)/(-9) - 104/450). Is p less than o?
+True
+Suppose -265*f - 12936 = -293*f. Is 458 at most f?
+True
+Let y(i) = 3*i + 20. Let t be y(-6). Suppose 227 + 19 = 5*v + t*o, 0 = 3*o - 9. Suppose 0 = -5*j + j + v. Is 12 greater than or equal to j?
+True
+Let g = -2.2 + 6.2. Let d = 2389/564 - 15/47. Let i = 11/3 - d. Do g and i have the same value?
+False
+Suppose -4*c - 53*c = -41512 - 48434. Which is smaller: c or 3155/2?
+3155/2
+Suppose 50*d = -437 - 1297 - 666. Is d < -57?
+False
+Let x = 17 - 18. Let i be (5/(25/(-10)))/((-27)/(-6)). Is x greater than i?
+False
+Suppose -4*l - 12 = -0*l. Let y(r) = -r - 8. Suppose -5*o - 16 = w, 3*o + 2*w = 6*w - 28. Let i be y(o). Is i bigger than l?
+False
+Let l(t) = -2*t**2 - 7*t + 2. Suppose 0 = -2*o - o - 12. Let d be l(o). Let k be d/(-3) - 4/6. Are -6/23 and k unequal?
+True
+Let i(v) = -v**2 - 8*v - 10. Let j be i(-6). Let f be j + 1 + 94/(-4). Let z = f - -19. Is -3 >= z?
+False
+Let d be 246/(-164)*(0 - (-40)/(-6)). Let s be (-2)/((-5)/(25/d)). Are s and -4/15 unequal?
+True
+Suppose 68*w = 67*w - 1. Let m = -672 + 1576. Let x be 2/7 + m/(-2576). Is x greater than w?
+True
+Let s = 22042499/7938 + -16661/6. Which is smaller: -1 or s?
+-1
+Suppose -171*z + 78*z + 80*z = 0. Which is greater: z or -2/1015?
+z
+Let j be ((-2)/1)/(-1*2/4). Suppose 4*a + j + 20 = -2*t, 0 = 5*t - 4*a - 10. Which is smaller: t or -10/9?
+t
+Let w = 3229 - 3228. Which is greater: 5/23 or w?
+w
+Let g(a) be the second derivative of 37*a**3/6 + 17*a**2/2 + 10*a. Let i be g(-6). Let m = i + 3074/15. Is m <= 1?
+True
+Suppose -222*w + 7028 + 15616 = 0. Is w at most 103?
+True
+Let u be -1 - (-1 + -3 + -2). Suppose 5*l + 4 = -d - 2*d, 0 = -u*d + 4*l + 55. Is -4 less than d?
+True
+Let r = 4/5727 + -40740/20999. Let w be (-6 - -17) + (-456)/36. Let y = r - w. Which is greater: -1 or y?
+y
+Let g = 9605/161 + -72848255/644. Let f = g - -112336. Let a = 717 + f. Which is smaller: -6 or a?
+-6
+Let i be 1027/104*8 + 8. Are 85 and i unequal?
+True
+Suppose 16*q + 227 + 77 = 0. Is q not equal to -20?
+True
+Let g(p) = 1850 - 42*p. Let n be g(44). Which is smaller: n or -60.5?
+-60.5
+Let o be (-195)/26*(-2)/5. Suppose 0 = -o*s + 233 + 31. Let l be ((-6)/(-48))/(6/s). Is 1 smaller than l?
+True
+Let j(o) = 199*o + 1 + 17*o**2 + 2*o**3 + 0*o**3 - 181*o - 3*o**3. Let l be j(18). Which is smaller: -2 or l?
+-2
+Let d = -117 + -6. Let z be 0 - ((-252)/d)/7. Is z > 0?
+False
+Let g = -376.92 - 18.08. Is 2/23 less than g?
+False
+Let l = 6385/13 + -22111268/45019. Is 1 at least l?
+True
+Let m = 25.69 - 26. Let d = 0.289 + 0.051. Let h = d + m. Is h smaller than 0?
+False
+Suppose 3 = l - m - 2*m, -2*l + m = 9. Is -8 != l?
+True
+Let p(g) be the first derivative of -3*g**2/2 - 11. Let y be p(-1). Suppose -q = q - y*q. Is q at most as big as 3/28?
+True
+Let x be 1 + 3 - -1 - 9715/2755. Which is smaller: 12 or x?
+x
+Let z be ((-88)/40)/((-3)/294). Which is smaller: 215 or z?
+215
+Let w be ((-5)/75)/((-999)/6). Let v = 10204/534465 - w. Which is bigger: 1 or v?
+1
+Let s = 3501 + -3613. Which is bigger: s or 5?
+5
+Let i be (-2)/127*((-2)/3 + (-871)/(-402)). Are i and 1 nonequal?
+True
+Suppose 23 = -8*r + 55. Suppose 0 = -r*t + 3*g + 10, 2*g = 5*t - 0*g - 9. Suppose -4*h + 2*h = 5*z + 10, 5*h + 6 = -3*z. Which is smaller: h or t?
+h
+Let f be (-44)/100*7 - -3. Do 64 and f have the same value?
+False
+Let x = -0.64 + 0.7. Let a = 1.8 - 1.91. Which is bigger: a or x?
+x
+Let v = 1560 + -1625. Which is smaller: v or -60?
+v
+Let j = 10.8352 - -0.1648. Is j != -115?
+True
+Let z be -282 - (2/4 + 259/(-74)). Is z not equal to -281?
+True
+Suppose 0 = -4*n - 4*m - 44, 4*n = -m + 2*m - 59. Let y(j) = j**2 + j. Let z be y(-2). Suppose -4*i = -z*i - 4*c + 34, -5*i + 4*c = 79. Is i at least n?
+False
+Suppose d - 4 = 2*x, 0 = 8*d - 3*d - 5*x - 15. Let h be d/(-30) + 25/(-75). Is h greater than or equal to -76?
+True
+Let x(l) = 102*l**2 + 3*l - 8. Let n be x(2). Let y = -12181/30 + n. Which is greater: 1 or y?
+1
+Let f = -46.81 + 49.9. Let x = 63 + -66.1. Let j = x + f. Which is smaller: j or 0.3?
+j
+Let u = 5517217/55505 - 4/11101. Suppose 0*g + 92 = g + 4*l, 5 = -5*l. Let m = g - u. Is -2 bigger than m?
+True
+Let o be (10*(-6)/(-75))/(6/45). Suppose -d - 7*w + o = -2*w, -4*w + 1 = -3*d. Do 4/3 and d have the same value?
+False
+Let k = -2478 + 2490. Which is greater: k or -21?
+k
+Let o(y) = 2*y - 9. Let b(l) = -3*l - 8. Let w be b(-5). Let k be o(w). Suppose q + q + 2*c = -6, 0 = -k*q + 3*c + 9. Which is smaller: q or 4?
+q
+Let d be -3 - ((-24143)/(-20125))/(2/(-5)). Do 1 and d have different values?
+True
+Let i = 492 + -15256/31. Let l = -40 - -38. Let a be (4 - (l + 7))*(-1 - 0). Is a equal to i?
+False
+Suppose 0 = -7*j + 1350 - 902. Which is smaller: 65 or j?
+j
+Let f = 0 - -1. Suppose 1448 = -b + 4*t, 3*b + 0*t - 3*t = -4362. Let x be b/6174 - (-4)/18. Is x less than f?
+True
+Let v be (-2219)/(-119) - ((-14)/4 - (-15)/30). Is v greater than 22?
+False
+Let v be 2*6/(-12) - 1*-3. Suppose 3*p + y = -1, -4*p + 14 = -2*y + v. Is -2/23 at least as big as p?
+False
+Let v = -484 - -473. Suppose 0 = -2*c + 15 + 19. Let w = c - 28. Is v >= w?
+True
+Suppose -4*u + 2*t + 17 = -9, -5*u - 2*t = -55. Let w = u + -4. Let b = -6 + w. Are b and 4/21 equal?
+False
+Suppose 13*g - 29*g - 48 = 0. Let m be 2/(-2)*(-4 + g)/(-7). Is m less than -11/16?
+True
+Let a(o) = -14*o - 105. Let w be a(-17). Suppose -9*n = 5*l - 4*n - 650, 8 = -4*n. Is w at least l?
+True
+Let i = 0.007 + 34.993. Let h = -0.193 + -33.807. Let v = h + i. Which is smaller: v or -2?
+-2
+Let c = 5108 - 3328. Suppose 9*b - c = 14*b. Let z = 4626/13 + b. Are z and -2/3 unequal?
+True
+Let g = 9605.035 - 9631. Let o = -0.035 + g. Let l = 557/9 + -185/3. Which is bigger: o or l?
+l
+Let g = 316.3 - 316. Which is greater: g or -121?
+g
+Let n be ((-1)/9)/(6 - 967813/161322). Let z = -454/3 - n. Let l(s) = -s**2 + 5*s - 1. Let c be l(5). Do c and z have different values?
+True
+Suppose 0 = 3*g + 195 - 192. Which is smaller: 10/869 or g?
+g
+Suppose 7 = -73*s + 7. Is s != 2/473?
+True
+Let w = -248/15 - -754/45. Which is bigger: -0.0377 or w?
+w
+Let p = 165013/57 + -2895. Is 0 > p?
+True
+Suppose 4 + 4 = 8*k. Suppose 4*b + k = -3*x, -3*x + 3 = -b - 1. Which is smaller: 7 or b?
+b
+Let i be (-2 - (-92)/(-5)) + (-12)/20. Let c be 7*((-69)/i - 3) + -2. Suppose 0 = -c*t + 5*t + 130. Which is bigger: t or -27?
+t
+Let v(o) = -3*o**3 + 2*o**2 - o. Let w be v(-2). Let t be (4 - w/10)*(-13)/(-315). Let m = 3/25 - t. Is 0.2 smaller than m?
+False
