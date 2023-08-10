@@ -1,0 +1,66 @@
+Solve 2548*k - 2538*k + 100 = 0 for k.
+-10
+Solve 0 = -16*p - 3088 + 3264 for p.
+11
+Solve 14*j + 99 = -2 + 17 for j.
+-6
+Solve -325 = 61*i - 512 - 789 for i.
+16
+Solve 268 + 72 = 21*s - 38 for s.
+18
+Solve -16 = 847*w + 842*w - 1685*w for w.
+-4
+Solve 3545 = -12*r + 869*r - 10167 for r.
+16
+Solve 1344*b - 155*b = -605*b - 26910 for b.
+-15
+Solve 0 = -385*n + 1992 + 10233 - 1830 for n.
+27
+Solve -89*r + 633 + 322 = -380 for r.
+15
+Solve 123*a + 218*a = 5797 for a.
+17
+Solve -75*h + 69*h - 89*h = -1900 for h.
+20
+Solve 0 = -276*f + 306*f + 70 - 10 for f.
+-2
+Solve 840 + 581 + 28 = 161*k for k.
+9
+Solve -4*b + 183 = 13*b - 55 for b.
+14
+Solve -17*u + 115 = 6*u - 69 for u.
+8
+Solve -199*z - 5819 = 1503 + 240 for z.
+-38
+Solve 698*y - 1 = 699*y for y.
+-1
+Solve -67*c + 5594 - 6197 = 0 for c.
+-9
+Solve 15*p - 75*p = -15*p - 540 for p.
+12
+Solve 49125*y - 49086*y = 585 for y.
+15
+Solve 6*n - 32 = 3*n + n for n.
+16
+Solve 62*s + 143*s - 2890 = -84*s for s.
+10
+Solve -72*m - 234*m - 42*m = 29*m for m.
+0
+Solve 0 = -6365*o + 6319*o - 736 for o.
+-16
+Solve -14065*v + 6104 = -14283*v for v.
+-28
+Solve -7*h - 290 + 227 = 0 for h.
+-9
+Solve -48*p = 156 + 228 for p.
+-8
+Solve 4*t + 80 = 6*t - 10*t for t.
+-10
+Solve -630*a = -1312*a + 16368 for a.
+24
+Solve 301 + 910 = -90*p + 311 for p.
+-10
+Solve 0 = 7369*c - 7312*c + 114 for c.
+-2
+Solve -15*h - 8*h + 38564 = 38242 for h.
+14

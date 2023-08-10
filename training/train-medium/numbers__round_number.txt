@@ -1,0 +1,66 @@
+Round 0.006726155 to 3 decimal places.
+0.007
+What is 0.0008295357 rounded to five dps?
+0.00083
+What is 0.00001713463 rounded to seven dps?
+0.0000171
+What is 0.000005601855 rounded to seven decimal places?
+0.0000056
+Round 0.208374 to the nearest integer.
+0
+Round -13.27732 to 1 decimal place.
+-13.3
+Round 1861.2 to the nearest ten thousand.
+0
+What is -4.78762 rounded to the nearest integer?
+-5
+What is 103.375 rounded to zero dps?
+103
+Round 49309400 to the nearest 100000.
+49300000
+Round 32904.97 to the nearest 10.
+32900
+What is 32027500 rounded to the nearest 1000000?
+32000000
+What is -0.00057122 rounded to four decimal places?
+-0.0006
+Round -603332700 to the nearest one hundred thousand.
+-603300000
+What is 0.0454606 rounded to two decimal places?
+0.05
+Round 300.082 to the nearest one hundred.
+300
+What is -0.042769 rounded to two decimal places?
+-0.04
+Round -973420000 to the nearest 1000000.
+-973000000
+What is 0.0002150235 rounded to seven decimal places?
+0.000215
+Round 75546500 to the nearest one million.
+76000000
+Round 2447500 to the nearest ten thousand.
+2450000
+Round -0.063697 to 4 decimal places.
+-0.0637
+Round 55.60588 to 0 decimal places.
+56
+What is 3524349 rounded to the nearest one million?
+4000000
+What is -36386730 rounded to the nearest 100000?
+-36400000
+What is 7556.67 rounded to the nearest 10?
+7560
+Round -8520510 to the nearest one million.
+-9000000
+What is 1.06274 rounded to 1 dp?
+1.1
+What is -0.027460888 rounded to five dps?
+-0.02746
+What is -2405.21 rounded to the nearest 10?
+-2410
+What is 0.188014 rounded to one decimal place?
+0.2
+What is -0.00180179 rounded to five decimal places?
+-0.0018
+What is -0.006498629 rounded to 5 decimal places?
+-0.0065

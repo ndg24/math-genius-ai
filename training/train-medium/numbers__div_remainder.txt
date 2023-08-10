@@ -1,0 +1,66 @@
+Calculate the remainder when 3184 is divided by 219.
+118
+What is the remainder when 1126 is divided by 840?
+286
+Calculate the remainder when 2058 is divided by 335.
+48
+Calculate the remainder when 10071 is divided by 458.
+453
+What is the remainder when 14656 is divided by 74?
+4
+Calculate the remainder when 104593 is divided by 19.
+17
+What is the remainder when 192257 is divided by 207?
+161
+Calculate the remainder when 14906 is divided by 1485.
+56
+Calculate the remainder when 188512 is divided by 111.
+34
+What is the remainder when 884615 is divided by 24?
+23
+What is the remainder when 10465 is divided by 1795?
+1490
+Calculate the remainder when 21718 is divided by 2163.
+88
+Calculate the remainder when 14312 is divided by 14292.
+20
+What is the remainder when 7162 is divided by 30?
+22
+Calculate the remainder when 114383 is divided by 38127.
+2
+What is the remainder when 6861 is divided by 34?
+27
+What is the remainder when 8111 is divided by 197?
+34
+Calculate the remainder when 4804 is divided by 160.
+4
+What is the remainder when 12753 is divided by 3163?
+101
+What is the remainder when 6532 is divided by 507?
+448
+What is the remainder when 2742 is divided by 2732?
+10
+Calculate the remainder when 42946 is divided by 21392.
+162
+What is the remainder when 723 is divided by 145?
+143
+Calculate the remainder when 18219 is divided by 1214.
+9
+What is the remainder when 264591 is divided by 147?
+138
+Calculate the remainder when 128986 is divided by 1057.
+32
+What is the remainder when 927 is divided by 264?
+135
+What is the remainder when 138615 is divided by 395?
+365
+What is the remainder when 34625 is divided by 52?
+45
+What is the remainder when 95305 is divided by 191?
+187
+What is the remainder when 121599 is divided by 202?
+197
+Calculate the remainder when 4247 is divided by 41.
+24
+What is the remainder when 2931 is divided by 110?
+71

@@ -1,0 +1,66 @@
+Let m(v) be the first derivative of -7*v**5/5 - 7*v**3/3 - 146*v + 78. What is the first derivative of m(h) wrt h?
+-28*h**3 - 14*h
+Let g(f) be the third derivative of -7*f**6/12 + f**4/12 - 13*f**3 + 33*f**2 + 3*f. What is the second derivative of g(x) wrt x?
+-420*x
+Let y be (292/18 - -1) + (-16)/72. What is the third derivative of 5*q**4 + y*q + 20*q**2 + 14*q - 31*q wrt q?
+120*q
+What is the third derivative of -101*r**3 + 136*r**2 + 2*r**2 - 9*r**2 wrt r?
+-606
+Find the second derivative of -70*y**4 - y + 4*y**3 - 94*y**4 + 143*y**4 - 88 wrt y.
+-252*y**2 + 24*y
+What is the second derivative of 0*r - 33*r**4 + 74*r**4 + 85*r**4 - 31*r wrt r?
+1512*r**2
+Let w(a) be the first derivative of 0*a**4 + 8/5*a**5 + 9*a**2 + 0*a + 0*a**3 + 10. What is the second derivative of w(z) wrt z?
+96*z**2
+Let b(r) be the first derivative of 0*r**3 - 2*r - 29/4*r**4 + 0*r**2 + 31. What is the derivative of b(y) wrt y?
+-87*y**2
+Let x be -1 + 4/8*2. Suppose 3*y - 5*u - 2 = -x, -u - 2 = -y. Find the second derivative of -3*o**y + 4*o - o**4 + o + 9*o wrt o.
+-48*o**2
+Let o(v) be the second derivative of v**5/10 + 5*v**3/6 - 3*v**2/2 - 5*v. Let c(b) be the first derivative of o(b). Find the first derivative of c(i) wrt i.
+12*i
+Find the third derivative of 2*q + 16*q**3 - 42*q**3 + 5*q**2 + 7*q**3 - 2*q**2 wrt q.
+-114
+Find the third derivative of -9369*y**2 - 109*y**5 + 12*y**5 + 9305*y**2 wrt y.
+-5820*y**2
+Let j(n) be the third derivative of -5*n**8/56 - n**6/120 - 31*n**5/60 + 2*n**2 - 50*n. What is the third derivative of j(p) wrt p?
+-1800*p**2 - 6
+Find the third derivative of 37690*p**3 + 9*p**4 - 2*p**2 - 45*p + 0*p**2 - 37688*p**3 wrt p.
+216*p + 12
+Find the third derivative of -3*w + 12*w**6 - 233*w**6 - 38*w**2 + 300*w**6 + 310*w**6 wrt w.
+46680*w**3
+Differentiate 30*z**4 - 24*z**4 + 7 - 30*z**4 + 2 with respect to z.
+-96*z**3
+Let w(c) = 19*c**2 - 50*c + 24*c**2 - 2*c**2 - 6*c**2. Let q(v) = 12*v**2 - 17*v. Let m(t) = 17*q(t) - 6*w(t). What is the second derivative of m(y) wrt y?
+-12
+Let n(m) = -54*m**4 + 6*m**3 - 126*m + 6. Let w(z) = -z**4 + z**3 + 1. Let d(f) = -n(f) + 6*w(f). Find the second derivative of d(h) wrt h.
+576*h**2
+Let u(d) be the second derivative of -d**6/6 + 39*d**5/20 + 67*d**4/2 - 6*d + 5. What is the third derivative of u(p) wrt p?
+234 - 120*p
+Find the third derivative of 71*y**5 - 458*y**2 - 61*y**5 + 1103*y**2 - 57*y**5 wrt y.
+-2820*y**2
+What is the second derivative of -11312*f + 203*f**4 + 11099*f - 8*f**4 + 99*f**4 wrt f?
+3528*f**2
+Suppose 0 = -6*m + 10*m - 16. Let d(b) be the first derivative of 4/5*b**5 + 3/2*b**2 + 0*b**3 + 0*b + 0*b**m - 4. Find the second derivative of d(n) wrt n.
+48*n**2
+Let g(h) = -87*h**2 + 11*h - 6. Let a(d) = -87*d**2 + 8*d - 5. Let z(n) = 4*a(n) - 3*g(n). Find the second derivative of z(b) wrt b.
+-174
+Let b(a) be the third derivative of -1/30*a**6 + 0 + 17*a**2 + 0*a + 3/4*a**4 + 0*a**3 + 0*a**5. What is the second derivative of b(s) wrt s?
+-24*s
+Let k(n) be the first derivative of 77*n**3/3 - n**2 + 3*n - 134. Find the second derivative of k(p) wrt p.
+154
+Let z = -90 + 118. Find the first derivative of -15*q - 6*q - 9*q + z wrt q.
+-30
+Let g(j) be the first derivative of 381*j**4/4 + 2*j**3/3 + 6*j**2 + j + 495. Find the second derivative of g(m) wrt m.
+2286*m + 4
+Let y(a) be the first derivative of 33*a**6/2 + a**2/2 - 59*a - 69. Find the second derivative of y(x) wrt x.
+1980*x**3
+Let h(y) be the third derivative of -121*y**8/168 - y**4/24 + 151*y**3/6 - 577*y**2. Find the second derivative of h(m) wrt m.
+-4840*m**3
+Let t(j) = 2*j**2 + 477*j - 17. Let w(l) = 2*l**2 + 480*l - 18. Let s(u) = -5*t(u) + 4*w(u). Differentiate s(q) wrt q.
+-4*q - 465
+What is the third derivative of -560*l**2 - 675*l**2 + 374*l**5 + 1324*l**2 wrt l?
+22440*l**2
+Find the second derivative of 9*k**5 + 20*k + 20*k**5 + 2 - 11*k**5 + 38*k**5 wrt k.
+1120*k**3
+Find the third derivative of -59*x**2 + 45*x - 25*x - 25*x + 329*x**5 + 44*x**5 + 31*x**5 wrt x.
+24240*x**2

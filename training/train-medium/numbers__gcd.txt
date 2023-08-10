@@ -1,0 +1,66 @@
+Calculate the greatest common factor of 213004 and 6674.
+94
+Calculate the greatest common factor of 180 and 33435.
+45
+What is the highest common factor of 182 and 190498?
+14
+What is the greatest common divisor of 82 and 51854?
+2
+What is the greatest common factor of 8 and 274504?
+8
+What is the highest common divisor of 152 and 1008292?
+76
+What is the greatest common divisor of 244 and 476288?
+244
+Calculate the greatest common factor of 4321 and 745.
+149
+Calculate the greatest common divisor of 293 and 4683019.
+293
+Calculate the greatest common factor of 779 and 821435.
+41
+Calculate the greatest common divisor of 147168 and 288.
+288
+What is the highest common divisor of 139382 and 8?
+2
+Calculate the greatest common factor of 4 and 1698668.
+4
+What is the highest common divisor of 918 and 748?
+34
+What is the greatest common factor of 288 and 23304?
+24
+What is the highest common divisor of 2293576 and 8?
+8
+Calculate the highest common divisor of 58432 and 130808.
+664
+Calculate the highest common factor of 328857 and 15.
+3
+What is the greatest common divisor of 195 and 477165?
+195
+What is the highest common factor of 16 and 100008?
+8
+What is the highest common divisor of 852 and 4331?
+71
+Calculate the highest common factor of 602 and 570094.
+602
+Calculate the greatest common factor of 15867 and 9675.
+387
+What is the highest common divisor of 121977 and 9?
+9
+What is the highest common factor of 267 and 319243?
+89
+Calculate the highest common factor of 94323 and 4692.
+69
+What is the highest common divisor of 45255 and 35?
+35
+What is the greatest common divisor of 576 and 251892?
+36
+Calculate the greatest common divisor of 3349 and 9456.
+197
+Calculate the highest common factor of 129 and 179955.
+129
+Calculate the greatest common divisor of 332673 and 3927.
+561
+Calculate the highest common divisor of 41601 and 2264.
+283
+What is the highest common factor of 3916 and 13172?
+356

@@ -1,0 +1,66 @@
+Suppose -4*w = -3*h - 170, -2*h = -w - 0*h + 45. Suppose w*p - 66 = 40*p. Does 11 divide p?
+True
+Suppose 21*g - 6508 = -2539. Does 7 divide g?
+True
+Let r = 13 - 11. Suppose r*l + 2*y = 56, -l = -5*l - y + 103. Does 2 divide l?
+False
+Let l(r) be the first derivative of r**4/4 + 10*r**3/3 - 5*r**2 + 16*r + 22. Does 5 divide l(-11)?
+True
+Let x(w) = 4*w**2 - 11*w - 4. Is 32 a factor of x(14)?
+False
+Let l = -69 - -65. Is (6/l)/(((-4)/496)/1) a multiple of 42?
+False
+Let v(k) = -2*k**2 + 11*k + 8. Let m be -3 + (-6)/(-3) - -7. Let a be v(m). Is 4 a factor of (a/4)/((-3)/(-54))?
+False
+Suppose 10188 = 58*m - 6110. Is m a multiple of 45?
+False
+Let z(c) = c**2 + 20*c - 12. Is 4 a factor of z(-24)?
+True
+Let m be 2*4*2/4. Suppose 18 = 2*g + d, -d = g + m*g - 39. Is 41*1 - (g + -6) a multiple of 10?
+True
+Suppose 8*h + 3 = 5*h. Is -3 + (9 - h) - 2/(-2) even?
+True
+Let y be ((-18)/12)/(3/(-8)). Suppose y*s = -0*s + 128. Let z = s - 10. Is 22 a factor of z?
+True
+Let k(h) = -15*h**2 + h + 8. Let n(p) = -46*p**2 + 4*p + 24. Let y(b) = -7*k(b) + 2*n(b). Does 50 divide y(-4)?
+False
+Suppose -b + 2 = -1. Suppose -4*u + 2*u + 8 = 0, -a + b*u + 132 = 0. Is a a multiple of 18?
+True
+Suppose 18*y - 8676 = 7092. Is y a multiple of 6?
+True
+Let b(y) = 917*y**2 - 8*y + 9. Is 17 a factor of b(1)?
+True
+Let l = -302 + 1104. Is l a multiple of 20?
+False
+Let l(c) = c**2 + 12*c - 5. Let h(z) = -z**3 - 7*z**2 - 8*z - 3. Let g be (5/4)/((-1)/4). Let q be h(g). Is 4 a factor of l(q)?
+True
+Is (510/35)/((-6)/(-63)) a multiple of 3?
+True
+Let i(h) = -h**2 - 6*h - 7. Let r be i(-3). Suppose 228 = r*x + s, -2*x - s + 234 = -3*s. Is 23 a factor of x?
+True
+Let g(k) = -38*k**3 - 2*k**2 + k + 2. Let t(z) = -z**3 - z**2 + z - 3. Let y be t(-2). Does 5 divide g(y)?
+False
+Let f(c) = c**3 - 11*c**2 + 12*c - 16. Let h be f(10). Does 13 divide 301 - (-1)/(h/(-8) + 1)?
+False
+Let b = -6 - -11. Suppose b*i = i - 3*v + 152, -2*v + 8 = 0. Is i a multiple of 7?
+True
+Suppose -84 = -4*y + 2*n - 34, 3*n + 60 = 5*y. Is y a multiple of 5?
+True
+Let m = 1041 - 560. Is m a multiple of 13?
+True
+Let n(g) = 56*g**2. Let u(s) = -s - 6. Let j be u(-5). Let t be n(j). Suppose 2*i = -4 + t. Is 10 a factor of i?
+False
+Let a = 50 + -54. Is 18 a factor of (6 - (-16)/a - 6) + 47?
+False
+Let z be 2*(0/12 - (-2)/1). Suppose z*k = r + 160, r - 191 = -5*k - 0*r. Is 13 a factor of k?
+True
+Let x = 9 - 6. Suppose -3*a + 90 = x*l, -4*a + 5*l + 141 + 24 = 0. Does 7 divide a?
+True
+Suppose i - o = -2*i + 9, o = i - 5. Suppose 2*b - 45 - 51 = -5*n, 2*n - i*b = 30. Does 18 divide n?
+True
+Let r(l) = 29*l**2 + 8*l - 5. Is r(3) a multiple of 10?
+True
+Let z(a) = a + 11. Let i be z(-10). Let q(d) = 19*d**2 - d + 1. Does 4 divide q(i)?
+False
+Suppose 2*k + 2*i - 4 - 10 = 0, 3*k - i = 5. Suppose -13 = -5*s - 4*w, -k*s + 5*w + 25 = -5. Let l(a) = 2*a**2 - 6*a + 4. Is l(s) a multiple of 6?
+True

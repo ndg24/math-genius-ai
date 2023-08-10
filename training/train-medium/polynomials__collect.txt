@@ -1,0 +1,66 @@
+Collect the terms in -156*h**2 + 264*h**2 - 130*h**2.
+-22*h**2
+Collect the terms in -6*r - 1020745 - 4*r + 1020761.
+16 - 10*r
+Collect the terms in -2*k**3 - 32227*k - 32221*k + 96675*k - 32227*k.
+-2*k**3
+Collect the terms in -9*q - q**2 - 20*q**3 + 9*q**3 - 4*q**3 - 17*q**3.
+-32*q**3 - q**2 - 9*q
+Collect the terms in -39*o - 37*o - 26*o + 13*o.
+-89*o
+Collect the terms in -183719*m - 3 + m**2 + 3 + 183719*m.
+m**2
+Collect the terms in 12*i - 4*i + i**2 + 0*i - 3*i**2.
+-2*i**2 + 8*i
+Collect the terms in -2*y**3 - 19*y**3 + 2590418 - 2590418.
+-21*y**3
+Collect the terms in -133*q**3 + 8*q**3 - 51*q**3 + 42*q**3.
+-134*q**3
+Collect the terms in 3 + 503*p**2 - 3 - 519*p**2.
+-16*p**2
+Collect the terms in 3*s + 24 + 15*s + 3.
+18*s + 27
+Collect the terms in -5806*c - 4800*c + 4 - 4.
+-10606*c
+Collect the terms in 423 + 7*r - 883 + 441.
+7*r - 19
+Collect the terms in -1 + 161*p - 39*p - 6*p + 88*p.
+204*p - 1
+Collect the terms in -293*q + 1 + 505*q - 306*q - 3.
+-94*q - 2
+Collect the terms in 67*t**3 - 19*t**3 - 10*t**3 - 19*t**3 - 4*t**3 - 14*t**3.
+t**3
+Collect the terms in 1 + 4 + 4316*t - 4371*t - 4.
+1 - 55*t
+Collect the terms in -204*v**3 - 2235*v**3 - 1144*v**3.
+-3583*v**3
+Collect the terms in 1385*b**2 + 1391*b**2 - 4121*b**2 + 1366*b**2.
+21*b**2
+Collect the terms in -41649*o**2 - 3 + 3.
+-41649*o**2
+Collect the terms in 16*m**2 + m**2 - 14*m**2 + 10*m**2 + 2*m**2 + 2*m**2.
+17*m**2
+Collect the terms in 832*o**2 + 3 - 1630*o**2 + 805*o**2.
+7*o**2 + 3
+Collect the terms in 12404 - 287*x**2 - 12404.
+-287*x**2
+Collect the terms in 22 - 22 + 0*f + 0*f - 584*f**2 + 642*f**2.
+58*f**2
+Collect the terms in -237*g**2 - 228*g**2 + 465*g**2 + 1016*g**3.
+1016*g**3
+Collect the terms in -779*h**2 + 66*h**2 - 848*h**2 - 280*h**2.
+-1841*h**2
+Collect the terms in -423985390 - 6*x + 423985390.
+-6*x
+Collect the terms in 79*l + 907*l - 15*l - 138*l + 310*l.
+1143*l
+Collect the terms in 15*i**2 + 1561*i - 1574*i - 18*i**2.
+-3*i**2 - 13*i
+Collect the terms in 13*i**2 - 5*i**3 + 34*i**2 - 5*i**2.
+-5*i**3 + 42*i**2
+Collect the terms in -13611*m**3 + 32647*m**3 + 38784*m**3 + 21796*m**3.
+79616*m**3
+Collect the terms in 7*d**2 - 4*d**2 + 3*d**2 - 5*d**2.
+d**2
+Collect the terms in 3*o**2 - 51*o**3 + 73*o**3 - 40*o**3.
+-18*o**3 + 3*o**2

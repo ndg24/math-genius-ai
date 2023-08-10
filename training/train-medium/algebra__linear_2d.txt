@@ -1,0 +1,66 @@
+Solve -4*y = 8, -51*v + 54*v - y + 4 = 0 for v.
+-2
+Solve 38 = -5*w + 6*r, -25*r + 44 = 2*w - 20*r for w.
+2
+Solve -2*x = -4*c - 40, 65*x + 4*c + 16 = 61*x for x.
+4
+Solve 4*r = -2*l - r - 29, 3*l + 5*r + 31 = 0 for l.
+-2
+Solve -s - 3*h = 45, -19 = 4*s - h - 47 for s.
+3
+Solve 2 = -2*h + 2*g, 7*h + 8 = 9*h + 3*g for h.
+1
+Solve a + 100*x - 97*x - 17 = 0, 2*a - x = 34 for a.
+17
+Solve -x = 2*k + 13, 0 = 269*k - 272*k - 2*x - 21 for k.
+-5
+Solve 28 = l - 4*f, -10*l + 13*l + 35 = -5*f for l.
+0
+Solve -3*z - 3*x = -9, 0 = 4*z - 3*x + 798 - 817 for z.
+4
+Solve 5*y - 3*q - 3 = 0, 370*y - 6*q - 6 = 369*y for y.
+0
+Solve -3*p - 2*p + 10*k + 30 = 5*k, -3*k = 12 for p.
+2
+Solve 5*b + 4*f = -156, 3*f + 788 = -3*b + 692 for b.
+-28
+Solve -1 = -5*q + 6*k, -93*k = q - 89*k - 13 + 18 for q.
+-1
+Solve 0 = -176*u + 160*u + 5*h + 1, -4*h + 14 = 2*u for u.
+1
+Solve -281*u = -277*u - 3*t + 1, 7 = -3*u + t for u.
+-4
+Solve 35 = -5*j + 5*k, -3*k - 1474 = -j - 1489 for j.
+-3
+Solve 56*s - 5*w = 60*s + 10, 4*w = 5*s + 33 for s.
+-5
+Solve 807 - 824 = -t + 3*g, -8 = -4*g for t.
+23
+Solve -3*c = 5*p - 27, 0 = p + 5*c - 14 - 9 for p.
+3
+Solve -x + 3*u - 3*u = u, 0 = 3*u + 3 for x.
+1
+Solve -23 = -4*l - 5*x, 0 = -37402*l + 37407*l - x + 22 for l.
+-3
+Solve -k = -4*m - 18, 3*m + 12 - 6 = -3*k for m.
+-4
+Solve -5*k - 36 = -2*k + 7*g, 3*g + 24 = 3*k for k.
+2
+Solve 0 = -2*z + 5 - 13, 4*i - 27*z = -25*z + 8 for i.
+0
+Solve 205*x - 209*x + j = -39, 5*x = -2*j - 13 for x.
+5
+Solve 6 = -r - 3*t, 3*r - 3 = 15*t - 17*t for r.
+3
+Solve -3*y + 7 = -g, 22*y - 18*y - 13 = 5*g for g.
+-1
+Solve -3*k + 9 = 0, 4*k + 2761 = 3*j + 2785 for j.
+-4
+Solve 486*y - 3*v = 478*y + 20, -3*y + 5*v = 8 for y.
+4
+Solve -x + 4*j = 10, -5*x + 6*j - 6 = 8*j for x.
+-2
+Solve 0 = -3*d - 5*w - 65, -3*w - 35 = d - 0*d for d.
+-5
+Solve -t - 110*m - 15 = -108*m, 4*m = t - 15 for t.
+-5

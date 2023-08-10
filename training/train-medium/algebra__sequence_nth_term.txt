@@ -1,0 +1,66 @@
+What is the b'th term of -413, -785, -1153, -1517, -1877?
+2*b**2 - 378*b - 37
+What is the n'th term of -2565, -2555, -2541, -2523, -2501, -2475, -2445?
+2*n**2 + 4*n - 2571
+What is the z'th term of 157, -296, -749?
+610 - 453*z
+What is the l'th term of 160081, 320174, 480281, 640408, 800561?
+l**3 + l**2 + 160083*l - 4
+What is the r'th term of -609, -1170, -1731, -2292, -2853?
+-561*r - 48
+What is the x'th term of 29464, 58910, 88356?
+29446*x + 18
+What is the u'th term of 56062, 56066, 56070, 56074, 56078, 56082?
+4*u + 56058
+What is the n'th term of -743305, -743307, -743309, -743311?
+-2*n - 743303
+What is the m'th term of 3511, 4061, 4975, 6247, 7871, 9841, 12151?
+-m**3 + 188*m**2 - 7*m + 3331
+What is the d'th term of -210562, -210566, -210570?
+-4*d - 210558
+What is the s'th term of 849933, 849930, 849927?
+849936 - 3*s
+What is the v'th term of 40847, 40849, 40851, 40853?
+2*v + 40845
+What is the r'th term of -183, -278, -435, -654, -935, -1278, -1683?
+-31*r**2 - 2*r - 150
+What is the u'th term of -334, -2941, -10008, -23761, -46426, -80229, -127396?
+-371*u**3 - 4*u**2 + 2*u + 39
+What is the x'th term of 5902, 6696, 7492, 8290, 9090, 9892?
+x**2 + 791*x + 5110
+What is the t'th term of 76109, 152217, 228327, 304439, 380553?
+t**2 + 76105*t + 3
+What is the n'th term of -1874376, -3748754, -5623132?
+2 - 1874378*n
+What is the t'th term of -339, -288, -223, -138, -27?
+t**3 + t**2 + 41*t - 382
+What is the h'th term of 54145, 108283, 162421, 216559, 270697, 324835?
+54138*h + 7
+What is the l'th term of -10274, -20544, -30816, -41090, -51366?
+-l**2 - 10267*l - 6
+What is the r'th term of -348, -406, -548, -816, -1252?
+-7*r**3 - 9*r - 332
+What is the d'th term of -3, 89, 277, 561, 941, 1417?
+48*d**2 - 52*d + 1
+What is the n'th term of -133, -899, -2947, -6919, -13457, -23203, -36799, -54887?
+-107*n**3 + n**2 - 20*n - 7
+What is the u'th term of -337352, -337351, -337350?
+u - 337353
+What is the t'th term of 72549, 145097, 217645?
+72548*t + 1
+What is the a'th term of 93, 183, 285, 405, 549, 723?
+a**3 + 83*a + 9
+What is the i'th term of 573696, 573677, 573656, 573633?
+-i**2 - 16*i + 573713
+What is the b'th term of 3844, 4200, 4558, 4918, 5280?
+b**2 + 353*b + 3490
+What is the w'th term of -28492, -56970, -85448?
+-28478*w - 14
+What is the n'th term of -507, -1045, -1597, -2163, -2743?
+-7*n**2 - 517*n + 17
+What is the s'th term of -357, -956, -1555?
+242 - 599*s
+What is the a'th term of -1881, -1602, -1143, -510, 291, 1254?
+-a**3 + 96*a**2 - 2*a - 1974
+What is the y'th term of -1276, -5067, -11376, -20197, -31524, -45351, -61672, -80481?
+y**3 - 1265*y**2 - 3*y - 9

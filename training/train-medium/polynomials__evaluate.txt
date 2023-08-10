@@ -1,0 +1,66 @@
+Let b(t) = -12*t - 188. What is b(-23)?
+88
+Let z(j) = -111*j - 3103. Calculate z(-28).
+5
+Let h(l) = 7341*l + 58712. Give h(-8).
+-16
+Let k(g) = 26*g + 5. What is k(-4)?
+-99
+Let a(j) = -32*j - 366. Calculate a(-10).
+-46
+Let t(y) = -y**2 + 46*y + 629. Calculate t(53).
+258
+Let h(o) = -o**3 + 9*o**2 + 40*o - 31. Give h(12).
+17
+Let v(r) = -r**2 - 115*r + 4123. Determine v(-144).
+-53
+Let v(d) = -40*d**2 + 456*d + 94. What is v(12)?
+-194
+Let o(v) = -4*v**2 + 299*v - 520. Give o(73).
+-9
+Let l(w) = 128*w - 9095. Determine l(71).
+-7
+Let l(d) = -110*d - 249. Determine l(-2).
+-29
+Let a(d) = 4*d**3 + 7*d**2 - 254*d - 715. Give a(-3).
+2
+Let o(d) = 2*d**2 + 40*d + 56. Give o(-27).
+434
+Let t(k) = 265 - 6*k. Give t(34).
+61
+Let v(u) = 35*u + 434. Calculate v(-11).
+49
+Let i(f) = -f**3 + 220*f**2 - 233*f + 3062. Give i(219).
+-4
+Let d(l) = -l**2 - 120*l + 3184. Calculate d(21).
+223
+Let w(o) = -745*o - 8912. Give w(-12).
+28
+Let t(y) = -y**3 + 30*y**2 + 65*y - 80. Calculate t(32).
+-48
+Let h(r) = -2*r**3 - 2*r**2 - 28*r - 95. Calculate h(-4).
+113
+Let w(d) = -17*d**2 - 642*d - 500. Calculate w(-37).
+-19
+Let x(w) = 80*w**2 - 13*w + 17. What is x(2)?
+311
+Let i(c) = -28*c - 955. Give i(-34).
+-3
+Let j(b) = 23*b - 846. What is j(35)?
+-41
+Let s(k) = 11*k**2 - 1218*k - 258. What is s(111)?
+75
+Let y(z) = 326 - 37*z. Calculate y(8).
+30
+Let m(w) = 23*w**3 + 3*w**2 + 69*w - 74. Determine m(1).
+21
+Let l(z) = -10241*z - 71658. Calculate l(-7).
+29
+Let t(v) = v**3 + 49*v**2 + 214*v + 26. Determine t(-44).
+290
+Let k(y) = -y**3 + 28*y**2 + 28*y - 14. What is k(29)?
+-43
+Let c(u) = 16*u**2 + 18*u + 7. Give c(4).
+335
+Let t(y) = 192*y**2 + 1164*y + 68. Calculate t(-6).
+-4

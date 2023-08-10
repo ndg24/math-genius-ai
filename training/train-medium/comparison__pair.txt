@@ -1,0 +1,66 @@
+Is -409/345 greater than or equal to -2?
+True
+Is -1319 at least as big as 326?
+False
+Which is smaller: 1 or 603/2327?
+603/2327
+Is 97387 smaller than 97388?
+True
+Which is smaller: -3211 or -3244?
+-3244
+Are -44 and 0.0086 equal?
+False
+Is 22 at least as big as -1/2192?
+True
+Is -238255 > -238257?
+True
+Is 1520 >= 8/13?
+True
+Which is smaller: -1/3 or 1268164.9?
+-1/3
+Is 1 not equal to -102/883?
+True
+Is -348710 greater than -348710?
+False
+Does 114644 = 114643?
+False
+Are 66 and 1/1709 equal?
+False
+Which is greater: -5 or 379881?
+379881
+Is 132649 smaller than 132643?
+False
+Which is smaller: 1 or -47927?
+-47927
+Are 5120 and 5113 unequal?
+True
+Is 254 bigger than 23269/92?
+True
+Which is smaller: 1313/318 or 5?
+1313/318
+Which is smaller: -1 or -1/100314?
+-1
+Which is smaller: 34/35 or -278?
+-278
+Which is smaller: 0.018 or 2603?
+0.018
+Does 64/39593 = 0?
+False
+Is 1 not equal to -3/60371?
+True
+Is 88072 >= 88070?
+True
+Which is bigger: 7428 or 7444?
+7444
+Is 30 less than or equal to -16473?
+False
+Do -12214 and -12200 have the same value?
+False
+Are -0.206 and -2/1047 unequal?
+True
+Is 9/2 > -2.1324?
+True
+Is -3 at least 2112?
+False
+Is -7 >= 2/4401?
+False

@@ -1,0 +1,66 @@
+Suppose -3*w + 5*w = 10. Let o(l) = -w + 13*l - 1 - 1 + l**2. Let d(z) = 4*z - 2. Give -7*d(f) + 2*o(f).
+2*f**2 - 2*f
+Let g(v) = 39*v + 72. Let a(d) = 4*d + 7. Give -21*a(q) + 2*g(q).
+-6*q - 3
+Let p(n) = 1 - n**2. Let x(d) = 185*d**3 + 2*d**2 - 2. Determine 2*p(a) + x(a).
+185*a**3
+Let l(i) = 37*i**2 + 2*i - 10. Let z(r) = -75*r**2 - 5*r + 23. Determine -14*l(v) - 6*z(v).
+-68*v**2 + 2*v + 2
+Let v(y) = -9*y**2 - 6*y - 6. Let k = -3 - -2. Suppose -21*u = -22*u + 12. Let w(p) = -3*p**2 - 1 + 14*p**2 - u*p**2 - p. Determine k*v(d) + 6*w(d).
+3*d**2
+Let l(o) = 2*o**3 - 6*o**2 + 6*o - 6. Suppose 0 = 2*f + 539 - 549. Let z(x) = -x**2 + x - 1. Calculate f*l(p) - 30*z(p).
+10*p**3
+Let r(b) = -2*b**2 - 3*b - 3. Suppose -2*t + 5*z - 13 = -3*t, 2*z = 4*t + 36. Let i(u) = u**2 + u + 1. Give t*i(o) - 3*r(o).
+-o**2 + 2*o + 2
+Let a(s) be the first derivative of s**4/2 + 2*s**2 + 5*s - 26. Let t(r) = -r**3 - 3*r - 4. Suppose -2*q + 5*q = 0, -y = -3*q - 4. Determine y*t(d) + 3*a(d).
+2*d**3 - 1
+Let u(q) = 22*q**3 - 55*q**2 - 6*q + 6. Let l(m) = 3*m**3 - 2*m**2 - m + 1. What is 6*l(w) - u(w)?
+-4*w**3 + 43*w**2
+Let w(p) = -14*p - 1. Suppose 2*i = -5*o - 33, 23*o - 25*o - 12 = 2*i. Let l(d) = -13*d - 1. What is o*l(r) + 6*w(r)?
+7*r + 1
+Let i(x) = -11*x**2 + 6*x - 6. Let g(j) be the third derivative of 7*j**5/20 - 11*j**4/24 + 11*j**3/6 - 2*j**2 + 114. Calculate -6*g(n) - 11*i(n).
+-5*n**2
+Let u(o) = -66*o - 20. Let x(h) = 67*h + 25. Determine 6*u(w) + 5*x(w).
+5 - 61*w
+Let v(w) = w**3 + w**2 - w. Let g(f) be the first derivative of -f**4 - 2*f**3/3 + f**2 - 2*f - 2. Determine g(h) + 2*v(h).
+-2*h**3 - 2
+Let l(b) = 2 + 4 + b**3 - 5 + 4. Let r(t) be the second derivative of t**2 + 122*t. Calculate 2*l(m) - 5*r(m).
+2*m**3
+Let a(l) = 84 - 70 + 4*l - 3*l. Suppose -2*g - g - 27 = 0. Let s be a(g). Let q(j) = 9*j**2 + 5*j + 5. Let w(f) = -14*f**2 - 8*f - 8. What is s*w(b) + 8*q(b)?
+2*b**2
+Let m(i) = -2*i**3 - 2*i**2 + 2*i. Let y(g) = -10*g**3 - 11*g**2 + 11*g. Let a be (348/(-36) - -9)/((-1)/(-9)). Give a*y(n) + 33*m(n).
+-6*n**3
+Let k(s) = s**3 + s**2 - s - 1. Let l(y) = 4*y**3 + 2*y**2 + 6. Let r be 7*14/(-147) - (-2)/(-6). Calculate r*l(t) + 2*k(t).
+-2*t**3 - 2*t - 8
+Let j(h) = -5*h**3 - 6*h - 1. Let f(m) = -4*m**3 - 5*m - 1. Let c(s) = 28*s + 4. Let b be c(0). What is b*f(i) - 3*j(i)?
+-i**3 - 2*i - 1
+Let a(f) = -134*f. Let d(p) = 2538*p. Calculate 94*a(q) + 5*d(q).
+94*q
+Let a(z) = -446*z**2 - 18*z - 1. Let x(k) = -893*k**2 - 45*k - 2. What is -5*a(y) + 2*x(y)?
+444*y**2 + 1
+Let u(m) = 144417*m**3 - 1495*m**2 + 1495*m. Let x(o) = 290*o**3 - 3*o**2 + 3*o. What is 3*u(i) - 1495*x(i)?
+-299*i**3
+Let s(a) = -a**2 + a + 4. Let q(j) = -j**3 - 140*j**2 + 3*j + 12. Determine q(f) - 3*s(f).
+-f**3 - 137*f**2
+Let l(y) be the third derivative of y**5/20 - 5*y**4/24 + 5*y**3/6 - 91*y**2 + 9. Let h(d) = 0*d - 8 + 14*d - 8*d**2 - 6. What is -4*h(z) - 11*l(z)?
+-z**2 - z + 1
+Let o(g) = 26*g**2 + 2*g + 6. Let f(z) = z**2 - 5. Determine 2*f(b) + o(b).
+28*b**2 + 2*b - 4
+Let q(s) = s**3 + 7*s**2 + 4*s - 3. Let f(j) = j**3 - 2*j. Give 2*f(i) + q(i).
+3*i**3 + 7*i**2 - 3
+Let h(i) = 4*i**3 + 2*i**2 - 10*i - 6. Let a(z) = 5*z**3 + 3*z**2 - 11*z - 7. Determine -6*a(d) + 7*h(d).
+-2*d**3 - 4*d**2 - 4*d
+Let q(z) = -4*z**2 - 4*z + 3. Suppose -196 = -2*f - 38. Let w = f - 73. Let c(d) = -d**2 - d + 1. Determine w*c(k) - 2*q(k).
+2*k**2 + 2*k
+Let q(w) = 5 - 19*w. Let a(g) = 96*g - 26. Give 3*a(i) + 16*q(i).
+2 - 16*i
+Let h be 5 - (-6)/((-3)/1). Suppose 1 - h = -2*q - 2*w, -2 = 2*w. Let u(y) = 2 - q + y + 2 + 2*y. Let g(f) = -4*f - 2. What is -4*g(b) - 5*u(b)?
+b - 2
+Let k(i) = -i**3 - i + 1. Let v(h) = 45*h**3 - 4*h + 2. Determine 4*k(z) - v(z).
+2 - 49*z**3
+Let j(r) = -9*r**3 + 3*r**2 - r + 6. Let w(a) = 19*a**3 - 7*a**2 + 2*a - 13. Calculate -13*j(q) - 6*w(q).
+3*q**3 + 3*q**2 + q
+Let l(x) = -241*x - 16. Let f(n) = 606*n + 39. Give 5*f(y) + 12*l(y).
+138*y + 3
+Let h(r) = -6*r - 2. Let m(j) = 13*j + 17. Let q(x) = -26*x - 38. Let s(n) = 7*m(n) + 3*q(n). Calculate 5*h(f) + 2*s(f).
+-4*f

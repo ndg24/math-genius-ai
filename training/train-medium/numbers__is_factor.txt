@@ -1,0 +1,66 @@
+Is 488 a factor of 12200?
+True
+Does 235 divide 1083585?
+True
+Is 784344 a multiple of 66?
+True
+Does 10 divide 1536450?
+True
+Is 4569962 a multiple of 101?
+False
+Is 60 a factor of 130380?
+True
+Does 157 divide 7268786?
+True
+Is 20736 a multiple of 7?
+False
+Does 35 divide 28070?
+True
+Is 14 a factor of 574448?
+True
+Is 34 a factor of 519630?
+False
+Is 312 a factor of 9423960?
+True
+Is 17 a factor of 138550?
+True
+Does 21 divide 188097?
+True
+Is 1106248 a multiple of 286?
+True
+Is 67 a factor of 1454556?
+False
+Is 3502556 a multiple of 778?
+True
+Does 78 divide 1338714?
+True
+Is 1997 a factor of 5556158?
+False
+Is 4 a factor of 12988?
+True
+Does 23 divide 167685?
+False
+Does 127 divide 8834665?
+False
+Is 12194 a multiple of 46?
+False
+Is 4 a factor of 258232?
+True
+Does 39 divide 193167?
+True
+Does 24 divide 46056?
+True
+Is 817722 a multiple of 6?
+True
+Is 12 a factor of 45768?
+True
+Does 111 divide 122412?
+False
+Is 2358676 a multiple of 43?
+False
+Is 20992350 a multiple of 22?
+False
+Is 437040 a multiple of 120?
+True
+Does 2 divide 29555?
+False

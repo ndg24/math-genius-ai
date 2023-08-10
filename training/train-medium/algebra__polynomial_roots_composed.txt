@@ -1,0 +1,66 @@
+Let s(k) = 2*k**2 - k. Let a be s(-2). Factor a*j + 18*j**2 + 8*j - 12 - 3 - 21*j**2.
+-3*(j - 5)*(j - 1)
+Let j(s) be the second derivative of 1/14*s**7 + 0*s**2 - 4*s + 0*s**4 - 3/10*s**5 + 0 + 0*s**6 + 1/2*s**3. Suppose j(v) = 0. Calculate v.
+-1, 0, 1
+Let s be 3/(-2) + 4 + 238/(-84) + 1. Factor -16/9*i + s*i**2 + 8/9.
+2*(i - 2)*(3*i - 2)/9
+Let o = -20 + 23. Let q be 4/o*(-1)/(-4). Let 0 - 2/3*p - q*p**2 = 0. What is p?
+-2, 0
+Let p(v) be the first derivative of v**5/15 - v**4/3 + 8*v**2/3 - 16*v/3 + 73. Factor p(u).
+(u - 2)**3*(u + 2)/3
+Suppose 0 = 5*p - 5*s + 25, -2*s + 2759 - 2745 = 0. Determine m so that 3/2*m**p - 2*m**3 + 0 + 1/2*m = 0.
+-1/4, 0, 1
+Let k(i) be the second derivative of 0 - 1/50*i**5 - 1/15*i**3 - 2*i**2 - 1/20*i**4 + 2*i - 1/300*i**6. Let y(n) be the first derivative of k(n). Factor y(a).
+-2*(a + 1)**3/5
+Let 1320 - 20*n**4 - 89*n - 1280 + 5*n**3 + 5*n**5 - 11*n + 70*n**2 = 0. What is n?
+-2, 1, 2
+Suppose -g - 2 = 0, 5*v + 4*g + g = 100. Find w, given that v*w + 32*w - 39*w + 5*w**2 = 0.
+-3, 0
+Factor -1 + 1/6*n**2 + 1/6*n.
+(n - 2)*(n + 3)/6
+Let i be -2 + -1 + 16 + -5 + -5. Factor 5*p**2 - 6*p**3 + p**3 + 0*p**3 + 5*p + i*p**4 - 8*p**4.
+-5*p*(p - 1)*(p + 1)**2
+Let t(w) be the second derivative of 0 + 0*w**5 + 5/168*w**7 + 0*w**2 - 24*w - 5/24*w**4 - 5/24*w**3 + 1/12*w**6. Factor t(b).
+5*b*(b - 1)*(b + 1)**3/4
+Let v = -85 + 429/5. Let z = -147 - -149. Determine r so that -v*r**z + 8/5*r - 4/5 = 0.
+1
+Suppose 2*i - 1446 = -4*i. Determine y so that i*y**3 - 3 - 123*y**3 - 121*y**3 - 9*y - 9*y**2 = 0.
+-1
+Suppose 2*z + 16 = 2*i, z - 2*z - 3 = 0. Suppose -5*b - 20*b**4 - 30*b**3 - 4*b**2 - 7*b**2 - 5*b**i - 9*b**2 = 0. Calculate b.
+-1, 0
+Let m(t) = -3*t**2 + 5*t + 4. Let q(x) = -25*x**2 + 41*x + 32. Suppose -3*h + 408 = -11*h. Let c(w) = h*m(w) + 6*q(w). Factor c(j).
+3*(j - 4)*(j + 1)
+Determine g, given that 729 + 1/4*g**2 + 27*g = 0.
+-54
+Let l(x) = 9*x**3 + 20*x**2 - 2*x - 9. Let j be l(-2). Factor -13/2*w**2 - 1/2*w**4 - 2 + 6*w + j*w**3.
+-(w - 2)**2*(w - 1)**2/2
+Let z(f) = -2055*f - f**3 + 0*f**3 + f**2 + 2055*f. Let n(c) = -10*c**3 + 25*c**2 + 3*c - 18. Let s(k) = -n(k) - 2*z(k). Factor s(x).
+3*(x - 2)*(x - 1)*(4*x + 3)
+Suppose -32 + 44/3*c + 2/3*c**2 = 0. Calculate c.
+-24, 2
+Let b(r) be the first derivative of -r**4/10 + 34*r**3/5 - 624*r**2/5 - 1352*r/5 + 155. Suppose b(w) = 0. Calculate w.
+-1, 26
+Let r(p) = -7*p**4 - 2*p**3 + 15*p**2 - 10*p - 2. Let m(s) = 36*s**4 + 11*s**3 - 75*s**2 + 50*s + 11. Let d(n) = -2*m(n) - 11*r(n). Factor d(f).
+5*f*(f - 1)**2*(f + 2)
+Factor -31*l**2 + 52*l + 51 - 30*l**2 + 92*l**2 - 30*l**2.
+(l + 1)*(l + 51)
+Let r(t) = -t**3 - t + 1. Let l(p) = -10*p**3 - 22*p**2 - 34*p - 7. Let m(y) = -2*l(y) + 10*r(y). Factor m(s).
+2*(s + 1)**2*(5*s + 12)
+Suppose 0 = -2*k + 5*k. Let j be (-1112)/695*15/(-9). Determine p so that -2/3*p**2 - j*p + k = 0.
+-4, 0
+Let s(i) be the second derivative of -i + 1/5*i**3 + 0 - 2/5*i**2 - 1/30*i**4. Solve s(b) = 0.
+1, 2
+Let l(w) be the second derivative of 1/78*w**4 + 20*w + 0 - 8/39*w**3 + 16/13*w**2. Factor l(u).
+2*(u - 4)**2/13
+Let o(r) = -2*r**2 + 2*r. Let z be o(-1). Let j be (-24)/(-3)*(-2)/z. Factor -3/5*w**j + 0*w + 0 - 3/5*w**2 - 6/5*w**3.
+-3*w**2*(w + 1)**2/5
+Let d(q) be the third derivative of -q**6/160 + 261*q**5/40 - 22707*q**4/8 + 658503*q**3 - 286*q**2. Factor d(j).
+-3*(j - 174)**3/4
+Let m(t) = -10*t**3 - 12*t**2 - 2*t. Suppose 0 = -5*n + 25, 2*d + 8 = -n + 3*n. Let a(b) = -b**3 + b. Let o(r) = d*m(r) + 6*a(r). Factor o(z).
+-4*z*(z + 1)*(4*z - 1)
+Let c(o) be the third derivative of 1/70*o**7 - 1/8*o**6 - 7*o**2 + 0*o**3 - 1/2*o**4 + 0 + 0*o + 2/5*o**5. Factor c(r).
+3*r*(r - 2)**2*(r - 1)
+Let j(a) be the first derivative of -4/3*a**3 - 20 + 0*a + 4*a**2. Factor j(p).
+-4*p*(p - 2)
+Let q be (27/18)/(33/24 + -1). Let -q + 35*k + 25*k**2 - 5 - 1 - 11*k**3 - 9*k**3 = 0. Calculate k.
+-1, 1/4, 2

@@ -1,0 +1,66 @@
+Suppose -y = 6*y - 1523732. Let i(j) = -y*j**2 - 31277*j**2 + 568*j**2 - 15615*j**2. Let p be i(5). What is p rounded to the nearest 1000000?
+-7000000
+Let i(s) = 46*s**3 - 7*s**2 - 6*s - 1. Let u be i(-6). Let b = 7234 + u. Let p = b + 1119. Round p to the nearest 1000.
+-2000
+Let d = -2840 + 2908.55. Let v = 61 - d. Let o = v - -3.9. Round o to one dp.
+-3.7
+Let o = -2347 + 2167.1. Let q = o - -216. Round q to the nearest ten.
+40
+Let f be 21/(-6)*(-32)/56. Let u be 6/15 + 4/(-10). Suppose -7*j + f*j - 78500 = u. Round j to the nearest 1000.
+-16000
+Suppose 0 = 4*g - 3*g. Let q be 38/9 - 4/18. Suppose -q*p = -g*p + 96. What is p rounded to the nearest 10?
+-20
+Let b = 0.05 - -0.25. Let j = -0.054 - 0.224. Let p = b + j. What is p rounded to two decimal places?
+0.02
+Let x = 6757.29 + -6718. Let h = -39 + x. Let m = h - 0.28999935. What is m rounded to seven decimal places?
+0.0000007
+Let w = -18 - -18.054. Let b = 8.254 - w. Let l = 8.1999963 - b. Round l to 6 decimal places.
+-0.000004
+Let q = -7.83778 + 7.84. What is q rounded to 4 decimal places?
+0.0022
+Suppose 7*s + 13852 = 6*s. Let k = s - -9352. Round k to the nearest one thousand.
+-5000
+Let p = -0.59 - -0.445. Let g = 3.06601219 - 3.2110107. Let f = p - g. Round f to 7 dps.
+-0.0000015
+Suppose 2*p = -4205 + 16203. Suppose 0 = -5*w + 1599 - p. Round w to the nearest 100.
+-900
+Let z = 22.043 - 22. Let s = 5.293 - z. What is s rounded to 1 dp?
+5.3
+Suppose -2*b + 3*b - 4 = 0. Suppose 9*n = b*n + 7500025. Suppose 3*r + r + 5*m = -1199975, m = 5*r + n. What is r rounded to the nearest 1000000?
+0
+Let n = 39 + -117. Let a = n - -78.76. Round a to one decimal place.
+0.8
+Let b = -748 - -1480. Suppose -b = -3*c - 0*c. Suppose 165 = -3*g + 5*o - c, -2 = -o. Round g to the nearest 10.
+-130
+Let q = -8233517209.00000003 + 8233517259. Let u = q - 50. Round u to seven dps.
+0
+Let b(l) = -7059*l**2 - 2*l + 1. Let a be b(1). Round a to the nearest one thousand.
+-7000
+Let f = 1.63 - 1.630185. What is f rounded to five dps?
+-0.00019
+Let q be 1000/(-3)*52308/12. Round q to the nearest ten thousand.
+-1450000
+Let c = 0.094 - 0.1. Let f = 24972 + -24972.0059969. Let m = c - f. Round m to six dps.
+-0.000003
+Let c = 0.05 + -0.25. Let a = c + 0.48. Let t = -0.2762 + a. What is t rounded to 3 dps?
+0.004
+Let d = -2671214921.909 + 2660029685.90781. Let i = -11185051 - d. Let g = -185 + i. What is g rounded to 4 decimal places?
+0.0012
+Let s = -1793.998402 - -1794. What is s rounded to four dps?
+0.0016
+Let j = -29 - -50. Let k = 21.0000232 - j. Round k to 6 decimal places.
+0.000023
+Let k = -0.111 + -4.589. Let a = 4.68 + k. Round a to 2 dps.
+-0.02
+Let l = 8.4 - 7.241. What is l rounded to two decimal places?
+1.16
+Suppose -2*j = -28 + 24. Suppose 5*f - 17410 = 2*f - j*i, -f - 2*i = -5810. Round f to the nearest one thousand.
+6000
+Suppose 2*s + 19 = 5*u - 6, 15 = 3*u + 4*s. Let g(x) = 3*x**3 + 16*x**2 - x + 26. Let c be g(12). Let d be 4/10 - c/u. Round d to the nearest one thousand.
+-2000
+Let p = -1284 + 2784. Round p to the nearest 10000.
+0
+Suppose 0 = -3*c + 26049 + 102615. Let b = 100242 + -183130. Let a = c + b. Round a to the nearest ten thousand.
+-40000
+Let c = 6 - -3. Let y = c - 9.0002. Round y to 4 dps.
+-0.0002

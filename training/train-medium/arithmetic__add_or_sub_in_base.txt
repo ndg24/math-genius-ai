@@ -1,0 +1,66 @@
+In base 4, what is 13113102 + -3?
+13113033
+In base 16, what is fb32 - -2?
+fb34
+In base 10, what is -1540076 + -1?
+-1540077
+In base 10, what is 155288 - 0?
+155288
+In base 11, what is 10 + -22718?
+-22708
+In base 14, what is 521 - 22?
+4dd
+In base 6, what is 3 - 220110?
+-220103
+In base 7, what is -40 - 10361?
+-10431
+In base 5, what is -10 + 2101013?
+2101003
+In base 4, what is -3 + 1001322?
+1001313
+In base 15, what is -5278 - 5a?
+-52d3
+In base 3, what is 1000101 - -112220?
+1120021
+In base 4, what is 121003 + 233332?
+1021001
+In base 10, what is -1 + 696916?
+696915
+In base 12, what is 339 + -1b16?
+-1799
+In base 7, what is 352 - -16?
+401
+In base 9, what is -1 + -514855?
+-514856
+In base 15, what is c28 - -4?
+c2c
+In base 12, what is b2a9 + 0?
+b2a9
+In base 2, what is -10 - 110011010111011?
+-110011010111101
+In base 5, what is -12 + -130442420?
+-130442432
+In base 11, what is -625 + -287?
+-901
+In base 3, what is 22111120100 + 12?
+22111120112
+In base 5, what is 2314 - -141?
+3010
+In base 7, what is -3 - 260612?
+-260615
+In base 6, what is 1505 + -2152?
+-243
+In base 10, what is 0 - -10663?
+10663
+In base 6, what is 1211530 - -31?
+1212001
+In base 8, what is -134337 - -4?
+-134333
+In base 10, what is -1223962 - 1?
+-1223963
+In base 9, what is 71 + 486?
+567
+In base 8, what is -160 - -1631?
+1451
+In base 3, what is 1110022 + -1001011?
+102011

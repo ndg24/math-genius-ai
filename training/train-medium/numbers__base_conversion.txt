@@ -1,0 +1,66 @@
+-854a (base 11) to base 14
+-4199
+What is 15b (base 15) in base 4?
+10313
+What is -2577 (base 15) in base 7?
+-32200
+Convert 110101220 (base 3) to base 5.
+242132
+Convert 21011 (base 4) to base 15.
+28b
+Convert 250 (base 12) to base 10.
+348
+-1011101000000010 (base 2) to base 12
+-23682
+22 (base 10) to base 4
+112
+-12003 (base 4) to base 14
+-1d9
+What is -222002 (base 3) in base 9?
+-862
+206545 (base 8) to base 14
+1b1c1
+-1c3 (base 14) to base 9
+-447
+What is -33970 (base 10) in base 8?
+-102262
+Convert 8d64 (base 15) to base 12.
+15457
+Convert -35 (base 8) to base 4.
+-131
+230313 (base 6) to base 5
+1111212
+Convert -c5b (base 13) to base 14.
+-aa4
+What is 104034 (base 6) in base 4?
+2013112
+Convert -1114 (base 5) to base 3.
+-12220
+Convert 32524 (base 6) to base 3.
+20012021
+Convert -41444 (base 5) to base 3.
+-10202211
+541245 (base 6) to base 5
+2410011
+What is -5223 (base 6) in base 2?
+-10010001111
+What is -2b7e (base 16) in base 12?
+-653a
+Convert 1011 (base 8) to base 12.
+375
+Convert 27c (base 14) to base 15.
+237
+-737c (base 15) to base 4
+-11331201
+Convert 53533 (base 7) to base 3.
+200020201
+Convert -11695 (base 16) to base 8.
+-213225
+What is 162 (base 14) in base 11?
+237
+What is 27 (base 8) in base 3?
+212
+What is 55 (base 13) in base 5?
+240
+What is 270 (base 12) in base 5?
+2442

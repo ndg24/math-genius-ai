@@ -1,0 +1,66 @@
+Let t be -9*(-3 - (-11)/(-12)). Let z = -35 + t. Which is the third biggest value?  (a) -2/3  (b) -0.2  (c) z
+a
+Let x = -7 + 11. Suppose 5*h = 2*k - 16, 4*k = x*h - 8*h - 24. Let v be (2/6)/(h/18). What is the third smallest value in 0.2, -0.2, v?
+0.2
+Let p = 0.02995 + 4.97005. Let r = -0.5 - -0.8. Let w = r + -0.2. Which is the second smallest value?  (a) p  (b) 3/7  (c) w
+b
+Let y(h) = 11*h**2 - h. Let p be y(-1). Let k = 6 - 2. Which is the third biggest value?  (a) p  (b) -1  (c) k
+b
+Let k = -1/2956 - -1479/2956. What is the third smallest value in k, -0.03, 1/16?
+k
+Let k = -3.7618 + -0.2382. Let i(q) = q**2 + 3*q + 1. Let v be i(-3). Which is the third biggest value?  (a) v  (b) 3  (c) 0.7  (d) k
+c
+Let o = -3.358 - -2.358. Let p = 1 + -1.8. Which is the second biggest value?  (a) o  (b) -2/7  (c) p
+c
+Let q = 0.18 - 0.11. Let v = 9.3 - 9.32. Let l = v + q. Which is the third biggest value?  (a) -5  (b) l  (c) 0
+a
+Let c = -1904/363 - 46091/35574. Let b = c - -2/49. What is the second smallest value in -2, 1/2, b?
+-2
+Let m = 48 - 65.2. Let z = -98 - -115. Let o = z + m. Which is the smallest value?  (a) 2  (b) o  (c) -4
+c
+Suppose 55 = 16*v + 39. What is the fourth biggest value in 3, -4, 1/28, v?
+-4
+Let i be (-48)/(-32)*2*1/(-7). What is the fourth biggest value in 0, 2/11, i, 2/13?
+i
+Let g = 997 - 996. Let o = 1 - 1. What is the smallest value in g, o, 5?
+o
+Let y = 0 + -0.4. Let o = -0.3 - -3.7. Let w = o + y. What is the biggest value in w, -5, 5?
+5
+Let o = 0.38 + 0.02. Let k = -2704 - -2706. Which is the biggest value?  (a) k  (b) -2  (c) 1/4  (d) o
+a
+Let y = 239/3 + -79. Let d = 0.5516 + -0.0516. Which is the biggest value?  (a) y  (b) 1  (c) d
+b
+Let t = -116 - -582/5. Let f = t + 1/5. Let u = -2.796 + -0.204. Which is the third biggest value?  (a) u  (b) -0.1  (c) f
+a
+Let l = -3.26 - -2.96. What is the third biggest value in -0.1, -1/13, 1, l?
+-0.1
+Let k be 22/(-63) - ((-17)/(-7) + -3). Let f = -103/2 + 52. Let v = 1 + -0.4. Which is the second biggest value?  (a) k  (b) f  (c) v
+b
+Let k be 4/(2 + 14)*(-32)/56. What is the second smallest value in -1/75, -2, 0.4, k?
+k
+Suppose 17*x - 2 = 15*x. Let a be (3/9)/(3/(-6)). What is the third biggest value in x, a, 3?
+a
+Let q = 20.08 - 20.06. Which is the third biggest value?  (a) 0.1  (b) -10  (c) q
+b
+Let u = -2576/11 - -234. Let w = 7 + -3. Let k = -3.0667 - -0.0667. Which is the third smallest value?  (a) w  (b) k  (c) u
+a
+Let r = -609.3 - -637. Let k = r + -28. What is the biggest value in -4, 6, k?
+6
+Let g = -21.7 + 26.7. Which is the smallest value?  (a) g  (b) 0  (c) -0.2  (d) 1/15
+c
+Suppose 0 = w - 0*w. Let f be (18/30)/(1/(-10)). Let m be (f/(-117) + w)*3. What is the biggest value in m, 5, 4?
+5
+Let o = 0.579 - 3.579. Let p = -3 + 7. What is the third biggest value in o, p, -0.16, -2/3?
+-2/3
+Let n = 102/55 + 967/220. What is the third smallest value in 5, n, -1/4?
+n
+Let k = 1.942 - -0.058. Let x = -1.6 + k. Let n = 0.2 - 0.21. Which is the second smallest value?  (a) -2  (b) x  (c) n
+c
+Let z = -0.018 + -1.082. Let y = z - -0.7. Which is the fourth biggest value?  (a) 5  (b) -0.5  (c) 0.4  (d) y
+b
+Let y be (-168)/(-27) + 8/(-36). Let w be y/(-8) - (-1167)/(-540). Let t = 14/5 + w. Which is the biggest value?  (a) 4/3  (b) -1/3  (c) t
+a
+Let i = -0.0698 - 0.0302. Let p = -9 + 5. What is the second biggest value in p, 3, i?
+i
+Suppose 2*x - 41 = -3*x + 4*g, -4*x = 4*g - 4. Suppose -22 = -x*t - 2. Which is the second biggest value?  (a) -1  (b) t  (c) -10
+a

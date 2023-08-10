@@ -1,0 +1,66 @@
+Let p be ((-85)/(-102))/(1/6). Suppose -p*r = -2*r + 6. Let t be 3*(r + 5/3). Is t smaller than 4/11?
+True
+Let f(u) = 3*u**3 - 5*u**2 - 7*u + 51. Let i be f(4). Is 136 at least i?
+True
+Let h(t) be the first derivative of t**2/2 - t + 2. Let p be h(5). Suppose -8*x = -7*x + 1. Is x < p?
+True
+Let r be (-1)/(2 - 21/2). Let x = 11.03146 - 0.03146. Is x at most r?
+False
+Let j = 387 + -339. Is j greater than or equal to 295/6?
+False
+Let m be -1 + ((2 - 7) + 1 - -5). Is m at most as big as 1/257?
+True
+Suppose 40*i + 22*i + 434 = 0. Let t(k) = 4*k**3 - 1. Let n be t(1). Suppose 14 + 1 = -n*x. Is x less than i?
+False
+Let s = -1075 + 836. Is s < -238?
+True
+Let s = -11 - -11. Suppose 5*k + 0*k = s. Suppose 0 = -4*m + 2*h + 26, -37 + 12 = -2*m + 5*h. Is k greater than or equal to m?
+False
+Let b = -27 - -27.3. Let h = -7.98 - 0.02. Which is greater: b or h?
+b
+Let l = 0.57 - 0.35. Let h = 0.42 - l. Which is smaller: -4 or h?
+-4
+Suppose 0 = -7*j - 5545 - 4213. Let b = j + 4147/3. Is -13 <= b?
+True
+Let r(a) = -47*a - 371. Let l be r(-6). Is l less than -86?
+True
+Let a = 8 + -169. Is a at least -161?
+True
+Let r = 87 + -92. Suppose -o - 7 = -2*h, 0 = -2*o - 5*h - 13 - 1. Are r and o unequal?
+True
+Let w = -0.7 + -3.3. Let n = -1 - w. Let s = 91.8 - 92. Is s less than or equal to n?
+True
+Let t = -88 - -135. Suppose -y + 21 = -l, 5*y = l - 4*l - t. Let d = 577 - 595. Which is smaller: l or d?
+l
+Let j be (-18)/(-4)*(-7)/(7/2). Let h be (j - -13)*(-2)/(-8). Is -1/6 <= h?
+True
+Let m = 73.04 - 73. Suppose -17*b - 4 = -18*b. Which is greater: m or b?
+b
+Let r = -3 + -59. Let i = r + 64. Which is bigger: i or 1?
+i
+Suppose 2*h - 1 - 5 = 0, 0 = -5*r + 2*h - 16. Is r >= -201?
+True
+Let r = -0.249 + 0.149. Which is smaller: r or -60?
+-60
+Let c = 5 + -9. Suppose 726*j = 730*j + 16. Is c equal to j?
+True
+Let n be 0/1*(-1 + 0). Suppose 4*a + b = -19, n = 4*b - 24 + 4. Suppose 0 = -18*k - 344 + 236. Is k less than a?
+False
+Let j = -0.67 - 0.23. Let h = -13/5 + 81/35. Is h equal to j?
+False
+Let d(s) = 270*s - 12 - s**3 - 12 - 275*s + 7 - 6*s**2. Let g(k) = k**3 - 5*k**2 - 2*k + 4. Let p be g(5). Let y be d(p). Is y bigger than 13?
+False
+Suppose 8*p + 57 = 49. Is 42 != p?
+True
+Let w be 14/(-4) + (-62)/(-124). Let v be (-1089)/(-15) + 2/5. Let p = 513/7 - v. Are w and p nonequal?
+True
+Let s be (102/(-68))/((-6)/4). Let p be -1*(184/(-178) - -1). Which is smaller: p or s?
+p
+Suppose 80 = 6*p - 2*p. Let w be (3 + -1)/((p/(-14))/(-1)). Is w < 1?
+False
+Let h = -3 - -2.64. Let b = -3.64 + h. Let v = b - -4.1. Which is smaller: -1 or v?
+-1
+Suppose -3*n + 22 = -4*n - 2*z, 5*z + 82 = -4*n. Let b = n + 16. Let t be (b/4)/((-18)/12). Which is bigger: 10 or t?
+10
+Let a = -50.4 + 50.3. Let p = 0.1 + -0.3. Let y = p - a. Do -0.7 and y have different values?
+True
