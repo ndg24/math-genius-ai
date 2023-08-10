@@ -1,0 +1,66 @@
+Let a be 6/8 + 9/(-12). Suppose -4*q + 31 - 11 = a. Suppose -5*d - 4*v + 28 - q = 0, 0 = -2*d + v + 17. Is d a multiple of 2?
+False
+Is 2 a factor of (10/(-135) - (-41069)/756)*16?
+True
+Let c = 14210 + -4023. Is c a multiple of 17?
+False
+Suppose 12*w - 46 = 14. Suppose 8 = -2*n + 6*n, -5*d - w*n + 650 = 0. Is 16 a factor of d?
+True
+Suppose 34*f = -1499 + 105. Let z(v) = 127 - 23*v. Does 10 divide z(f)?
+True
+Let v be ((-8)/40)/((-6)/70)*195. Suppose 0 = i - v + 64. Does 15 divide i?
+False
+Let h = -42 - -12. Does 22 divide (h/18 + 1)*(-2802)/4?
+False
+Suppose -352 = 54*w - 55*w + 2*p, -5*p + 20 = 0. Is 17 a factor of 2*(w/16 + 3)?
+True
+Let w = -23344 - -53980. Is w a multiple of 12?
+True
+Let a be (4 - (3 + -2)) + 8 + -11. Suppose -3*d + a*d + 54 = 0. Suppose i + d = 93. Does 8 divide i?
+False
+Suppose -4*w + 3*w + 2*t = -97, t - 1 = 0. Let f be w/18 + (-3)/(-6) + 0. Suppose 10*m - f*m = 564. Does 7 divide m?
+False
+Let o(d) be the first derivative of 7*d**2/2 - 49*d - 89. Suppose 99 = 5*j + q, 2*j - 6*j + 72 = -q. Is o(j) a multiple of 12?
+True
+Suppose 6*k - 2*k = 16. Suppose k*r = -a + 260, 3*r - 294 = -a - 99. Let p = r + -44. Is 7 a factor of p?
+True
+Let g be (-4 - -1)/((-4)/(-1 - -5)). Suppose v - 93 = 3*m + 2*m, g*m = 0. Suppose 5*k + y = v, y = 6*y - 15. Is k a multiple of 6?
+True
+Let g be ((-450)/(-8))/((-120)/(-3520)). Suppose 22*y + g = 33*y. Does 5 divide y?
+True
+Let y be (0 - 82/(-8))/(41/8 + -5). Let c be -114*((-8)/6 - 0). Let h = c - y. Is 14 a factor of h?
+True
+Suppose -t - r + 4*r + 290 = 0, -3*r + 1250 = 4*t. Is t even?
+True
+Suppose -68747 - 176467 = -8*x + 171498. Does 222 divide x?
+False
+Let a(n) = n**2 - 2*n + 10. Let d(w) = 4*w**2 - 6*w + 31. Let r(t) = 7*a(t) - 2*d(t). Let v be r(8). Let g = v + 108. Is 20 a factor of g?
+False
+Let q(f) = 123*f + 18. Let n be q(7). Let s = 1575 - n. Suppose -14*v = -8*v - s. Is 12 a factor of v?
+False
+Let c(h) = 861*h**3 - 2*h**2 + 7*h + 23. Let a be c(-3). Does 27 divide (-10)/8 + 1 + a/(-172)?
+True
+Let m = -13045 + 30874. Is m a multiple of 9?
+True
+Let w(h) = 4517*h**3 + 1271*h - 2532. Is w(2) a multiple of 22?
+True
+Suppose 90*v - 224847 - 14913 = 0. Does 12 divide v?
+True
+Let h = -378 + 966. Suppose 7*n + h = 13*n. Is n a multiple of 14?
+True
+Let g = 466 - 214. Suppose 230 = d - g. Is 51 a factor of d?
+False
+Let g(i) = -2344*i - 461. Is g(-2) even?
+False
+Let t = 46 - 16. Suppose 320 = t*d - 26*d. Suppose -z + 5*z - d = 0. Does 5 divide z?
+True
+Suppose 3*q = -4*t - 20, q + q - t = -6. Let i be -57*33/q + 2/(-8). Suppose -2*c + 620 = 4*f, -2*f - f + i = 4*c. Is f a multiple of 14?
+True
+Let x = -81 - -27. Let r = -42 - x. Does 11 divide r?
+False
+Suppose -290 = -4*x - x. Let s(b) = -b**2 - 62*b - 477. Let c be s(-53). Suppose -o = -c - x. Does 9 divide o?
+False
+Suppose 2*s + 7*b - 9*b - 21224 = 0, -3*b + 21244 = 2*s. Is s a multiple of 64?
+False
+Suppose 1402688 = 169*m - 9*m + 57*m. Does 66 divide m?
+False

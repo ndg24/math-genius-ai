@@ -1,0 +1,66 @@
+What is the fourth biggest value in 2/3421, 2/5, -42, -15?
+-42
+What is the seventh biggest value in -0.01, -0.2, -2/7, -0.4, 1, -76.972, -3/2?
+-76.972
+What is the second biggest value in -95525.7, -3, 16?
+-3
+Which is the second biggest value?  (a) 8.46  (b) -0.4  (c) 5  (d) -22  (e) 1/5
+c
+What is the smallest value in 56550974, 2/3, -4?
+-4
+Which is the biggest value?  (a) 2179  (b) -2/7  (c) 0.37  (d) -0.14
+a
+What is the smallest value in -0.2, -28, -10, 1709?
+-28
+What is the smallest value in -2/9, 100/181, 73?
+-2/9
+Which is the smallest value?  (a) 5  (b) -3  (c) 2/29  (d) -1  (e) -0.4  (f) -372097
+f
+What is the sixth biggest value in -0.4, -1, -6284290, -5, 1/3, 1?
+-6284290
+What is the fourth biggest value in -0.4, -12/5, -3/4, -1/7, -1, 1.082?
+-3/4
+Which is the fifth biggest value?  (a) -1/8  (b) 2  (c) 7  (d) -39  (e) -2
+d
+What is the sixth biggest value in 2208, -2/3, -3/5, -174, 2/3, 1?
+-174
+Which is the second biggest value?  (a) -73318  (b) -2/7  (c) 2/9
+b
+Which is the fourth smallest value?  (a) -0.5  (b) -2/3  (c) 175/13  (d) 5  (e) 0
+d
+What is the fourth biggest value in -3, -6/11, -31, 443, -5/19, 5?
+-6/11
+Which is the third smallest value?  (a) -238/143  (b) -0.2  (c) -5.5
+b
+Which is the second biggest value?  (a) -3/2  (b) 2  (c) 3149763
+b
+Which is the smallest value?  (a) -1/3  (b) -4  (c) -6  (d) -138/40129
+c
+What is the fifth smallest value in 0.4, -48/5, 2/7, -3/2, 1, -0.2, -2/21?
+2/7
+What is the second smallest value in -437, 148, -19?
+-19
+What is the fourth biggest value in 13/2, 0.2, -3/7, -1/5, -0.4, 5?
+-1/5
+Which is the biggest value?  (a) -2/7  (b) 2  (c) 637  (d) 4  (e) -150  (f) -3  (g) 21
+c
+Which is the biggest value?  (a) -13  (b) 0.0503  (c) -7.1  (d) 5
+d
+What is the fourth biggest value in 259, 1/7, -1378, -3, -4.1, 0.5?
+-3
+Which is the biggest value?  (a) 4  (b) -85736/5  (c) -2/17
+a
+Which is the second biggest value?  (a) 5  (b) 1  (c) -1  (d) -2404138
+b
+Which is the second smallest value?  (a) -3  (b) -27478655  (c) 4
+a
+What is the third smallest value in -5, -27, 560, -1/3, 3/4, 2/13, -4?
+-4
+What is the biggest value in -0.5, -4164, -14/167, 2/5?
+2/5
+Which is the second biggest value?  (a) 19.0992  (b) 111  (c) 0.3
+a
+What is the fifth smallest value in 0.1, 19117, 2, 0.2, -1/5?
+19117
+What is the biggest value in -2.13, -0.4, 6/113?
+6/113

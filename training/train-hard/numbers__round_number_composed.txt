@@ -1,0 +1,66 @@
+Let i = 2168 - 2165.806. Let s = -2.194973 + i. What is s rounded to 4 decimal places?
+-0.001
+Let y = 798.14499 + -0.99139. Let s = -797 + y. What is s rounded to 2 dps?
+0.15
+Let k = -2.1814 - 0.0486. Let x = -5.87 - -6. Let u = k - x. What is u rounded to one decimal place?
+-2.4
+Let y = -61.008 - -0.008. Let x = y - -60.741. Let b = 0.051 - x. What is b rounded to one dp?
+0.3
+Let s = 93 + -396. Let u = -296.78 - s. What is u rounded to the nearest integer?
+6
+Let y = 1219374.99823 - 1219369. Let d = y - 6. What is d rounded to four dps?
+-0.0018
+Suppose -2*u = 4 - 10. Suppose 0 = 5*o - 3*l + 15157 + 3455, -o = u*l + 3708. Round o to the nearest one hundred.
+-3700
+Let t = -0.308975137 - -35.208974197. Let f = t + -34.9. What is f rounded to 7 dps?
+-0.0000009
+Let r = -10 + -1. Let f = 46 + r. Let o be 2125/f + (-4)/(-14). What is o rounded to the nearest ten?
+60
+Let d = 215419 + -146178. Let k = d - 69180.934. Let j = k - 60. What is j rounded to 2 dps?
+0.07
+Let v = -6.6042 + 0.0642. Let h = v - -6.6114. What is h rounded to 2 dps?
+0.07
+Let a = 64.9077 - 0.2477. Let w = -6.96 + a. Let n = -24.5 + w. Round n to the nearest integer.
+33
+Let t = 10065.718 - -168922.307. Let o = t + -179013.0249967. Let v = 25 + o. What is v rounded to six decimal places?
+0.000003
+Let y = -451 + 522.9. Let c = y + -75. Let p = -3.0999987 - c. What is p rounded to six dps?
+0.000001
+Let c = 11670 - 11671.0699. Round c to 2 decimal places.
+-1.07
+Let f = -8.656 - -1565.256. Let t = f - 2133. Round t to the nearest ten.
+-580
+Let r = -566 + 564. Let a be (-625*(-10 - 8))/(r/9760). What is a rounded to the nearest 1000000?
+-55000000
+Let a = -2250 - -1437. Let r = a - -813.00000321. What is r rounded to six dps?
+0.000003
+Let p = 607099 + -271214. Suppose -p = -7*v + 6*v. Suppose v + 62115 = -2*i. Round i to the nearest ten thousand.
+-200000
+Let f = -585.2576 + 585.1. What is f rounded to one decimal place?
+-0.2
+Let z = 10047 - 10046.99991522. What is z rounded to six decimal places?
+0.000085
+Let f(a) = -a**3 + 5*a**2 + 9*a - 6. Let k be f(3). Suppose -34*i - 115 = -k*i. Suppose -i*c - 37000 = -25*c. What is c rounded to the nearest 1000?
+19000
+Let q = 36 + -32. Suppose -q*x - 97792 = 3*v, -12097 + 77289 = -2*v - 4*x. What is v rounded to the nearest 1000?
+-33000
+Let h = -346.66 - -334. Let g = h - 0.5. Round g to the nearest integer.
+-13
+Suppose 2*f + 72 - 70 = 0, -f = g - 45729999. What is g rounded to the nearest 1000000?
+46000000
+Let t = -164 - -160.69. Let g = t - -3.3768. Round g to 2 dps.
+0.07
+Let r = -561264 + 977058. Suppose 3*h = -3*v + r, -692994 = -2*h - 3*h - 3*v. What is h rounded to the nearest ten thousand?
+140000
+Let n = -888735.10009 + 888743. Let l = -8.015 + 0.115. Let y = l + n. Round y to four decimal places.
+-0.0001
+Suppose 11*k = -37 - 194. Let n(f) = 12*f**3 + 7*f**2 + 64*f - 11. Let o be n(k). Round o to the nearest ten thousand.
+-110000
+Let x(o) = 3*o**3 + 26*o**2 - 5*o + 4. Let z be x(11). Suppose 4*f + 3*m = 2*f - z, 2*f + 4*m = -7084. Round f to the nearest one thousand.
+-4000
+Let y(t) = 356000*t**2 + t - 5. Suppose -12*d + 15 = -13*d. Let p = 20 + d. Let w be y(p). Round w to the nearest one million.
+9000000
+Let z be (-8)/(-6)*(-36)/4. Let w(q) be the third derivative of 23*q**4/24 - 8*q**3/3 + 35*q**2. Let v be w(z). What is v rounded to the nearest 10?
+-290
+Let z = 32223153 - 85586153. What is z rounded to the nearest one hundred thousand?
+-53400000

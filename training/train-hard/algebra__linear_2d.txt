@@ -1,0 +1,66 @@
+Solve 3*u - 173750 = 4*u - 5*m - 173700, -3*u - 4*m = 93 for u.
+-35
+Solve 0*z + 0*z + 15*f - 90 = 0, 7*f - 15*f - 18 = z - 11*f for z.
+0
+Solve 14795*w - 14796*w = -2*l + 22, 3*w - 5*l + 55 = 0 for w.
+0
+Solve 5*q - n + 14 = 0, -n = -1760*q + 1758*q - 3*n + 40 for q.
+1
+Solve -4*n - 9*v = -2*n - 82, -n + 27*v - 118 = -5*n + 118 for n.
+5
+Solve -2*a + 8321 = -5*w + 8327, 13*w + 4*a + 12 = 5*w for w.
+0
+Solve -12*x - 217*w + 215*w = -134, 2*x = 5*x + 7*w - 1 for x.
+12
+Solve -292*i + 10 = 3*d + 296, 13*d + 5*d - 7 = -i + 14*d for i.
+-1
+Solve 14*n - 41 = w, -40*w - 121 = -31*w - 13*w - n for w.
+29
+Solve 110*g + 115*g = -28*c + 229*g - 124, 2*c + 1 = 2*c - 5*c + 6*g for c.
+-5
+Solve -b + b + 4 = 6*a - 2*b, -418759*a + 418761*a - 13 = 3*b for a.
+-1
+Solve 2*i - 1057935 = -o - 1057951, 0 = 5*i - 5*o + 25 for i.
+-7
+Solve 70*w - 75*w - z = 2 + 10, -2*z = -32*w - 18 for w.
+-1
+Solve 140*g - 141*g = -105*r + 216, 5*r - 28 = 3*g for r.
+2
+Solve -2*n = -3*p, 29*n - 130 = 7*n - 18*n + 162*p - 167*p for n.
+3
+Solve 5*x - 89 = y, 0 = 8*x - 4*x - 6*y - 121 + 55 for x.
+18
+Solve -4768*i + 4767*i + 29 = 2*y, -2*y + 10*y + 6*i - 71 = 11*i for y.
+12
+Solve 164*g - 9*f - 1 = 80*g + 82*g, f - 26 = -5*g for g.
+5
+Solve 3*a - 2*a - 60 = -3*a + 22*j, 10 = 19*j - 24*j for a.
+4
+Solve 475*x - 477*x = 9*o + 46 + 4, 2*o + 12 = 0 for x.
+2
+Solve 2*v + 4*v + 29667*y + 258 = 29672*y, 129 = -3*v + y for v.
+-43
+Solve 7*b = 5*b - 2*g - 18, -10*b - 3*g - 24 = -8*b - 11 for b.
+-14
+Solve 9*g + 36 = -5*n + 5*n, -3*g + 30 + 16 = -49*n + 54*n - 57 for n.
+23
+Solve 8*p = 5*h, 6*h - 5*p + 6 = -h + 5*h - 3 for h.
+8
+Solve -2096*v = -2085*v - 2*m + 58, 3*v = -m - 5 for v.
+-4
+Solve -d + 25 = -0*d - 5*j, 22 = 2*d - 481*j + 485*j for d.
+15
+Solve 5*g + 11 = -4*b, 40*g - 63*g = -26*g + 4*b - 13 for g.
+-3
+Solve 2*u + 1 = -z, 10*u + 4817 - 4798 = -z + 14*u for z.
+-7
+Solve 6102*c - m + 2*m = 6104*c - 5, -5*c + 0*c = 10*m for c.
+2
+Solve 0*g - 7 = -7*g, -34*g + 78*g - 49*g = -2*c - 0 - 1 for c.
+2
+Solve 4*o - 9*r + 125 = 34, 101*o + 3 = 119*o - 3*r for o.
+2
+Solve -146 = 13*b - 3*k, -1069*k + 1074*k = b + 16 for b.
+-11
+Solve 35 = -2*z + c, 408*z - 405*z + 49 = 5*c for z.
+-18

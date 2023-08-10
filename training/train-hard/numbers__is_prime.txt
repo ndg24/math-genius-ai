@@ -1,0 +1,66 @@
+Is 393347147 prime?
+True
+Is 1098485863 prime?
+False
+Is 2508755629 a composite number?
+False
+Is 307541154759 prime?
+False
+Is 4253158081 a composite number?
+True
+Is 1840766023 a prime number?
+False
+Is 311246891717 composite?
+True
+Is 1434695191 a prime number?
+True
+Is 7772447359 a composite number?
+True
+Is 2109800317 a composite number?
+True
+Is 27280218091 composite?
+True
+Is 147588307 a composite number?
+True
+Is 20153373373 composite?
+True
+Is 407970317 a composite number?
+True
+Is 62183939731 prime?
+True
+Is 348922663 a prime number?
+False
+Is 84127168217 a prime number?
+True
+Is 546605959 a prime number?
+True
+Is 27299994589 a composite number?
+True
+Is 453869993 a composite number?
+True
+Is 16181370511 a prime number?
+False
+Is 5793100109 prime?
+True
+Is 12800960002 a composite number?
+True
+Is 100578767903 prime?
+False
+Is 15635795423 composite?
+True
+Is 502760333 a prime number?
+True
+Is 8057912351 a composite number?
+True
+Is 529724417 a composite number?
+False
+Is 5959654159 a prime number?
+True
+Is 187619635849 prime?
+True
+Is 469626953 composite?
+False
+Is 5959384187 composite?
+True
+Is 2229886427 prime?
+False

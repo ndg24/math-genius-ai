@@ -1,0 +1,66 @@
+Suppose 0 = 155*i - 149*i + 2190. Let p = -362 - i. Solve 4*z = 2*z - 4, -2*n - p*z = 16 for n.
+-5
+Let i = -737 - -753. Solve 2*c - u + 8 = 0, -4*c + 6*u = 3*u + i for c.
+-4
+Let p be (-9 - -5) + 8 + 5. Let n be (3/p)/(5/60). Solve 22 - 3 = 5*u - 2*b, n*u - 29 = -3*b for u.
+5
+Suppose -28*v - 142 = -226. Solve -x + 4*x - v*s = 24, 3*x = 5*s + 30 for x.
+5
+Suppose -5*b = 2*q - 0*b + 25, 3*b + 15 = 4*q. Suppose 4*c - 43 - 37 = q. Let m = 287 + -285. Solve -m*r + 16 = 2*f, -c = -5*f + f - r for f.
+4
+Let m = 11644 - 11642. Solve 2*s = -3*p + 13, 0 = p - 4*s + 17 + m for p.
+1
+Let k be (45/6)/(0 - 2/4). Let r be 28/(-15) + 5 + 77/k. Let h(l) = l + 4. Let m be h(r). Solve o = -m*b + 6 - 2, 5*b = -5*o for b.
+4
+Suppose -53*h = -59*h + 1542. Let g = -255 + h. Solve -g*c - 4*p = -13 + 31, -c = -3*p - 16 for c.
+1
+Suppose -859*p = -863*p - 4*t, -2*p + 2*t = -12. Solve 0 = -160*l + 158*l - a + 5, -40 = -5*l + p*a for l.
+5
+Let s be 92/9 - (-2)/(-9). Suppose 8*k - 17 = -5 + 44. Suppose g + k - s = 0. Solve -5*p + 2 - 5 = g*u, -2*p + u = 10 for p.
+-3
+Let j be (-6)/(-8)*((-256)/(-1152))/((-2)/(-24)). Solve -j*y - r - 7 = 0, -8*y = -11*y - r - 12 for y.
+-5
+Let v(g) = g**3 + 7*g**2 + 7*g + 9. Let x be v(-6). Suppose -35*h = 216 - 408 - 438. Solve -h = -2*z + 3*m, x*m - 15 = -z + 6*m for z.
+3
+Let q = -5231 - -5231. Solve q = -2*j + 5*j - 5*n + 25, 3*j - 20 = -4*n for j.
+0
+Let x(g) = -14*g**2 + 268*g - 34. Let t be x(19). Solve 2*j = 2*l + t, -6 = -l + 4*j - 8 for l.
+-2
+Let k(d) = 22*d + 933. Let j be k(-42). Solve -b = 4*o - j, 5*b - 21*o - 15 = -26*o for b.
+1
+Let w = 10156 + -10152. Solve 2*b + 2*g = 6, 2*b = w*g + 172 - 160 for b.
+4
+Suppose 41 = 4*g - 10*j + 9*j, 4*g + 2*j - 50 = 0. Let y(b) = 20*b - 220. Let w be y(g). Solve w*m = -4*a + 2*m + 26, 0 = -3*a + m + 18 for a.
+5
+Suppose -3*r + 3 = -9. Let s(f) = -f + 9*f**3 - 8*f**3 - 6*f**2 - 10 - 1 - r*f. Let v be s(7). Solve v*d + 3*w = 9, -d + 0 + 3 = -w for d.
+3
+Let h = 67 - 470. Let u = h - -407. Solve 0 = p - a, p - 5 = u*p - 2*a for p.
+-5
+Let q = 6123 - 6121. Let v be ((-30)/25)/((-6)/40). Let s = v + -2. Solve k = -t + 7, 5*t - q*k = -s*k + 30 for t.
+2
+Let q = -8895 - -8898. Solve -b + 0*p + 21 = -q*p, -32 = 4*p for b.
+-3
+Let x = -71 + 121. Suppose v - 61 = -x. Suppose 4*k - v*k = -119. Solve 2*r = -5*n - 30, 2*r = -3*n + r - k for n.
+-4
+Let z(f) = -3*f**3 + 15*f**2 + 6*f - 24. Let k be z(5). Solve -k = 3*g, -12*m + 4 = -10*m + 2*g for m.
+4
+Let n(b) = 6 - 3 - b + 2. Suppose 5*g + 261 = 286. Let x be n(g). Solve -3*c + x*c - 5*l - 2 = 0, 4*c - 2*l - 6 = 0 for c.
+1
+Let i(d) be the second derivative of 7*d**3/6 + 63*d**2/2 - 17*d - 2. Let g be i(-9). Solve g = -k - 0*k - 2*p - 2, 3*p = -5*k - 17 for k.
+-4
+Let u be (30/(-3) - -7) + (-3)/(-1). Suppose 0 = -2*d - 2*r, 0*r = -2*d + 2*r + 16. Suppose 9*g - 8 = 7*g. Solve 2*j - g*j + 2 = 0, -3*x + d*j + 8 = u for x.
+4
+Suppose -5*w = 2*s - 249 + 234, -2*s - 2*w + 12 = 0. Solve -3*b + 0*b = 5*l + 1, -s*l - 5 = 5*b for b.
+-2
+Let r be (-3)/(-3)*(2 + 15/(-3) + 3). Solve r = -s - a - 2, 0 = 2*s - 3*s + 4*a + 13 for s.
+1
+Let i = -221 + 248. Suppose -5*s + 112 = i. Solve o + s = 4*f, o = -5*f + 8 + 11 for o.
+-1
+Let a(v) = 2*v**2 + 2*v - 2. Let p be a(1). Suppose p*r - 20 = -3*j, -30 = -5*r - 10. Solve -3*y = 5*l - 3 + 8, 2*y = j*l + 26 for l.
+-4
+Suppose -8*r + 6 = -14*r. Let s(a) = -3*a - 3. Let b be s(r). Let t be 1 - 4 - 5/(-1). Solve 3*h + t*h - 3 = 4*g, b = -5*h + 3*g + 1 for h.
+-1
+Suppose 2*p + 3*g - 13 = 0, 13 = -84*p + 87*p - 2*g. Solve -4*u = p*m + 32, 2*u - 31*m = -35*m - 22 for u.
+-3
+Suppose -15*f - 31 = 74. Let l be (4/f)/((-35)/245). Solve -2*v = q + 3, -v = 3*v - l for q.
+-5

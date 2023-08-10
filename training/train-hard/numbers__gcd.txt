@@ -1,0 +1,66 @@
+What is the greatest common divisor of 32 and 933212064?
+32
+Calculate the highest common factor of 13177600 and 1720.
+40
+What is the greatest common divisor of 15578 and 1502?
+2
+Calculate the greatest common factor of 7566835 and 20.
+5
+What is the greatest common factor of 958163026 and 46?
+46
+Calculate the greatest common factor of 1236906 and 4851.
+99
+What is the highest common divisor of 21255915 and 26235?
+795
+What is the highest common divisor of 22562416 and 10596?
+3532
+Calculate the greatest common divisor of 570 and 33981.
+3
+Calculate the greatest common divisor of 5905851 and 930597.
+3621
+Calculate the greatest common divisor of 10 and 433437480.
+10
+Calculate the greatest common factor of 1048 and 26746532.
+524
+Calculate the highest common factor of 27 and 14902281.
+9
+What is the greatest common divisor of 98347144 and 1400?
+56
+Calculate the highest common divisor of 52722 and 50562.
+18
+What is the greatest common factor of 72161573 and 11?
+11
+Calculate the greatest common divisor of 16422 and 24640038.
+2346
+Calculate the highest common divisor of 4071 and 142157963.
+1357
+What is the highest common factor of 1547296 and 248?
+8
+Calculate the highest common divisor of 16542285 and 6.
+3
+Calculate the highest common factor of 74815 and 2480405.
+5755
+What is the greatest common divisor of 145 and 3194814?
+29
+What is the greatest common factor of 19675808 and 1744?
+1744
+Calculate the highest common factor of 4523478 and 14094.
+174
+What is the greatest common factor of 43127 and 217?
+7
+What is the greatest common divisor of 4822224 and 15312?
+528
+What is the greatest common divisor of 64960 and 10255?
+35
+What is the greatest common factor of 67060792 and 64?
+8
+What is the highest common divisor of 2680 and 742920?
+40
+Calculate the greatest common divisor of 154 and 170798852.
+14
+Calculate the highest common factor of 264066 and 11121.
+33
+Calculate the highest common factor of 17876 and 1556524.
+164
+Calculate the greatest common divisor of 21595882 and 748.
+374

@@ -1,0 +1,66 @@
+Let v(z) be the second derivative of -z**5/20 - 7*z**4/12 - z**3 - z**2 - 2*z + 26. Give v(-5).
+-22
+Let q(n) = -4*n**2 + n - 1. Let v be ((-15)/2)/(1/(-28)*-21). Let o(s) = 1 - 2*s + s**2 + 20 + 14*s. Let b be o(v). Calculate q(b).
+-4
+Let l = -5 + 10. Suppose 4*u + 0*o = 5*o + 1, 5*u - 4*o - 8 = 0. Let h(f) = u + 3*f + 3*f - l*f. Give h(-4).
+0
+Suppose -5*i = 2*r - 10, 0 = 3*i + 5*r - 6 - 0. Let g = -2072 + 2075. Let q(w) = 19*w**g - w**2 - w - 15*w**3 + i*w + 1. Give q(-1).
+-5
+Suppose s = -5*c + 7, s - 14 = 5*c - s. Let t(o) be the second derivative of -5/2*o**2 + c + 31*o + 1/2*o**3. Determine t(9).
+22
+Let y(k) be the second derivative of 0 + 115*k - 9/2*k**2 + 1/12*k**4 + 1/2*k**3. Calculate y(-5).
+1
+Let g be 6 + (-1 - (0 - 194)). Suppose g - 79 = -12*u. Let t(f) = -f**3 - 11*f**2 - 8*f - 7. What is t(u)?
+-27
+Suppose -4*z - 8 = 0, -3*b + 5*z - 5 = -21. Let m(r) = 4*r + 0 + 1 - 2*r + r**3 + 3*r**b. Let w be m(-3). Let i(q) = -q**2 - 4*q - 2. Calculate i(w).
+-7
+Let p(m) be the second derivative of m**5/20 + m**4 - 13*m**3/6 + 9*m**2/2 - 28*m + 2. Determine p(-13).
+9
+Let w(g) = -g**2 - 18*g + 74. Suppose -11*q = 6*q + 33 + 324. What is w(q)?
+11
+Let x(t) = -167 + 116 - 16*t - 11*t + 24*t + 109. Calculate x(-7).
+79
+Let u(x) be the first derivative of -7*x**2/2 - 27*x + 1602. Calculate u(11).
+-104
+Let i(n) = 46*n**2 - 6*n - 66. Let v(c) = -13*c**2 + c + 22. Let b(w) = -2*i(w) - 7*v(w). Give b(6).
+-28
+Let f(y) be the third derivative of 83*y**2 + 0 - 5/3*y**3 + 0*y + 1/60*y**5 - 7/24*y**4. Determine f(9).
+8
+Let p(n) be the first derivative of 0*n**3 - 43 + 1/2*n**2 - 1/60*n**5 + 20*n + 0*n**4. Let k(w) be the second derivative of p(w). Give k(-2).
+-4
+Let m(j) be the first derivative of j**2/2 + j - 17. Suppose 2*n - 5*n - 2*g - 30 = 0, g + 21 = -2*n. Calculate m(n).
+-11
+Let o(c) = 4*c**3 - c**2 + c + 2. Let j be o(0). Let r(z) = 14*z**j + 2*z + 10*z**2 + 1 - 30*z**2. Let f = 0 - 1. What is r(f)?
+-7
+Let g(a) = -a - 1. Let s(i) = -4*i - 22. Let j be s(-5). Let r be (70/25 + j)*5/2. Suppose 5*n - r*c = 19, 13 - 5 = 4*n + 2*c. What is g(n)?
+-4
+Let j(k) = 309 - 51*k. Let h be (-212)/(-1908) + (-106)/(-18). Give j(h).
+3
+Suppose 8*g + g - 108 = 0. Let n(a) = g*a - 11*a + 32 - 22. Let w be n(-5). Let x(o) = -o - 2. Give x(w).
+-7
+Let s(w) = -w**2 + 23*w - 63. Let l be s(20). Let c(d) = 12*d + 2. Calculate c(l).
+-34
+Let f(t) = t**2 + 8*t - 6. Let h(v) = -v**3 + 3*v**2 + 23*v - 18. Let u(d) = -11*f(d) + 4*h(d). Give u(1).
+-5
+Let a(n) = 2*n**2 - 83*n + 95*n - 22*n. Determine a(-4).
+72
+Suppose 2*c + 7*n - 14 = 11*n, 27 = 5*c - 2*n. Suppose 5 + 0 = -5*k - c*t, -19 = k - 5*t. Let o(a) = -a**2 - 5*a - 10. What is o(k)?
+-6
+Let u be ((-3)/15*225/12)/((-6)/16). Let r(x) = -2*x**2 + 24*x - 34. What is r(u)?
+6
+Suppose -2*h + 50 = -2*a, 3*h - 70 = -0*h + 2*a. Suppose -15 = -g + 7*i - 5*i, -2*g + 2*i + h = 0. Let v(k) = -k**2 + 6*k - 5. Give v(g).
+0
+Let y(r) = 5*r**3 - 5*r**2 - 7*r - 9. Let o(c) = -3*c**3 + 2*c**2 + 3*c + 5. Let b be (-58)/(-87) + (-23)/3. Let i(f) = b*o(f) - 4*y(f). Give i(-5).
+-9
+Let m(l) = -l**2 + 6*l - 10. Let d = -2283 - -2286. Determine m(d).
+-1
+Let q(m) = 2*m + 5. Let y = -21 + 19. Let f be (-28)/8*(-12)/y. Let t be 3*2/(18/f). Determine q(t).
+-9
+Let u be (105/(-42))/((-35)/(-20)*(-10)/7). Let k(x) = -2*x**3 - x**2 - 2*x. Determine k(u).
+-5
+Let i = 158 - 156. Let t(n) = -7*n**2 - 3*n**3 - 5*n**3 + 7*n**3 - n + 2*n**3 - i. Determine t(7).
+-9
+Let g(f) be the second derivative of 1/2*f**2 - 62*f - 1/6*f**4 - 1/2*f**3 + 0. What is g(2)?
+-13
+Let s be (144/60)/((-8)/20). Let f be (-15)/s + 1 + 3/2. Let j(r) be the second derivative of -r**4/12 + 5*r**3/6 + 5*r**2/2 + 2*r. What is j(f)?
+5

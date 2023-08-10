@@ -1,0 +1,66 @@
+Does 1/4 = 12/412107583?
+False
+Is 580709 at most 5807103/10?
+True
+Which is smaller: 20363 or 2402919/118?
+20363
+Which is smaller: -51780 or -11?
+-51780
+Which is smaller: 17665630 or -1/5?
+-1/5
+Is -27457315 at most as big as -27457306?
+True
+Which is greater: -1248805 or -1248796?
+-1248796
+Which is bigger: -1 or 11/123389?
+11/123389
+Which is bigger: 151527991 or 151527990?
+151527991
+Is 5 less than -12.077731?
+False
+Which is smaller: -1027 or 2354?
+-1027
+Which is greater: 216 or -0.57146?
+216
+Which is smaller: 26287870 or 26287853?
+26287853
+Do 125588/5 and -60 have different values?
+True
+Is -503776 at most as big as -503774?
+True
+Is -2589110 greater than or equal to -2589095?
+False
+Is 576329 > 576339?
+False
+Is -89057405 at most -89057416?
+False
+Which is smaller: -2826190 or -2826195?
+-2826195
+Which is smaller: 22610/1849 or 12?
+12
+Which is greater: 5436335 or 5436337?
+5436337
+Is -0.9 < 2752/3099?
+True
+Which is smaller: 0 or -220/7975927?
+-220/7975927
+Is -549805782 bigger than 0?
+False
+Is -14778/74813 < 0?
+True
+Is -1374 less than or equal to 564?
+True
+Which is smaller: 2/3 or -37356421?
+-37356421
+Is 19375/1686 >= 11?
+True
+Is -1 <= -2/262256355?
+True
+Is -15753 at least -24071?
+True
+Which is smaller: 320578 or 3205789/10?
+320578
+Which is greater: 687501 or 687519?
+687519
+Which is smaller: 8/5 or -6/3858863?
+-6/3858863

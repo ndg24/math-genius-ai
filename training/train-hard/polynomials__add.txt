@@ -1,0 +1,66 @@
+Let m(o) = 825*o**2 + 100*o. Let c(d) = 25*d**2 + 3*d. Suppose 219*r - 99*r - 932 = -12932. What is r*c(t) + 3*m(t)?
+-25*t**2
+Let d(o) = 3*o**2 + 37*o - 25. Let l(n) = 5. Calculate -2*d(k) - 10*l(k).
+-6*k**2 - 74*k
+Let q(n) = -25*n**2 + 11*n + 11. Let d(h) = 13*h**2 - 6*h - 6. Suppose 0*p = 3*p + 843. Let u = p - -292. Calculate u*d(l) + 6*q(l).
+-7*l**2
+Let z(n) = 27*n + 151. Let i(o) = 5*o + 31. Calculate -33*i(b) + 6*z(b).
+-3*b - 117
+Let k(h) = -h**3 - 12*h**2 + 146*h + 5. Let s(w) = -2*w**3 - 16*w**2 + 149*w + 6. Calculate 4*k(b) - 3*s(b).
+2*b**3 + 137*b + 2
+Let b(l) = -17*l**3 + 9*l**2 + 43*l. Let p(q) = -q**3 + q**2 + 8*q. Let k(a) = -b(a) + 6*p(a). Let j(x) = -32*x**3 + 8*x**2 - 14*x. What is -3*j(v) - 8*k(v)?
+8*v**3 + 2*v
+Let f(w) = 8*w**2 + 5*w - 5. Let s(t) = 20*t**2 + 12*t - 12. Let h = -53 + 79. Let v = h + -23. Let n be (-6)/((1/v)/((-4)/(-6))). Calculate n*f(b) + 5*s(b).
+4*b**2
+Let r(o) = 10 - 50*o. Suppose -396 + 60 = 21*v. Let z(u) = 10*u - 2. Calculate v*z(a) - 3*r(a).
+2 - 10*a
+Let x(m) = 2871 - m. Let z(s) = -s - 8. What is -x(i) + 2*z(i)?
+-i - 2887
+Let q(w) be the third derivative of w**5/12 + 985*w**2 - w. Let z(x) = x**2 - 6*x + 4. Let p be z(3). Let d(g) = -5*g**2. What is p*d(f) - 4*q(f)?
+5*f**2
+Let r(z) = -7*z**2 + 7*z + 4. Let p = 1 + 4. Let u be (2 + 5/(-2))/((-217)/(-2604)). Let q(t) = -7*t**2 + 6*t + 3. Calculate p*r(o) + u*q(o).
+7*o**2 - o + 2
+Let r(s) = s**3 - s**2 - s. Suppose -3*o + 271*p - 269*p = 66, -60 = 5*o + 5*p. Let j(d) = 9*d**3 - 6*d**2 - 6*d. What is o*r(x) + 3*j(x)?
+9*x**3
+Let p(u) = -2*u - 14. Let x(t) = 106*t - 13. Let m(d) = 133*d - 13. Let k(q) = 4*m(q) - 5*x(q). Give -4*k(v) - 3*p(v).
+-2*v - 10
+Let l(v) = v**2 - 4*v - 3. Let s(p) = -7*p**2 - 12*p + 62. Give 3*l(u) - s(u).
+10*u**2 - 71
+Let q(c) = -149*c**2 + 14*c + 3. Let r(f) = 149*f**2 - 11*f - 3. What is 4*q(o) + 5*r(o)?
+149*o**2 + o - 3
+Let r(b) = -b**2 - b + 1. Suppose -16 = -4*n, n - 6 = 2*z - 8. Let p(m) = -8*m**3 + 3*m + 4*m + 14*m**z + 7*m**2 - 7*m**3 - 7. Determine 6*p(u) + 42*r(u).
+-6*u**3
+Let c(f) = -22*f**2 - 5. Let y(h) = -22*h**2 - 6. Suppose 46*n - 47*n - 3*j = -6, 5*n = 5*j - 50. Determine n*c(r) + 5*y(r).
+22*r**2
+Let z = 112 + -111. Let f(t) = 1. Let v be (-33)/66*(-4 + 2). Let i(g) = 1 - 5*g. Give v*f(j) + z*i(j).
+2 - 5*j
+Let d(h) = 2*h + 6. Let a = -8028 + 8043. Let n = -8 - -35. Suppose -n = 2*s - a. Let w(g) = -g - 5. Determine s*w(k) - 5*d(k).
+-4*k
+Let w(c) = -3473*c - 89. Let i(q) = 1736*q + 54. Give -5*i(x) - 3*w(x).
+1739*x - 3
+Let d(q) be the second derivative of -q**3/6 + 4*q. Let v = -332 - -552. Let r(p) = 6*p - v - p + 219. Calculate -2*d(n) - r(n).
+1 - 3*n
+Let r(y) = 2*y**3 + 5*y**2 + 5*y - 1. Let z(i) = -2*i**3 - 6*i**2 - 6*i. Let n = 665 - 372. Let w = n - 287. Give w*r(q) + 5*z(q).
+2*q**3 - 6
+Let o(s) = 3*s**2 + 10*s - 2. Let q(n) = -11*n**2 - 42*n + 10. Determine -9*o(k) - 2*q(k).
+-5*k**2 - 6*k - 2
+Let m(q) = 2*q - 1 + 0 + 0 + 4*q**3. Suppose 0 = -2*y + 4*n - 8, -137*n + 132*n = -y - 4. Let s(v) = -5*v**3 - 2*v + 1. Calculate y*m(l) - 3*s(l).
+-l**3 - 2*l + 1
+Let i(w) be the third derivative of -w**5/60 + w**4/24 - w**3/6 - 42*w**2. Suppose -5 = -2*t + 7*t. Let v(o) = o - 1. Determine t*i(c) + v(c).
+c**2
+Let k(h) = 3415*h**2 + 6147*h - 683. Let b(o) = -o**2 - 9*o + 1. Calculate 1366*b(x) + 2*k(x).
+5464*x**2
+Let d(g) be the first derivative of 3*g**4/2 + g**3/3 - g**2 - g + 2553. Let q(x) = -x**3 + x**2 + x + 1. Calculate d(z) + q(z).
+5*z**3 + 2*z**2 - z
+Let r(b) = -b**2 + 374*b + 7. Let m(f) = -5*f**2 + 1957*f + 36. Give 2*m(s) - 11*r(s).
+s**2 - 200*s - 5
+Let l(d) = 22*d**2 + 3. Let c(t) = -21*t**2 - 2. Suppose -2*r + 6 = 2*y, -r + 3 = 34*y - 29*y. Calculate r*c(x) + 2*l(x).
+-19*x**2
+Let a(f) = f**2 - 3*f. Suppose -184 - 847 - 685 = -39*d. Let r(c) = 8*c**2 - 22*c. Determine d*a(y) - 6*r(y).
+-4*y**2
+Let f(v) = 42*v**2 - 2*v + 27. Let o(n) = -84*n**2 + 4*n - 46. Give 5*f(r) + 3*o(r).
+-42*r**2 + 2*r - 3
+Let i(b) = 33*b - 6. Let l(f) = -3 + 11 + 3 + 3 - 7 - 33*f. Determine -6*i(w) - 5*l(w).
+1 - 33*w
+Let n(i) = -4*i**2 - 16. Suppose -3090*d + 3054*d = 2880. Let k(v) = -v**2 - 1. What is d*k(x) + 5*n(x)?
+60*x**2

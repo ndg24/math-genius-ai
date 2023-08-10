@@ -1,0 +1,66 @@
+In base 5, what is -14043030213 - 22?
+-14043030240
+In base 16, what is 242dcf + -10?
+242dbf
+In base 2, what is -1001111000011111001 + -1000101000?
+-1001111001100100001
+In base 14, what is -5c31 - -204?
+-5a2b
+In base 10, what is 4 - -1303341?
+1303345
+In base 6, what is 401040531 - 20?
+401040511
+In base 6, what is -202500 - -41505?
+-120551
+In base 12, what is 30b99 + -2834?
+2a365
+In base 11, what is -258 + -30996?
+-31143
+In base 8, what is 54 - 5733741?
+-5733665
+In base 14, what is 4 - -1a2896c4?
+1a2896c8
+In base 10, what is 0 + -603167?
+-603167
+In base 16, what is -827 + 2710?
+1ee9
+In base 2, what is 1110110 - -11011100001101?
+11011110000011
+In base 2, what is 10100011101000111 - -1010001010101?
+10101101110011100
+In base 7, what is 5 + 5415414006?
+5415414014
+In base 12, what is 52 - 5943?
+-58b1
+In base 14, what is 6340 - 37d7?
+2947
+In base 5, what is 424 - 20403444?
+-20403020
+In base 14, what is -1947 - -527d?
+3736
+In base 6, what is -54103 - -44252?
+-5411
+In base 15, what is -471 - 18add?
+-1905e
+In base 2, what is -1111011 - -1100011011110111011111?
+1100011011110101100100
+In base 9, what is 84 - 257835?
+-257741
+In base 15, what is -3daeb72a + 3?
+-3daeb727
+In base 3, what is 22110 + 10010001000?
+10010100110
+In base 8, what is 16034 - 414?
+15420
+In base 3, what is -101 + 11000121202121010?
+11000121202120202
+In base 2, what is 110101001101111000 - 10100?
+110101001101100100
+In base 9, what is 4487 + -607?
+3780
+In base 10, what is -164279819 - -5?
+-164279814
+In base 8, what is 0 - -11172141?
+11172141
+In base 14, what is 74bbdd6 + 3?
+74bbdd9

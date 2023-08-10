@@ -1,0 +1,66 @@
+Suppose 5 = m, -5*m = 4*v - 0*m + 147. Let w = 76 + v. What is the third derivative of -2*k**4 + 21*k**2 - 3*k**4 - 8*k**4 - w*k**2 wrt k?
+-312*k
+Find the second derivative of -2505*v**2 + 105*v**2 - 1447 + 730 + 59*v + 739 wrt v.
+-4800
+Let p(d) = 57 - 60*d. Let q(m) be the third derivative of -m**4/12 - m**3/6 - 10*m**2 - 2*m. Let x(n) = -p(n) + 15*q(n). Differentiate x(s) wrt s.
+30
+Let z(f) = 6 - f. Let b be z(-10). What is the second derivative of 43*a + 8*a**2 + 4*a**2 + b*a**2 + 28*a wrt a?
+56
+Suppose 8*r + 4 = 10*r. Suppose r*d = -5*x + 18, 4*x + 5*d - 18 = 5*x. Find the third derivative of 12*o**2 + 44*o**5 + 4*o**x - 34*o**5 wrt o.
+600*o**2
+Let v(a) be the third derivative of -521*a**6/24 - 1579*a**5/20 + 438*a**2 - 1. Find the third derivative of v(z) wrt z.
+-15630
+Find the second derivative of 272 - 3680*x**2 - 11*x + 22*x + 1177*x**2 - 9*x wrt x.
+-5006
+Let z(w) = 784*w + 232. Let b(i) = 1 - 10*i. Let h(q) = 4*b(q) + z(q). What is the derivative of h(f) wrt f?
+744
+Let u(q) = -3*q**3 - 2*q**2 + 10*q - 1. Let k(g) = 2*g**4 - 3288*g**3 - 3*g**2 + 20*g - 49. Let z(n) = k(n) - 2*u(n). Find the third derivative of z(l) wrt l.
+48*l - 19692
+Let j(q) = 6651*q**3 - 2068*q**2 + 7. Let d(y) = 4434*y**3 - 1376*y**2 + 5. Let g(h) = 7*d(h) - 5*j(h). What is the third derivative of g(v) wrt v?
+-13302
+Let l = -50 - -56. Suppose 0 = u + l*u. What is the second derivative of 7 - 11*h**5 + u - 4*h - 7 wrt h?
+-220*h**3
+Let g(q) be the second derivative of 0*q**4 + 51/2*q**2 + 0*q**3 + 2*q + 0*q**5 + 2 + 31/30*q**6. Differentiate g(l) with respect to l.
+124*l**3
+Let k(l) be the third derivative of 173*l**5/60 + 31*l**3/2 + 4*l**2 - 117*l. Differentiate k(n) wrt n.
+346*n
+Let n(k) = k**2 - 5*k - 21. Let r be n(8). Find the third derivative of 37*j**2 + 3*j**6 + 198*j**r - 21*j**2 - 201*j**3 wrt j.
+360*j**3 - 18
+Let w(m) be the first derivative of -970*m**6/3 - 3*m**2/2 - 120*m + 519. What is the second derivative of w(o) wrt o?
+-38800*o**3
+Suppose 71 - 53 = 6*t. Find the second derivative of -116*u**3 + 201*u**t + 69*u - 15*u wrt u.
+510*u
+Let a(d) = -3048*d**2 + 2376*d. Let o(x) = -9*x. Let v(r) = a(r) - 6*o(r). What is the second derivative of v(q) wrt q?
+-6096
+Let d = -91 + 91. Let q(m) be the second derivative of m**2 + 7/6*m**4 + d + 0*m**3 + m. Find the first derivative of q(y) wrt y.
+28*y
+Let g = -225 - -426. Differentiate -30 + g*m - 58 + 121 + 116 wrt m.
+201
+Let x(c) be the second derivative of 0*c**2 + 0*c**4 - 14 - 1/42*c**7 - 18*c**3 + 2*c + 0*c**6 + 0*c**5. Find the second derivative of x(j) wrt j.
+-20*j**3
+Find the third derivative of 217*g**5 + 921*g**5 - 2*g**2 + 212*g**5 - 1308 wrt g.
+81000*g**2
+Suppose 4*b - 20 = 0, 0 = -4*o - 0*b + b + 3. Suppose 4*w + 983 = y, -2*y = o*w - 363 - 1583. What is the third derivative of -975 + 7*f**2 + y - 2*f**6 wrt f?
+-240*f**3
+Let d(n) be the first derivative of 3941*n**5/5 + 4090*n - 4572. Differentiate d(v) with respect to v.
+15764*v**3
+Let h(v) = 59 - 2*v. Let f be h(26). Find the second derivative of 11 - f*c - 69*c**4 + 9*c + 23 - c wrt c.
+-828*c**2
+Let y be 0 + 0 + (-140)/(0 - 5). What is the second derivative of p**2 - y*p + 34*p + 99*p wrt p?
+2
+Let m(y) = 9653*y + 800. Let h(u) = 4825*u + 401. Let s(d) = 13*h(d) - 6*m(d). Find the first derivative of s(o) wrt o.
+4807
+Let f(m) be the third derivative of 1/105*m**7 - 1/20*m**5 + 20/3*m**3 - 7/60*m**6 + 64 + 0*m - m**2 + 0*m**4. What is the third derivative of f(l) wrt l?
+48*l - 84
+Let b(z) = 14*z - 55. Let a be b(7). Find the second derivative of 59*d - 3*d**5 + a*d**5 - 19*d**5 wrt d.
+420*d**3
+Let z(g) be the second derivative of -g**7/21 - g**6/6 + 103*g**5/20 - 593*g**3/3 - 6*g + 209. What is the second derivative of z(r) wrt r?
+-40*r**3 - 60*r**2 + 618*r
+Suppose 0 - 6 = -f. Find the third derivative of -24*u**6 + 5*u**2 - 45*u**f - 44*u**2 wrt u.
+-8280*u**3
+What is the second derivative of -51395*n + 4292*n**2 + 25273*n + 24131*n wrt n?
+8584
+Let u be (140/(-114) - (-14)/(-133))*-1170. Find the first derivative of -u - 11*h**4 + 1426 + 121*h**4 wrt h.
+440*h**3
+Let n = -91 - -104. Find the second derivative of -11*k - 19*k - 19*k**5 + n*k**5 + 3*k**4 wrt k.
+-120*k**3 + 36*k**2

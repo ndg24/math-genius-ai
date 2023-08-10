@@ -1,0 +1,66 @@
+Let l(d) be the third derivative of d**6/1080 - 31*d**5/60 + 139*d**4/108 - 4*d**2 - 2*d - 11. Determine v so that l(v) = 0.
+0, 1, 278
+Let r be 4*623/168 + -13 + (-1)/(-6). Factor 2420*u**r - 308*u**3 + 18*u**4 - 7986*u + 29282/5 - 2/5*u**5.
+-2*(u - 11)**4*(u - 1)/5
+Let 2/9*n**3 + 1600/9 + 320/3*n + 28/3*n**2 = 0. What is n?
+-20, -2
+Factor -830/7*h**2 + 2/7*h**3 - 832/7*h + 0.
+2*h*(h - 416)*(h + 1)/7
+Let n(a) be the third derivative of 5*a**8/56 - 7*a**7/10 + a**6/8 + 211*a**5/20 - 159*a**4/8 - 9*a**3 - 291*a**2 - a. Determine k so that n(k) = 0.
+-2, -1/10, 1, 3
+Let m = 2/53 + -353/5141. Let p = m - -427/1261. Solve 30/13*z + p + 24/13*z**4 + 72/13*z**2 + 70/13*z**3 = 0 for z.
+-1, -2/3, -1/4
+Let h be 14/8 + (-21)/((-6384)/268). Suppose -18/19*u**4 - 2/19*u**5 - h + 30/19*u - 28/19*u**3 + 68/19*u**2 = 0. What is u?
+-5, -1, 1
+Let n(x) = -13*x**5 - 10*x**4 + 7*x**3 + 25*x - 6. Let h(q) = -2*q**5 - q**4 + 2*q**3 - q**2 + q - 2. Let m(k) = 35*h(k) - 5*n(k). Factor m(g).
+-5*(g - 4)*(g - 2)*(g + 1)**3
+Let j = -7532 + 67790/9. Let y(h) be the first derivative of -8/3*h + 17 + j*h**3 - h**2. Factor y(p).
+2*(p - 4)*(p + 1)/3
+Let f(y) be the second derivative of 1/72*y**4 + 2/9*y**3 + 19 - y + 7/12*y**2. Determine m, given that f(m) = 0.
+-7, -1
+Let s = -482846/3 + 160951. Factor -1/3*n**3 + s*n**2 - 14/3*n + 8/3.
+-(n - 4)*(n - 2)*(n - 1)/3
+Let d(q) = 2131*q**3 + 2511*q**2 + 304*q + 20. Let f(h) = -708*h**3 - 837*h**2 - 100*h - 7. Let b(k) = 3*d(k) + 8*f(k). Suppose b(m) = 0. What is m?
+-1, -2/27
+Let s(i) be the second derivative of 4*i - 1/60*i**4 - 5 - 9/5*i**2 - 3/10*i**3. Factor s(h).
+-(h + 3)*(h + 6)/5
+Factor 6/13*n**2 + 2176/13 + 3268/13*n.
+2*(n + 544)*(3*n + 2)/13
+Let n = -137 - -167. Factor -77*z - 5*z**4 + 52*z + n*z**2 + 45*z - 25 - 20*z**3.
+-5*(z - 1)**2*(z + 1)*(z + 5)
+Suppose 9*j = j. Suppose j = -5*z - 57 + 67. Factor -z*v**4 + 0 - 2/5*v**5 - 8/5*v**2 + 0*v - 16/5*v**3.
+-2*v**2*(v + 1)*(v + 2)**2/5
+Let g = 61/234 + -1/26. Let l = -30837 + 30840. Solve -8/9*s**l - 8/9 + 2/3*s**2 + 8/9*s + g*s**4 = 0.
+-1, 1, 2
+Let a(p) = p**2 - 35*p + 68. Let y be a(33). Factor -12*z + y*z**4 + 28*z**2 - z**4 - 9*z**3 + z + 16 - 25*z.
+(z - 4)*(z - 2)**2*(z - 1)
+Let z(m) = m**3 + 2*m + m**3 - m**2 - m**3 - 3. Let s be z(2). Solve -s*x**5 - 5*x**4 + 3*x - 43*x**2 + 48*x**2 + 15*x**3 - 13*x = 0.
+-2, -1, 0, 1
+Let h(u) be the first derivative of -u**3/9 + u**2/6 + 110*u/3 + 1942. Determine y so that h(y) = 0.
+-10, 11
+Let b = 86 + -72. Let n be (12579/b)/(2/4). Let 1797*p - 5*p**4 - n*p - 10*p**2 - 15*p**3 + 0*p**4 = 0. What is p?
+-2, -1, 0
+Find s, given that -1/2*s**4 + 1/4*s**5 - 30 - 67*s - 57/4*s**3 - 101/2*s**2 = 0.
+-3, -2, -1, 10
+Let b(m) = m**2 - 5*m - 94. Let l be b(-9). Let w(g) be the second derivative of -l*g + 1/4*g**3 - 1/24*g**4 + 0 + g**2. Solve w(a) = 0.
+-1, 4
+Suppose -d + 0*l = 5*l - 30, 2*d - l = 5. Let a(y) = y**2 - 11*y + 35. Let p be a(d). Factor 3*j**p + 11*j**2 + 9*j**2 - 3*j**3 - 9*j**4 - 11*j**2.
+3*j**2*(j - 3)*(j - 1)*(j + 1)
+Let f(k) = 5*k**2 + 70*k - 35. Let v be f(-15). Suppose 33*p - 41*p + v = 0. Factor -98/5*g**2 + 0 - 6*g**4 - 126/5*g**3 - 2/5*g**p + 0*g.
+-2*g**2*(g + 1)*(g + 7)**2/5
+Factor -1/4*t**2 + 0 - 4*t.
+-t*(t + 16)/4
+Suppose -3*y + 24 = i, -4*y - 420*i + 421*i + 25 = 0. Let v(l) be the second derivative of -8/3*l**3 - 1/20*l**5 + 0 + 0*l**2 - 2/3*l**4 - y*l. Factor v(c).
+-c*(c + 4)**2
+Let y(r) = 248*r + 233. Let l be y(4). Let n = l + -1223. Find p, given that -14/3 - 4*p + 2/3*p**n = 0.
+-1, 7
+Solve -2/3*i**2 - 1 + 2*i**3 + 5/3*i**4 - 7/3*i + 1/3*i**5 = 0.
+-3, -1, 1
+Let g(a) = -a**2 - 12*a + 22. Let o be g(-13). Suppose 0 = -7*b + o*b - 30. Factor -21 + 245*s - 19 - 230*s**2 + b*s + 55*s**3.
+5*(s - 2)**2*(11*s - 2)
+Suppose 5*w = u + 4, -w + 6 = -4*u - 10. Let g(i) be the second derivative of 2/5*i**5 - 2/15*i**6 + i + 0 + 0*i**2 + w*i**3 + 0*i**4. Factor g(z).
+-4*z**3*(z - 2)
+Let d(o) = -5770*o - 17310. Let b be d(-3). Find s, given that -333/7*s**3 + b + 21*s**5 - 6/7*s + 15*s**4 + 87/7*s**2 = 0.
+-2, 0, 1/7, 1
+Let h(a) be the second derivative of 0*a**2 - 2 + 0*a**3 - 31*a + 1/36*a**4. What is i in h(i) = 0?
+0

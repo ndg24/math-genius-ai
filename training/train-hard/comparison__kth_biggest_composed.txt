@@ -1,0 +1,66 @@
+Let u = -78718 - -78721. Let o = -10 - -7. What is the biggest value in 5, u, o, 1?
+5
+Let t be 1/2 + (-11)/2. Let r = -103.08 + 106.08. Which is the fourth smallest value?  (a) 0.1  (b) -4  (c) r  (d) t
+c
+Let y = -0.092 - 0.128. Let g = y + 0.62. Let l be 0/(-1)*3/3. Which is the second smallest value?  (a) l  (b) g  (c) 2/7
+c
+Let l = 2752 + -2752.4. Which is the biggest value?  (a) -209  (b) 5  (c) l
+b
+Let j = 4.91 + 0.09. Let f = -0.154776 + 0.464776. Which is the second smallest value?  (a) f  (b) -2/9  (c) -1/8  (d) j
+c
+Let t be 13/((-156)/(-89844))*(-1)/770. Let w = t - -68/7. Which is the smallest value?  (a) 0  (b) -0.1  (c) w
+b
+Let l = -14 - -23. Suppose 25 = -2*a + 14*i - l*i, -2*i + 94 = -5*a. What is the second biggest value in 4, -2/3, a?
+-2/3
+Let u = -7255 - -79884/11. Which is the second biggest value?  (a) u  (b) 5  (c) -0.2
+b
+Let q(w) = 11*w + 66. Let x be q(0). Suppose -s - 5 = 4*s. Let r be (s/10)/(11/x). Which is the second smallest value?  (a) 1/6  (b) r  (c) 5
+a
+Let m be 2/20*(-15)/(-12). Let w = -6 - -7.3. Let b(o) = -6*o - 5. Let x be b(-1). What is the third smallest value in -0.2, m, w, x?
+x
+Let p = -4.5338 - -4.7338. Let h = -6.2 - -1.2. Let s = -167/3 + 55. What is the second biggest value in 1, s, p, h?
+p
+Let m = 183.4 + -154. Let o = m - 28.9. Let i = -0.5 + 0. Which is the biggest value?  (a) i  (b) 2/5  (c) o
+c
+Let i be (-7)/(-5)*((-328)/7 + 47). What is the third smallest value in -0.3, 24/31, -2, i?
+i
+Let g = -2798.999 - -2799. Which is the third biggest value?  (a) g  (b) -4  (c) 1/6
+b
+Let f = 45 - 677/15. Let c be (80/(-660))/((-28)/6). What is the third smallest value in 0.3, c, f?
+0.3
+Let d(s) = 7*s + 9. Let x be d(-6). Let z be 2/(-8) + 129/4. Let j = x + z. What is the second smallest value in 1/3, -10/7, j?
+j
+Let g(h) = 342*h - 1500. Let t be g(6). Which is the biggest value?  (a) 2  (b) t  (c) 1/4  (d) 3
+b
+Let k be 0/((-2 - -5) + -25 + 20 + -1). What is the smallest value in k, -5, -26, 0.2, -3?
+-26
+Let b(j) = -100*j - 801. Let v be b(-8). What is the second smallest value in v, -2/15, -0.005, -8?
+v
+Let s(l) = -l**3 + 2*l**2 + 3*l - 7. Let c be s(-2). Suppose 3*v = -2*z + c, 0 = -v + 2*v + 2*z - 1. What is the third biggest value in v, 8, 0?
+0
+Let v be (-1)/(-4) - (-41)/396. Let l = 526/99 + -16/3. Let k = l + v. Which is the second biggest value?  (a) k  (b) 1  (c) 0.2
+a
+Let j = 16628 - 16656. Which is the second biggest value?  (a) 5  (b) 17  (c) j
+a
+Let m = -373/5 + 75. Let x = 30.55 - 1706.45. Let t = x + 1676. Which is the second biggest value?  (a) m  (b) t  (c) -4/5  (d) 58
+a
+Let q = -7.82 - 0.18. Let c = -0.008 - -21.508. Let d = 21.4 - c. What is the second biggest value in d, q, -1/5?
+-1/5
+Let j = 663.93 - 664. Let x = j + 0.27. Which is the smallest value?  (a) -0.2  (b) x  (c) 268
+a
+Let o be 33 - (-19)/(-1) - 15. Which is the smallest value?  (a) 0.225  (b) -1/4  (c) o  (d) -0.5  (e) -0.1
+c
+Let r = 0.1 - 0.1. Let g = 202 + -208. Let j be 9/16*-2 - (6 + -7). Which is the second biggest value?  (a) g  (b) j  (c) r
+b
+Let x = 8.78 + 0.22. Let w = -289 - -289.4. Which is the second biggest value?  (a) w  (b) 0  (c) x
+a
+Let b(k) = -k**3 + 10*k**2 + 136*k + 114. Let p be b(-7). What is the third biggest value in 52/101, p, -4?
+p
+Let w = 5.4 - 1.7. Let i = w - -0.3. Let t = -0.45029 - 0.54971. Which is the fourth biggest value?  (a) i  (b) 1/5  (c) -3/5  (d) t
+d
+Let v be 402/(-42) + (-9 - (-10 - 9)). Which is the third biggest value?  (a) v  (b) -1  (c) -1868
+c
+Let b(g) = 1110 - 18*g. Let z be b(62). What is the second biggest value in z, -4, -1/4?
+-4
+Let k = -10990 - -10983. Let u = -0.17 + 0.67. Which is the second smallest value?  (a) u  (b) k  (c) 0.3
+c

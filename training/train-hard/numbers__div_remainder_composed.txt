@@ -1,0 +1,66 @@
+Let o(l) = 5*l**2 - 34*l - 313. What is the remainder when o(-12) is divided by 24?
+23
+Let b = -271 + 4003. Calculate the remainder when b is divided by 532.
+8
+Let v = 5275 - 3861. Calculate the remainder when v is divided by 51.
+37
+Let h(g) = 2*g**3 - 13*g**2 - 16*g + 51. Let n be h(7). What is the remainder when 50 is divided by ((-217)/(-28))/((-3)/n)?
+19
+Let z = 28 - 17. Let u(f) = -f**2 + 16*f - 9. Calculate the remainder when u(z) is divided by ((-24)/(-28))/((-1)/(-14)) + 0.
+10
+What is the remainder when ((-21)/(-6 - -9) + -94)/(-1) is divided by 93?
+8
+Suppose -5*b = 3*s - 1775, 52*s - 50*s = -10. What is the remainder when b is divided by 53?
+40
+Let d = 20717 + -20178. What is the remainder when 3776 is divided by d?
+3
+Let w(z) = z**3 + 14*z**2 + 19*z + 17. Let k be w(-12). Suppose 2*c - 3 - k = 0. Let f = -19 + c. What is the remainder when 103 is divided by f?
+19
+Suppose -14*x = -2*x - 348. Let y(k) = -k**2 + 38*k - 124. What is the remainder when y(x) is divided by 14?
+11
+Let h(m) = -m**2 + 12*m + 3142. What is the remainder when h(-47) is divided by 58?
+21
+Suppose -2915*t + 2911*t = -100. Calculate the remainder when 90 is divided by t.
+15
+Suppose -5*v + 4*v = -10. Suppose 15*q = v*q + 110. Suppose -3*b = r - 295 - 93, -5*r - 382 = -3*b. What is the remainder when b is divided by q?
+19
+Let k(z) = 1670*z - 997. What is the remainder when 2712 is divided by k(1)?
+20
+Let x(w) = 14*w**2 - 4*w. Calculate the remainder when 95 is divided by x(-1).
+5
+Let p(u) = 332 - 3*u. Calculate the remainder when p(-30) is divided by 72.
+62
+Let r(o) = 2*o + 32. Suppose 365 - 113 = 12*d. What is the remainder when r(0) is divided by d?
+11
+Let j(p) = 21 - 10*p. Calculate the remainder when j(-8) is divided by 126/3*(252/98)/3.
+29
+Let i(w) = -12*w - 77. Calculate the remainder when 192 is divided by i(-14).
+10
+Suppose 3*q + 3*j = 3891, -5*q + 0*q + j + 6461 = 0. What is the remainder when q is divided by 120?
+93
+Let h(k) = 654*k + 11140. Suppose 0 = 2*a + c - 82, 5 = a + 5*c - 18. What is the remainder when a is divided by h(-17)?
+21
+Suppose -816 = -18*o + 135 + 3. Suppose 4*q = 5*g - 0*q + 146, -5*g + 2*q - 138 = 0. Let u = g - -44. What is the remainder when o is divided by u?
+17
+Let j = 2986 - 2966. Let f = 35 + 64. Calculate the remainder when f is divided by j.
+19
+Suppose -5*a = -18 - 7. Let o(u) = 12*u + 7. Let f be o(a). Let z = f - 66. What is the remainder when 3 is divided by z?
+0
+Suppose 0*y + 4*y - 272 = 0. Suppose 5*u - 3*c - y = 0, -u - u + 5*c = -31. Suppose 0 = -5*k + 2*k + 186. What is the remainder when k is divided by u?
+10
+Let w = -162 + -46. Let d = -188 - w. Calculate the remainder when 22 is divided by d.
+2
+Let a(t) = 246*t - 156. What is the remainder when 322 is divided by a(1)?
+52
+Let u = 41595 - 41416. Calculate the remainder when u is divided by (-3)/9 + 182/6.
+29
+Suppose -66*f + 321078 = 68100. Calculate the remainder when f is divided by 101.
+96
+Suppose -820 + 358 = -21*k. Let b = 58 + 137. What is the remainder when b is divided by k?
+19
+Let n be (-107596)/(-296) + 1/(-2) + 0. Suppose -22*c + n + 385 = 0. What is the remainder when 115 is divided by c?
+13
+Let b = -1058 - -1145. Suppose -4*z - 2 - 6 = 0. Let k(j) = 1 - 7*j. Calculate the remainder when b is divided by k(z).
+12
+Calculate the remainder when (-2 + 5)/(2 + 271/(-137)) is divided by 21/((7/(-21))/(20/(-18))).
+67

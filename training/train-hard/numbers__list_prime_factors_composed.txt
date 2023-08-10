@@ -1,0 +1,66 @@
+Let a(n) = 2044*n + 3106. List the prime factors of a(6).
+2, 5, 29, 53
+Let s(a) = 424*a + 122. Let h be s(15). Suppose 10*i + 462 = h. What are the prime factors of i?
+2, 7, 43
+Suppose -2*o = -5*t - 25841, -5*o = -17*t + 14*t - 64612. What are the prime factors of o?
+12923
+List the prime factors of 10/(320/1616)*320.
+2, 5, 101
+Suppose -2*z + 2 = o, 0 = 4*z - 5*o + 3 + 7. Suppose 5*l + 619 = 2*w, z = -3*w - w - 4*l + 1224. What are the prime factors of w?
+307
+Suppose -2*k - 3*t = -57, 5*k + 2*t - 139 + 2 = 0. Let y be (-3856)/18 + 6/k. Let o = y - -330. List the prime factors of o.
+2, 29
+Let r(t) = -5*t**3 + 15*t**2 - 24*t - 6. What are the prime factors of r(-12)?
+2, 3, 1847
+Suppose -5*s - 48 = -173. Suppose -5*u + h = -h - s, u - 23 = 4*h. Suppose -u*z + 416 = 56. What are the prime factors of z?
+2, 3, 5
+Let u = 11634 - 7118. List the prime factors of u.
+2, 1129
+Let u(s) = s**2 + 9*s - 33. Let b be u(-11). Let n be (9 + 0 - 1)*2. Let p = n - b. List the prime factors of p.
+3
+Let a be (-4698)/(-2)*(-20)/(-30). Suppose -3*c = -5*v + 1573, 0*v + 4*c = -5*v + a. What are the prime factors of v?
+2, 157
+Let a be ((-55)/(-10) - 6)*2. What are the prime factors of (-122)/(2 - (a + 4))?
+2, 61
+Let v(j) be the second derivative of 3*j**5/4 + j**4/12 + j**3/3 - j**2/2 - 104*j. List the prime factors of v(2).
+127
+Suppose -3*r = 12*r - 120. Let g(v) be the second derivative of v**4/4 + 11*v**3/6 - 5*v**2/2 + v. List the prime factors of g(r).
+5, 11
+Let r = 32311 + -10462. List the prime factors of r.
+3, 7283
+Let d = 55 - 53. Suppose -5*x - 162 = 5*i - 1082, 553 = 3*i + d*x. Let p = -32 + i. List the prime factors of p.
+3, 17
+Suppose -37*h + 25*h = 144. What are the prime factors of (-12)/16 + (-4473)/h?
+2, 3, 31
+Let c be (-7*3)/(-9*5/150). Suppose 2*l + 316 - c = 2*i, 0 = 5*i + 5*l - 575. List the prime factors of i.
+7, 17
+Let v = 8279 + -6397. List the prime factors of v.
+2, 941
+Let c = -5089 + 5249. What are the prime factors of c?
+2, 5
+Let c(z) be the second derivative of z**5/20 + z**4/4 + 3*z**3/2 - 7*z**2 + 6*z. Let o(p) be the first derivative of c(p). List the prime factors of o(-5).
+2, 3
+Suppose 3*i + 2*g - 3*g - 31 = 0, 2*g - 1 = -i. Suppose -i*l - 48916 = -37*l. List the prime factors of l.
+1747
+Let m(h) = 478*h**2 - 14*h - 41. What are the prime factors of m(-4)?
+79, 97
+Let w be (-6)/(-8) - (-8771)/28. What are the prime factors of w*6/4 + 0?
+3, 157
+Suppose -37 = -3*r + 5*o, 0 = -0*r - 3*r + 4*o + 32. Suppose -r*v + 36 - 200 = 0. Let a = v + 201. What are the prime factors of a?
+2, 5
+Let p = 9 - 68. Let r = -58 - p. Suppose -r = 5*f - 191. What are the prime factors of f?
+2, 19
+Let k(g) = -g**3 - g**2 - 45*g + 10257. List the prime factors of k(0).
+3, 13, 263
+Let y(b) = 45*b + 8 - 15 - 46*b + 135*b. List the prime factors of y(3).
+5, 79
+Let l(b) = -b**2 - 26*b + 21. Let a be l(-27). Let d(m) = 41*m**2 + 14*m - 47. What are the prime factors of d(a)?
+5, 269
+Suppose -6*h + 2*h + h = -6894. What are the prime factors of h?
+2, 3, 383
+Let n(p) = 2*p**2 - 81*p - 2262. What are the prime factors of n(-129)?
+3, 23, 601
+Let v be (-4)/((-2)/(-82)*(-2)/24). Let i = -1073 + v. What are the prime factors of i?
+5, 179
+Let w = 785 - -90. Let g = w - -554. What are the prime factors of g?
+1429

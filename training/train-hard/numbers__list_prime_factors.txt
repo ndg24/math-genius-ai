@@ -1,0 +1,66 @@
+List the prime factors of 56631548.
+2, 29, 488203
+What are the prime factors of 949331346?
+2, 3, 158221891
+List the prime factors of 1552015101.
+3, 7, 13, 5685037
+List the prime factors of 1384202243.
+1384202243
+What are the prime factors of 8556650051?
+8556650051
+List the prime factors of 693749067.
+3, 11, 21022699
+What are the prime factors of 3199602341?
+13, 181, 859, 1583
+List the prime factors of 70923241.
+29, 2445629
+List the prime factors of 5243993.
+5243993
+List the prime factors of 3723547589.
+1307, 2848927
+What are the prime factors of 163735525?
+5, 89, 73589
+What are the prime factors of 22113432?
+2, 3, 11, 41, 227
+What are the prime factors of 2841198917?
+191, 14875387
+List the prime factors of 39823045.
+5, 7964609
+List the prime factors of 1970160661.
+7, 67, 4200769
+What are the prime factors of 1520289107?
+17, 89428771
+What are the prime factors of 4770702326?
+2, 13, 183488551
+What are the prime factors of 219643347?
+3, 7, 11, 950837
+List the prime factors of 1690945101.
+3, 1531, 122719
+What are the prime factors of 3212056?
+2, 401507
+What are the prime factors of 63225365?
+5, 7, 29, 167, 373
+What are the prime factors of 109784608?
+2, 1663, 2063
+List the prime factors of 618233606.
+2, 23, 2749, 4889
+What are the prime factors of 94465950?
+2, 3, 5, 629773
+List the prime factors of 12138204.
+2, 3, 13, 17, 23, 199
+List the prime factors of 3798476151.
+3, 23, 55050379
+What are the prime factors of 19950894?
+2, 3, 17, 103, 211
+List the prime factors of 27474478.
+2, 89, 154351
+What are the prime factors of 33427485?
+3, 5, 7, 13, 907
+List the prime factors of 988945699.
+7, 4973, 28409
+What are the prime factors of 2112913651?
+9157, 230743
+What are the prime factors of 281861104?
+2, 7, 101, 24917
+What are the prime factors of 168603664?
+2, 47, 139, 1613

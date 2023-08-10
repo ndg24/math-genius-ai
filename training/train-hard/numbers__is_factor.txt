@@ -1,0 +1,66 @@
+Does 1015 divide 3424540?
+False
+Is 181 a factor of 575757?
+False
+Is 48 a factor of 84772176?
+True
+Does 2587 divide 312519560?
+False
+Does 317 divide 9601613?
+True
+Is 4 a factor of 71581413?
+False
+Is 54 a factor of 97416195?
+False
+Is 169 a factor of 22812089?
+False
+Does 92 divide 75239201?
+False
+Is 3974708 a multiple of 134?
+True
+Is 778948548 a multiple of 38?
+True
+Is 2269320 a multiple of 7?
+False
+Is 866 a factor of 395486638?
+False
+Is 1314337606 a multiple of 10?
+False
+Does 72 divide 45133488?
+True
+Is 53111842 a multiple of 2111?
+False
+Is 2200691857 a multiple of 7?
+True
+Is 42 a factor of 241017958?
+False
+Is 1943 a factor of 765841222?
+True
+Is 60 a factor of 5253097920?
+True
+Does 2105 divide 112528043?
+False
+Is 4 a factor of 23604232?
+True
+Does 12 divide 183919272?
+True
+Is 822849902 a multiple of 8630?
+False
+Does 6246 divide 3134030436?
+True
+Is 1867784169 a multiple of 10105?
+False
+Is 5145 a factor of 268686451?
+False
+Is 7 a factor of 16700328?
+False
+Does 17 divide 431204711?
+True
+Does 244 divide 57788148?
+False
+Is 24256496 a multiple of 5?
+False
+Is 6312135 even?
+False
+Does 84 divide 152386107?
+False
