@@ -1,0 +1,66 @@
+Calculate the least common multiple of 6 and 5734.
+17202
+What is the lowest common multiple of 279 and 155?
+1395
+What is the common denominator of 23/18 and 53/18?
+18
+What is the common denominator of -89/16 and -69/28?
+112
+What is the common denominator of -29/165 and -104/105?
+1155
+Calculate the common denominator of 28/2511 and -7/12.
+10044
+What is the common denominator of -37/16 and 51/194?
+1552
+What is the least common multiple of 57 and 3?
+57
+What is the least common multiple of 1944 and 80?
+19440
+Find the common denominator of -61/91 and -53/104.
+728
+What is the least common multiple of 12 and 314?
+1884
+Calculate the common denominator of 139/672 and -11/672.
+672
+Calculate the least common multiple of 1160 and 20.
+1160
+Find the common denominator of -59/18 and 151/342.
+342
+What is the common denominator of -149/6 and -57/1316?
+3948
+Calculate the lowest common multiple of 19 and 34.
+646
+Calculate the least common multiple of 78 and 18.
+234
+What is the least common multiple of 6674 and 16?
+53392
+What is the smallest common multiple of 16 and 2566?
+20528
+Find the common denominator of 101/26 and -25/32.
+416
+Calculate the lowest common multiple of 6 and 44.
+132
+What is the least common multiple of 77 and 77?
+77
+Find the common denominator of 43/20 and 77/158.
+1580
+What is the smallest common multiple of 3 and 6?
+6
+What is the common denominator of -97/108 and 65/12?
+108
+Calculate the common denominator of 85/44 and -111/28.
+308
+What is the least common multiple of 340 and 119?
+2380
+What is the common denominator of -163/90 and 11/18?
+90
+What is the smallest common multiple of 304 and 12?
+912
+What is the smallest common multiple of 5 and 228?
+1140
+What is the common denominator of -163/1008 and -11/1260?
+5040
+Find the common denominator of -113/10 and 7/148.
+740
+What is the common denominator of 19/33 and -62/195?
+2145

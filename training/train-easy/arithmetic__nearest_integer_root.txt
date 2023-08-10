@@ -1,0 +1,66 @@
+What is the fifth root of 908 to the nearest integer?
+4
+What is the square root of 66044 to the nearest integer?
+257
+What is the third root of 76235 to the nearest integer?
+42
+What is the seventh root of 15112 to the nearest integer?
+4
+What is 2166 to the power of 1/6, to the nearest integer?
+4
+What is 985 to the power of 1/2, to the nearest integer?
+31
+What is 54029 to the power of 1/2, to the nearest integer?
+232
+What is the square root of 2599 to the nearest integer?
+51
+What is 11439 to the power of 1/3, to the nearest integer?
+23
+What is 70675 to the power of 1/2, to the nearest integer?
+266
+What is the third root of 1184 to the nearest integer?
+11
+What is 6178 to the power of 1/10, to the nearest integer?
+2
+What is 9172 to the power of 1/2, to the nearest integer?
+96
+What is the ninth root of 7466 to the nearest integer?
+3
+What is 4216 to the power of 1/2, to the nearest integer?
+65
+What is the cube root of 33257 to the nearest integer?
+32
+What is the sixth root of 15406 to the nearest integer?
+5
+What is the third root of 7286 to the nearest integer?
+19
+What is 20282 to the power of 1/4, to the nearest integer?
+12
+What is the square root of 3602 to the nearest integer?
+60
+What is the square root of 45868 to the nearest integer?
+214
+What is 13407 to the power of 1/5, to the nearest integer?
+7
+What is 1514 to the power of 1/4, to the nearest integer?
+6
+What is 26539 to the power of 1/8, to the nearest integer?
+4
+What is 382 to the power of 1/2, to the nearest integer?
+20
+What is 12870 to the power of 1/2, to the nearest integer?
+113
+What is 423 to the power of 1/2, to the nearest integer?
+21
+What is the third root of 1486 to the nearest integer?
+11
+What is 20235 to the power of 1/4, to the nearest integer?
+12
+What is 4460 to the power of 1/3, to the nearest integer?
+16
+What is 327 to the power of 1/3, to the nearest integer?
+7
+What is the square root of 3524 to the nearest integer?
+59
+What is 22983 to the power of 1/8, to the nearest integer?
+4

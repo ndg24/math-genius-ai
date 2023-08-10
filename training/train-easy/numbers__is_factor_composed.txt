@@ -1,0 +1,66 @@
+Let b = 66 - -158. Is b a multiple of 32?
+True
+Let w(b) = 23 - b. Let q be w(21). Let r be (2/(-3))/(2/(-6)). Let s = r + q. Does 4 divide s?
+True
+Let f = 57 - -23. Does 5 divide f?
+True
+Let q(p) = -5*p - 2. Let i be q(-1). Suppose 0 = i*g - 15, -5*f + 37 - 7 = -2*g. Is 4 a factor of f?
+True
+Let l(u) = -6*u - 1. Let i be l(-1). Suppose f + 3*j = i*f - 73, -5*j = 3*f - 33. Suppose 3*w - f = 50. Is w a multiple of 11?
+True
+Is 8 a factor of (23/2)/((-7)/84*-3)?
+False
+Suppose -a - 2*a = 18. Does 13 divide ((-69)/a)/((-3)/(-6))?
+False
+Does 3 divide 3/(9/12 + 0)?
+False
+Let o(b) = 50*b**2 - 1. Does 26 divide o(-1)?
+False
+Let n = 17 + -11. Does 2 divide n?
+True
+Let s(u) = -2*u - 8. Let h be s(-7). Suppose -j - h - 4 = 0. Let d = j + 16. Does 5 divide d?
+False
+Let j = 36 + 30. Is j a multiple of 22?
+True
+Let q(p) = 2 - 79*p. Let s be q(2). Let f = -77 - s. Is 13 a factor of 3/(-9) + f/3?
+True
+Suppose -82 = -3*m + 8. Does 10 divide m?
+True
+Let m(o) = -o**2 - 9*o + 4. Does 3 divide m(-8)?
+True
+Suppose 8 = -2*j - l, 0*l = -2*j + 4*l - 8. Let c = j + 40. Is c a multiple of 15?
+False
+Let k be 3/6*(-30)/(-1). Suppose 0*f - f + 3*u + k = 0, 4*f = -5*u - 8. Suppose -60 = -2*t - f*t. Is 5 a factor of t?
+False
+Let d(w) = -7*w**2 - 5*w - 3. Let p(g) = g**3 - 1. Let m(j) = -d(j) + p(j). Is m(-4) a multiple of 16?
+False
+Let v = 121 + 37. Is 12 a factor of v?
+False
+Let m be 170/3 + (-7)/(-21). Suppose -3*a - 3 = -m. Is a a multiple of 11?
+False
+Let m(i) = i**3 + 0*i + i**3 + 2*i - 3*i**3 + 4*i**2. Let v be 1*(-1)/((-1)/(-2)). Is m(v) a multiple of 10?
+True
+Suppose -6*v = -328 + 10. Is 31 a factor of v?
+False
+Let k(p) = p**3 + 6*p**2 - 11*p - 14. Is 5 a factor of k(-7)?
+False
+Let x(c) be the third derivative of c**6/120 - c**5/20 - c**3/3 - 3*c**2. Is x(4) a multiple of 6?
+False
+Suppose -34 = -v + 34. Is v a multiple of 16?
+False
+Is 2 a factor of (22 - (7 + -4))*1?
+False
+Suppose 4 = -s + 4*y, -6*s + s + 3*y = 20. Is 3 a factor of (-3 - (s - -4))*-3?
+True
+Suppose 4*w + 0*o + 4*o = 216, 3*o = 6. Is 26 a factor of w?
+True
+Is 58 a factor of ((-3315)/(-30))/(-1 + 3/2)?
+False
+Suppose -2*m = 2*x - 3*m - 84, 188 = 5*x + 3*m. Is 20 a factor of x?
+True
+Suppose -5*v + 3 = -12. Let g(j) = j**3 - 3*j**2 - 3. Let z be g(v). Let w(h) = -2*h. Is w(z) a multiple of 6?
+True
+Let f(l) = l**2 + l + 59. Does 22 divide f(0)?
+False
+Let n(f) = -24*f + 0 + 0 + 5 - 4. Let v be n(-1). Suppose v + 26 = c. Is 24 a factor of c?
+False

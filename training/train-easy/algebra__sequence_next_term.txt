@@ -1,0 +1,66 @@
+What comes next: 32, 50, 94, 176, 308, 502?
+770
+What is next in 77, 70, 63, 56?
+49
+What is the next term in -5, 2, 9, 16, 23?
+30
+What is next in 7, -16, -53, -104, -169?
+-248
+What is next in -17, -73, -191, -401, -733, -1217?
+-1883
+What is the next term in 55, 193, 417, 727, 1123, 1605, 2173?
+2827
+What is next in -157, -315, -473, -631, -789, -947?
+-1105
+What is next in 286, 569, 852, 1135, 1418?
+1701
+What comes next: 128, 132, 134, 134, 132?
+128
+What is the next term in 22, 101, 238, 439, 710?
+1057
+What is next in 7, 17, 41, 85, 155, 257, 397?
+581
+What is next in -189, -208, -255, -342, -481, -684?
+-963
+What is the next term in 1256, 1249, 1230, 1193, 1132, 1041?
+914
+What is the next term in -48, -51, -54, -57?
+-60
+What comes next: -55, -136, -271, -460, -703, -1000, -1351?
+-1756
+What comes next: 60, 125, 232, 381, 572, 805, 1080?
+1397
+What comes next: 213, 428, 643?
+858
+What comes next: 717, 1434, 2151, 2868, 3585?
+4302
+What is the next term in -1352, -5407, -12166, -21629, -33796, -48667, -66242?
+-86521
+What is next in 9, 3, -3, -9, -15, -21?
+-27
+What is next in 41, 50, 73, 116, 185, 286?
+425
+What is next in 62, 126, 184, 236, 282?
+322
+What comes next: -738, -1478, -2218, -2958, -3698?
+-4438
+What is next in -49, -51, -53, -55, -57?
+-59
+What is next in -485, -496, -507, -518, -529?
+-540
+What is next in -102, -147, -208, -291, -402, -547, -732?
+-963
+What is next in -36, -73, -124, -195, -292?
+-421
+What is the next term in 27849, 27845, 27831, 27801, 27749, 27669, 27555?
+27401
+What is next in 16, 29, 46, 67, 92, 121?
+154
+What comes next: 637, 635, 633, 631?
+629
+What is the next term in 352, 697, 1042, 1387?
+1732
+What comes next: 18, 153, 494, 1143, 2202, 3773, 5958?
+8859
+What is next in 170, 64, -232, -814, -1778, -3220, -5236, -7922?
+-11374

@@ -1,0 +1,66 @@
+Suppose 0*w - 2*w + 104 = 2*g, 0 = g + 4*w - 55. Let l = g - 22. List the prime factors of l.
+29
+Let v be 2/(-11) - 53/11. Let m(z) = z**2 + 2*z - 2. List the prime factors of m(v).
+13
+Let u(j) = 9 - 4*j. What are the prime factors of u(-8)?
+41
+Let q be -5 + ((-2)/(-2) - 4). Let z = -11 - q. List the prime factors of 8*(-6)/(z/1).
+2
+Let q = 161 - 109. What are the prime factors of q?
+2, 13
+Let t(a) = -a - 9. Let b be t(-9). Suppose 2*x - 15 - 3 = b. What are the prime factors of x?
+3
+Suppose 3*c = -2*v - 2*c + 112, 2*v + 2*c = 100. List the prime factors of v.
+2, 23
+Suppose 51 = 3*m + 4*p - 496, 0 = 2*m - p - 350. List the prime factors of m.
+3, 59
+List the prime factors of ((-304)/(-10) + 3)/(4/20).
+167
+Suppose 0 = 5*l + 34 + 31. Let g(o) = -o**3 - 14*o**2 - 16*o + 7. List the prime factors of g(l).
+2, 23
+List the prime factors of -16*(10/(-8) + -1).
+2, 3
+Let y(q) = 1 - q. Let m(a) = 4*a. Let v(g) = m(g) + 3*y(g). Let s be v(-4). Let h = s - -21. List the prime factors of h.
+2, 5
+Suppose 0 = -9*n + 12*n - 87. List the prime factors of n.
+29
+Suppose 4*k - 9*k = 0. Let v(h) = 5 - h + 3 - 2. What are the prime factors of v(k)?
+2, 3
+Let x(o) = -1. Let d(t) = -3*t - 3 + 1 - 10. Let m(y) = d(y) - 6*x(y). What are the prime factors of m(-7)?
+3, 5
+Let s be 37/7 + (-10)/35. Suppose s - 39 = -2*m. What are the prime factors of m?
+17
+Let r(v) = -v**2 - 10*v - 11. Let f be r(-8). Suppose 4*k - 103 = 2*z - 7*z, 0 = -f*z + 2*k + 91. What are the prime factors of z?
+19
+Suppose c + 4*c = -55. Let z be (16/16)/((-2)/(-50)). Let b = c + z. List the prime factors of b.
+2, 7
+Let f = 13 + 19. What are the prime factors of f?
+2
+List the prime factors of (7/(-3))/(11/(-198)).
+2, 3, 7
+Let n(k) = k**2 + 8*k + 2. Let f be n(-6). Let u(h) = -h**3 - 11*h**2 - 12*h. What are the prime factors of u(f)?
+2, 5
+Suppose -2 + 35 = 3*h. What are the prime factors of h?
+11
+Let o be 1 - (-2 - (-1 + 0)). Let c be (-32)/(-18) + o/9. Suppose -60 = c*i - 5*i. List the prime factors of i.
+2, 5
+Suppose 9*j - 15 = 4*j. Suppose -2*k - 1 = -j. What are the prime factors of -7*(1 - (k + 1))?
+7
+Let d = -259 - -459. What are the prime factors of d?
+2, 5
+List the prime factors of (3/(-6))/(3/(-276)).
+2, 23
+Let j(i) = -3*i - 4. What are the prime factors of j(-2)?
+2
+Suppose 20*q - 15*q = 595. What are the prime factors of q?
+7, 17
+Suppose 0 = m + 5 + 1. Let l(i) = -i. Let w be l(m). Suppose w*r - 4*r = 22. List the prime factors of r.
+11
+Let r = -63 + 99. List the prime factors of r.
+2, 3
+Suppose -17*k = -22*k + 80. List the prime factors of k.
+2
+Suppose -k + 0 - 7 = 0. Let j(f) = f**2 + 3*f - 12. List the prime factors of j(k).
+2
+Suppose 4*p + 3*v + 0*v - 83 = 0, 0 = -2*p - 4*v + 54. What are the prime factors of p?
+17

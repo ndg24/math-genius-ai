@@ -1,0 +1,66 @@
+Let r(i) = 1 - 41*i. Let x be r(3). Let c = 485/4 + x. Which is greater: 2/3 or c?
+2/3
+Let n be (-28)/(-49) - 34/(-14). Which is bigger: 2 or n?
+n
+Let t(n) = 3 - n. Let b be t(4). Let j be 2 - 3/((-108)/(-62)). Let i = 1/126 + j. Is i at least b?
+True
+Let m = -1550015063/583 + 2658687. Let v = -30/53 - m. Which is bigger: v or -1?
+v
+Let b be (-2)/5*(1 - 6). Suppose 0 = -3*l + 5 - b. Which is smaller: l or 4/3?
+l
+Let c be -3*((-3)/(-24) - 0). Is c smaller than -1?
+False
+Let y be (0 - 1) + 7/5. Let p(r) = r**2 - 12*r + 20. Let c be p(10). Which is smaller: y or c?
+c
+Suppose 2*d - 5 + 31 = -4*b, 3*b + 22 = -2*d. Are b and -5 unequal?
+True
+Let p be ((-6)/12)/(1/14). Which is smaller: -9 or p?
+-9
+Suppose 15 = 5*w, 2*x + 25 = 7*x + 5*w. Suppose -4*l + l - 6 = -x*b, -3*l - b + 3 = 0. Let a = 21/55 + -1/5. Which is greater: l or a?
+a
+Suppose 0 = 4*d + d - 40. Suppose 13 = -4*c + o, 0*c = -c - 2*o + d. Which is bigger: c or -3/2?
+-3/2
+Let g = -31 + 35. Which is smaller: g or 2?
+2
+Let t = -2/67 - -339/134. Is t equal to -2/5?
+False
+Let p = 2997/4 + -14441/20. Let v = -817/30 + p. Let h = -13/60 + v. Is 0 at least as big as h?
+True
+Let j = 1 - 6. Let l = j - -3.6. Let n = 0.4 + l. Which is smaller: n or -1/2?
+n
+Let j(h) = 11*h - 4. Let s be j(4). Suppose -3*y - s = -8*y. Which is smaller: 9 or y?
+y
+Let c = 3/11 - 20/33. Let f = -0.2 - -0.1. Which is bigger: c or f?
+f
+Let g be (27/54)/((-2)/(-4) + 0). Let b be -5 - -4 - (-48)/15. Which is smaller: b or g?
+g
+Let k = 71/28 + -16/7. Which is bigger: 1 or k?
+1
+Let v(q) = -q**2 + 8*q - 6. Let w be v(6). Let l(o) = -o**3 + o**2 + o - 8. Let d(a) = -a**2 - 1. Let b(p) = -5*d(p) + l(p). Let x be b(w). Is x at most 2?
+False
+Let p(f) = f**2 + 14*f + 34. Let m be p(-7). Is m > -15?
+False
+Let m = -2/589 - -64/589. Is m not equal to 3?
+True
+Let w be (-1)/(-3)*0*1. Suppose -n - 1 = -c, w = -5*n - c - 3*c - 14. Let u be 6/2*(-1)/3. Which is greater: n or u?
+u
+Let a = 5 + 5. Let b = 10 - a. Let f = b + 0. Do f and -1 have the same value?
+False
+Let w(i) = i**2 + 5*i. Let m be w(-6). Suppose -2*x + m = 2*t, 5*x - 28 + 3 = 5*t. Let o = x + -3. Which is smaller: o or -1/4?
+-1/4
+Let c = -7053/5 + 1371. Let r = -757/20 - c. Is 1 at least r?
+False
+Let q = -8 + 29. Let h be (-4)/6*q/(-91). Which is greater: -2/13 or h?
+h
+Let w = -0.55 + -5.25. Let u = w + 15. Let d = u + -9. Which is smaller: d or 2?
+d
+Let s = 2 - 1. Which is smaller: s or -1?
+-1
+Suppose 3*b + 2*b + 4*a = 15, b - 19 = -4*a. Let j be (6/(-99)*-1)/(4/(-12)). Is j != b?
+True
+Let h = 22 + -20.3. Let x = h + -2. Is x > 0.1?
+False
+Suppose 2 = -y + 4. Let x be y - (-3 + 7)/(-1). Is x greater than or equal to 6?
+True
+Let x = 2.4 + -2. Suppose 32 = -0*o + 4*o. Let b be (-10)/o + 2/8. Does b = x?
+False

@@ -1,0 +1,66 @@
+Let s = 133 - 95. What is the units digit of s?
+8
+Let b be ((-44)/(-55))/((-4)/(-90)). Let z = -12 + 24. Suppose -5*o = -b - z. What is the units digit of o?
+6
+Let s(u) = -u**3 - 2*u**2 + u - 2. Let b be s(-3). Suppose 4*t = b*z - 28, z + 4*z + 2*t = 0. What is the units digit of (9/z)/((-3)/(-4))?
+6
+Let s = 10 + -6. Let q(g) = g**3 - 4*g**2 + 3*g + 6. What is the units digit of q(s)?
+8
+Suppose -3*p + 5*p = 4. Suppose p*n - 8 = n. What is the units digit of n?
+8
+Let s(l) = -2*l - 4. Let d = 3 + 4. Let n = d - 11. What is the units digit of s(n)?
+4
+Let k(j) = j**2 + 10*j + 10. Let c be k(-9). What is the tens digit of ((13 - 0) + 0)/c?
+1
+Suppose 3*k - 5*r = -9, 4*k = k - 5*r - 9. Let u(v) = 4 - v. What is the units digit of u(k)?
+7
+Let a(u) = 9*u**3 + 1. What is the tens digit of a(1)?
+1
+Suppose 0 = 2*d + 3*d - 50. Suppose 4*g - 4*z = z + 37, g = -3*z - 12. Suppose -g = x - d. What is the units digit of x?
+7
+Let r(j) = -j**2 + 7*j + 9. Let z be r(9). Let d(b) = -b**2 - b. Let t be d(-3). Let x = t - z. What is the units digit of x?
+3
+Let b(q) be the third derivative of q**8/1440 - q**7/5040 + q**5/30 - 3*q**2. Let u(h) be the third derivative of b(h). What is the units digit of u(-1)?
+5
+What is the units digit of (45/10)/(-9)*-44?
+2
+Let i(b) = 2 - 6*b. What is the tens digit of i(-6)?
+3
+Let b(t) = -t - 3. Let h = 2 + -8. Let o be b(h). Suppose -2*k - 4 = -o*k. What is the units digit of k?
+4
+What is the tens digit of 410/(-4)*24/(-30)?
+8
+Let r = -63 - -157. What is the tens digit of r?
+9
+Let j = -19 - -24. What is the units digit of j?
+5
+Let j(a) = a**2 + 6*a + 7. Suppose 6 - 2 = 2*p. Suppose -5*k = -5*z + 35, -2*k = 2*k - p*z + 26. What is the units digit of j(k)?
+7
+Let l = 2 - 2. Let o(p) = -p - 2. Let y be o(l). What is the units digit of (-1 + y)*-1*1?
+3
+Suppose -3*r + 5 = -p, 0 = -3*r - 3*p + 5 + 16. Suppose -r*y + 45 = -0*y + 3*h, h = 2. What is the units digit of y?
+3
+Let p = 5 + -8. Let n = -1 - p. Suppose -3*z + f + f = -25, 4*f = -n*z + 6. What is the units digit of z?
+7
+Let b(l) = 3 - 4*l**2 + 5*l**3 + 1 - 4*l**3 - 6*l. Let d be b(5). Let o(q) = q**3 + q**2 + 1. What is the units digit of o(d)?
+1
+Suppose -3*c + 2 + 13 = 0. Suppose 14 - 154 = -c*n. What is the tens digit of n?
+2
+Let l = 69 - 38. Suppose x + 1 = -q - 16, 5*q - 2*x + 99 = 0. Let n = q + l. What is the tens digit of n?
+1
+Suppose 5*d = -0*d + 30. Suppose -5*p - 14 = -d*p. What is the units digit of p?
+4
+Let l = 1 - -1. What is the units digit of 4/l + 6 + -3?
+5
+What is the units digit of (-3)/6 - 31/(-2)?
+5
+Let u(w) = 5*w - 12. What is the tens digit of u(5)?
+1
+Let x be (-6)/(-5)*20/6. Suppose -x*f = -3*f - 9. Suppose -2*z + f = z. What is the units digit of z?
+3
+What is the tens digit of 123/4 - (-2)/8?
+3
+Let q be (-7)/(-4)*4/1. Let w be q*(-2 - -1)/(-1). Suppose 0 = -4*g + 39 - w. What is the units digit of g?
+8
+Let d(v) = v + 16. Let f be d(0). Let x = 35 - f. Suppose -5*m = -3*o + x, -4*o + 3*m + 34 = -6. What is the tens digit of o?
+1

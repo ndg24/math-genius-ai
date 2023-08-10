@@ -1,0 +1,66 @@
+3 (base 8) to base 12
+3
+What is 3 (base 14) in base 5?
+3
+What is -4 (base 13) in base 12?
+-4
+-2133 (base 4) to base 16
+-9f
+-201 (base 4) to base 14
+-25
+Convert -5 (base 14) to base 10.
+-5
+-4 (base 15) to base 11
+-4
+Convert 60 (base 16) to base 13.
+75
+Convert -3 (base 6) to base 5.
+-3
+-4d (base 16) to base 4
+-1031
+31 (base 8) to base 2
+11001
+What is -125 (base 6) in base 2?
+-110101
+What is 1 (base 11) in base 16?
+1
+2 (base 8) to base 10
+2
+What is -2 (base 7) in base 6?
+-2
+What is 3 (base 9) in base 13?
+3
+Convert -26 (base 9) to base 6.
+-40
+5b (base 16) to base 10
+91
+What is -1011 (base 3) in base 4?
+-133
+0 (base 16) to base 13
+0
+What is 5b (base 13) in base 12?
+64
+-36 (base 14) to base 12
+-40
+What is -42 (base 12) in base 10?
+-50
+Convert -3 (base 4) to base 16.
+-3
+What is 203 (base 5) in base 12?
+45
+What is 11 (base 11) in base 5?
+22
+Convert -1 (base 16) to base 15.
+-1
+-146 (base 8) to base 2
+-1100110
+c (base 13) to base 5
+22
+Convert 0 (base 8) to base 7.
+0
+-21 (base 9) to base 5
+-34
+What is 57 (base 11) in base 9?
+68
+Convert -2 (base 14) to base 11.
+-2

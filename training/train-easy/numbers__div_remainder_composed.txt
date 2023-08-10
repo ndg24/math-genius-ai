@@ -1,0 +1,66 @@
+Suppose 4*q = -3*u + 203, 5*u - 315 = -2*q - 0*q. What is the remainder when u is divided by 16?
+13
+Let x = 114 + -102. What is the remainder when x is divided by 10?
+2
+Let x(v) = v**3 + 8*v**2 - 2*v + 5. What is the remainder when 34 is divided by x(-8)?
+13
+Suppose 4*z + 6 = -30. Let k = -1 - z. Calculate the remainder when k is divided by 3.
+2
+Let z(m) = -2*m - 14. Let c be z(-8). Suppose -2*r - c = -2*t - 0*r, -7 = -3*t + r. Calculate the remainder when 13 is divided by t.
+1
+Let r = 96 - 83. Calculate the remainder when 49 is divided by r.
+10
+Let s(u) = 4*u**2 - 3. What is the remainder when 37 is divided by s(-2)?
+11
+Calculate the remainder when 91 is divided by (-753)/(-33) + (-4)/(-22).
+22
+Let d(w) = -3*w - 11. What is the remainder when 2 is divided by d(-4)?
+0
+Suppose -5*f - 30 = 4*c, 0*c - 4*f = -2*c - 2. Let r = c + 10. What is the remainder when 8 is divided by r?
+3
+Let o = 18 - 12. What is the remainder when 16 is divided by o?
+4
+Let u = 34 + 20. What is the remainder when u is divided by 29?
+25
+Let l be -12*19*3/(-12). Let x be (2 + 2)/((-6)/l). Calculate the remainder when 37 is divided by (x/4)/((-4)/8).
+18
+Suppose m - 2*m = -83. Suppose -27 = -5*u + m. What is the remainder when 8 is divided by (-4)/u + 171/33?
+3
+Let i = 52 - 31. What is the remainder when i/(-14) - 13/(-2) is divided by 4?
+1
+Let o = 23 + -9. Suppose 3*m - 2*m - 5*b - o = 0, m - 4*b = 13. Suppose j + 3*g - 21 = -0*j, g = 4*j - 58. Calculate the remainder when j is divided by m.
+6
+Let x(q) = 2*q**2 - 2*q - 3. Suppose -5*t + 12 = -t. Suppose 0 = 5*z + 5*v - 5, -15 = -4*z + v + 9. What is the remainder when x(t) is divided by z?
+4
+Suppose -2*m + 10 = 2. Suppose -3*v = m*a - 65, 2*a - 3*a = 4*v - 65. What is the remainder when 44 is divided by v?
+14
+Let j be (-16)/(-2)*(-35)/(-28). Suppose 2*g - 4*g = 4*o + 4, 0 = -2*o + g - j. Calculate the remainder when o*1*-6 + 1 is divided by 7.
+5
+Let q = 47 - 27. Let h = 3 - -4. Let u(w) = -w**3 + 8*w**2 - 4*w - 10. Calculate the remainder when q is divided by u(h).
+9
+Let v be (-8 - 0) + 3/(-3). Let u be ((-27)/12)/(v/24). Suppose u*d = 3*d + 30. What is the remainder when 19 is divided by d?
+9
+Let j = -1 - -4. Suppose 5*s - 50 = j*t, 5*s = s - 5*t + 3. What is the remainder when s is divided by 5?
+2
+Let d = -7 - -91. Let k = 4 - -18. What is the remainder when d is divided by k?
+18
+Suppose 21 = 4*x + 1, 2*x + 5 = 5*a. What is the remainder when (-1 - -5) + 4 - 3 is divided by a?
+2
+Let o = 2 - 1. Let x be (-1)/(-2) + (-99)/6. What is the remainder when 49 is divided by o - (x + -2) - 2?
+15
+Suppose 5*c = -4*r + 249, 4*c = -4*r + 224 - 24. Calculate the remainder when c is divided by 25.
+24
+Let o(w) = -12*w. Let u be o(-1). What is the remainder when 6 is divided by (-19)/(-4) - 9/u?
+2
+Suppose 3*y - 3*z - 22 - 95 = 0, 45 = y - 4*z. What is the remainder when y is divided by 14?
+9
+Let k(j) = j**3 - 10*j**2 - 14*j + 4. Calculate the remainder when k(12) is divided by 25.
+24
+Suppose -8 = -8*c + 7*c. What is the remainder when c is divided by 3?
+2
+Let z(s) = 33*s**3 + s**2. Calculate the remainder when 132 is divided by z(1).
+30
+Suppose -2 = -j, -4*h + 3*h = -3*j - 21. Let p be 1/(-3)*3*1. Let s(o) = 14*o**2 - 2*o - 1. What is the remainder when h is divided by s(p)?
+12
+Let b(c) = 3*c + 9. Let a be b(7). Suppose 1 = r + 2*g, 3*r + a = 6*r - 3*g. Let q(u) = -24*u**3 + u**2. What is the remainder when q(-1) is divided by r?
+4

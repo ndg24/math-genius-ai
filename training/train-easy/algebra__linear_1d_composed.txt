@@ -1,0 +1,66 @@
+Suppose a + 2*a + 3 = 0. Let u be (-2)/a*2/2. Suppose u*t - 3*t = -2. Solve -t*f = 9 - 3 for f.
+-3
+Suppose 0 = 4*d - 5*d + 5. Solve 0 = d*r - 3*r - 4 for r.
+2
+Let h(j) = 2*j**2 - 8*j + 1. Let r be h(4). Solve -4*l - r = 7 for l.
+-2
+Let n(v) = -v - 18. Let j be n(0). Let f be (j/(-45))/(1/5). Solve x - f = -x for x.
+1
+Let z be (16/20)/(1/35). Let u be ((-44)/(-8))/(2/(-4)). Let r = z + u. Solve 3*j + r = 2 for j.
+-5
+Suppose 0*s + s = -o + 4, -5*o = -2*s - 13. Suppose -10 + 4 = -o*u. Suppose 0*q = -u*q. Solve j + 0*j = q for j.
+0
+Suppose 4*f = -10*f + 16*f. Solve f = -2*n - 8 + 4 for n.
+-2
+Let a = -9 - -15. Suppose 4*v + 28 = -36. Let l = v - -20. Solve -l*k = -7*k + a for k.
+2
+Let l(z) = -z**3 - 4*z**2 - 6*z - 7. Let j be l(-3). Solve j*x = 4*x for x.
+0
+Let z(q) be the second derivative of q**4/12 + q**3/2 - q**2 + 2*q. Let b be z(2). Let t = -8 + 13. Solve -t*p = b + 12 for p.
+-4
+Suppose 4*h - 13 = 4*k - 37, 0 = -3*k + 5*h + 18. Solve -2*y = -4 + k for y.
+-1
+Suppose -2*o + 19 = -3*k, -3 = -4*o - 0*o - k. Solve 0 - 4 = -o*b for b.
+2
+Let u = -9 - -6. Let i be 4/6 + (-4)/u. Solve 4*o = i*o for o.
+0
+Suppose 2*f - 6*f - 2*j - 6 = 0, 5*f - 2*j = 6. Let d(x) be the third derivative of -x**4/8 - x**3/6 - 3*x**2. Let z be d(-2). Solve -l + z = -f for l.
+5
+Suppose -4*j + 0*j = 0. Solve j*a + 1 = a for a.
+1
+Let y = 46 - 43. Let z be -1 + 0 - (0 + -1). Solve z = o - y for o.
+3
+Let h(b) be the second derivative of -b**3/6 + b. Let q be h(-3). Suppose d - 28 + 20 = 0. Solve q*f = -5 + d for f.
+1
+Let k be 2/(-2) + -6 + 9. Solve 8 - k = -3*j for j.
+-2
+Let j(m) = m + 5. Let d be j(0). Suppose 0 = d*b - 16 + 1. Solve b*t - t + 4 = 0 for t.
+-2
+Suppose -4*a = -5 + 113. Let g = a - -42. Solve 0*w = -3*w - g for w.
+-5
+Let f(l) = -l**3 - 8*l**2 - l + 2. Let c be f(-8). Let s be (-25)/c*14*-1. Suppose s = 2*z + 3*p - 3, 0 = 2*z + p - 46. Solve -4*n - n - z = 0 for n.
+-5
+Suppose i + i = -4*l + 8, 4*l - 24 = 2*i. Solve -2*n = -2 - l for n.
+3
+Let o = -8 - -14. Let y be o + (0 - (2 - 0)). Solve a = y*a for a.
+0
+Suppose 30 = 5*t + 5*j, 0 = 4*t + 5*j - 32 + 6. Suppose 0 = l + t*l. Solve l*m = 2*m + 10 for m.
+-5
+Suppose 3*s = -u - 4 - 6, -20 = -3*u + s. Suppose -3*c + u*c = 2. Solve -5*f + 11 - c = 0 for f.
+2
+Let i = -2 - -5. Suppose 5*h - i - 7 = 0. Solve -h*d = -6*d + 4 for d.
+1
+Suppose -3*w + 250 = 2*w. Suppose -4*s = s - w. Solve -3*k = -s - 5 for k.
+5
+Let j = -18 - -20. Solve 0*w - j*w = -10 for w.
+5
+Let q(l) = l**3 - 9*l**2 - 10*l - 4. Suppose -4*v + 30 = -v. Let r be q(v). Let o = -2 - r. Solve 15 = s + o*s for s.
+5
+Suppose -4*k - 10 = -3*k. Let b be (-2)/(-5)*k/(-1). Solve 0 = -0*t + b*t - 8 for t.
+2
+Suppose 5*m = y - 10, -1 = 2*y - m - 3. Solve y = 2*r - 1 + 9 for r.
+-4
+Let a be (-4)/(-1) + 2/(-1). Let h = 4 - a. Let c = -4 - -7. Solve -t - h = -c*t for t.
+1
+Let v be (-10 + 15)*(1 + 0). Let y be 1/((-1)/2) + 8. Suppose y*g - g = 10. Solve -g = -v*f + 8 for f.
+2

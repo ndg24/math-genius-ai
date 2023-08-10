@@ -1,0 +1,66 @@
+Let f(m) = -2*m. Let p(w) be the first derivative of w**5/4 - 5*w**2/2 + 5. Let t(s) be the second derivative of p(s). Determine f(t(r)).
+-30*r**2
+Let y(u) be the first derivative of 2*u**3/3 + 7. Let w(a) = -9*a. Determine y(w(i)).
+162*i**2
+Let h(u) = u**2. Let a be (65/39)/((-1)/(-9)). Let t(b) = 2*b**2 - 15 + a. What is h(t(o))?
+4*o**4
+Let p(j) = 10*j. Let k(m) = -2*m. Let f(r) = 14*k(r) + 3*p(r). Let w(s) = 7*s**2. Determine f(w(y)).
+14*y**2
+Let r(p) = -6*p - 2. Let q(n) = 2*n + 1. Let v(f) = 2*q(f) + r(f). Let l(d) = -7*d. Give v(l(x)).
+14*x
+Let k = 3 - 3. Suppose 0 = 4*c - k*c - 8. Let x(g) = 2*g**2 - g**c - 2*g**2. Let n(z) = -4*z. Give x(n(j)).
+-16*j**2
+Let y(x) = 11*x**2. Let c(j) = 2*j**2 - j. Determine y(c(q)).
+44*q**4 - 44*q**3 + 11*q**2
+Let z be 4/3*6/4. Let o(s) = 4 - 4 + z*s**2 + 0. Let k(g) = 7*g. Give o(k(l)).
+98*l**2
+Let m = 12 - 8. Let x(i) = -4*i. Let f(a) = 5*a. Let u(w) = m*x(w) + 3*f(w). Let v(z) = -3*z. Determine u(v(g)).
+3*g
+Let o(t) = -2*t**2 + 3*t + 3. Let w(r) = 9*r**2 - 13*r - 13. Let h(x) = -26*o(x) - 6*w(x). Let l(b) = -b**2. Give l(h(a)).
+-4*a**4
+Let u(y) = -13*y. Let o(w) = 10*w - 10*w + w**2. What is u(o(t))?
+-13*t**2
+Let l(v) = v - 13 + 6 + 7. Let x(j) = 47*j. Give x(l(s)).
+47*s
+Let z(w) = -w**2 - 2. Let l(q) = -5*q**2 - 12. Let g(j) = l(j) - 6*z(j). Let d(u) = 2 - 21*u. Give g(d(m)).
+441*m**2 - 84*m + 4
+Let j(s) be the third derivative of -s**5/60 + 15*s**2. Let c(a) = -a**2 - 3*a. Let o be c(-2). Let u(k) = 3*k**2 + o*k**2 - 3*k**2. Give u(j(v)).
+2*v**4
+Let q(h) = 11*h**2. Let b(j) be the second derivative of -j**3/6 - 11*j. Give q(b(v)).
+11*v**2
+Let d(x) be the third derivative of -x**4/24 - x**2 - 12*x. Let y(f) = -30*f. Calculate y(d(g)).
+30*g
+Let z(v) = -9*v. Let i(d) = 7*d - 6*d - 3*d. Calculate z(i(j)).
+18*j
+Suppose 6*h = 2*h + 12. Let p be (-8)/(-6) + 2/h. Let c(k) = -2 + p + k. Let w(m) = m**2. Determine c(w(s)).
+s**2
+Let d(z) = 5 - 15*z. Let b(v) = -2*v - 4. Calculate d(b(l)).
+30*l + 65
+Let y(x) be the second derivative of -x**3/2 + 11*x**2/2 + 9*x. Let l = 6 + -2. Let k(c) = 4 - c. Let n(j) = l*y(j) - 11*k(j). Let p(w) = w. Give n(p(d)).
+-d
+Let f(d) = 21*d. Let q(o) = 5 - 6*o. Let g(v) = 4 - 5*v. Let z(c) = -5*g(c) + 4*q(c). Let t(m) = 3*m. Let a(p) = t(p) - 5*z(p). Determine a(f(s)).
+-42*s
+Let f(g) be the third derivative of 0 + 1/60*g**5 + 0*g**4 + 0*g - 1/3*g**3 - g**2. Let t(n) be the first derivative of f(n). Let i(u) = -2*u**2. Give t(i(a)).
+-4*a**2
+Let k(i) = -6*i**2. Suppose -2 = 3*l - l + m, -10 = 5*m. Let v(x) be the first derivative of 3 - 1/2*x**2 + l*x. Give v(k(p)).
+6*p**2
+Let n(b) be the first derivative of b**2/2 + 5. Let w(r) = -r**2. What is w(n(h))?
+-h**2
+Let h(o) = -7*o - 2. Let i(l) = -216*l - 63. Let t(x) = 63*h(x) - 2*i(x). Let u(f) = -11*f. Let d(z) = -5*z. Let w(g) = -13*d(g) + 6*u(g). Determine t(w(v)).
+9*v
+Let m(l) be the first derivative of l**6/120 - l**3/3 + 1. Let y(q) be the third derivative of m(q). Let a(o) = 8*o - 7*o - 3*o. Calculate y(a(v)).
+12*v**2
+Let o(h) = -3*h**2. Let d(c) = -21*c - 9*c + 11*c. Determine d(o(i)).
+57*i**2
+Let r(w) = -w. Let m(a) be the first derivative of a**3/3 - 3*a**2 + 2. Let n be m(6). Let h(c) = 4*c**2 + n*c + 0*c. Calculate h(r(q)).
+4*q**2
+Let v(y) be the second derivative of y**3/3 + 2*y. Let q(j) = -j**2 - 2*j. Let x(g) = -4*g**2 - 7*g. Let h(t) = 7*q(t) - 2*x(t). What is v(h(o))?
+2*o**2
+Suppose 7*b - 2*b = 95. Let c(r) = -r - 19 + b. Let m(z) = -z + 5*z - 3*z. Determine c(m(w)).
+-w
+Let b(n) = 126*n. Let z(i) = 3*i. Calculate b(z(m)).
+378*m
+Let v(m) = 8*m**2. Let x(y) = y**2. Let z(h) = -2*h**2. Let c(q) = 3*x(q) + z(q). Give v(c(u)).
+8*u**4
+Let a(b) be the second derivative of b**3/6 - b. Let y(u) be the first derivative of 0*u - 1/2*u**2 - 4. Determine y(a(q)).
+-q

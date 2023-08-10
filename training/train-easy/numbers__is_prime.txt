@@ -1,0 +1,66 @@
+Is 331 a prime number?
+True
+Is 27253 composite?
+False
+Is 20981 a composite number?
+False
+Is 218567 a prime number?
+False
+Is 357419 a composite number?
+True
+Is 12473 composite?
+False
+Is 14221 composite?
+False
+Is 1021814 prime?
+False
+Is 125461 a prime number?
+False
+Is 2837 a composite number?
+False
+Is 563 prime?
+True
+Is 13309 a prime number?
+True
+Is 55137 a composite number?
+True
+Is 5141 a prime number?
+False
+Is 108079 composite?
+False
+Is 10327 composite?
+True
+Is 30553 composite?
+False
+Is 719 composite?
+False
+Is 4889 prime?
+True
+Is 27421 a composite number?
+True
+Is 235159 prime?
+True
+Is 7237 a prime number?
+True
+Is 123167 prime?
+False
+Is 606259 composite?
+True
+Is 298101 prime?
+False
+Is 17813 a prime number?
+False
+Is 30917 a prime number?
+False
+Is 743917 composite?
+False
+Is 8933 composite?
+False
+Is 503 composite?
+False
+Is 285823 composite?
+False
+Is 29653 a prime number?
+False
+Is 1373873 a prime number?
+True

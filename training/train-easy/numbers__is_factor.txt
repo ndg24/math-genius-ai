@@ -1,0 +1,66 @@
+Is 2831 a multiple of 3?
+False
+Is 4850 a multiple of 14?
+False
+Does 13 divide 324?
+False
+Does 33 divide 33?
+True
+Does 61 divide 1708?
+True
+Is 137 a multiple of 14?
+False
+Is 213 a factor of 52727?
+False
+Is 34 a multiple of 26?
+False
+Is 16 a factor of 400?
+True
+Is 42 a factor of 10668?
+True
+Is 13134 a multiple of 66?
+True
+Is 258 a multiple of 6?
+True
+Is 4371 a multiple of 20?
+False
+Is 4975 a multiple of 185?
+False
+Is 258 a multiple of 18?
+False
+Is 12348 a multiple of 21?
+True
+Does 89 divide 14493?
+False
+Is 25991 a multiple of 23?
+False
+Is 22 a factor of 37336?
+False
+Does 38 divide 5063?
+False
+Does 38 divide 1178?
+True
+Is 43470 a multiple of 315?
+True
+Is 6760 a multiple of 10?
+True
+Is 18 a factor of 2836?
+False
+Does 16 divide 2336?
+True
+Is 160300 a multiple of 70?
+True
+Is 1119 a multiple of 6?
+False
+Is 14 a factor of 32417?
+False
+Does 26 divide 9734?
+False
+Does 48 divide 1920?
+True
+Is 15236 a multiple of 52?
+True
+Is 1843 a multiple of 9?
+False
+Does 13 divide 4290?
+True

@@ -1,0 +1,66 @@
+Let g = -0.6 - -0.3. Let z be (-58)/(-3)*9/(-8). Let t = z + 22. Which is the closest to t?  (a) g  (b) -1  (c) -2/7
+c
+Let f = 5 + -2. Let n = 5 + -4.7. What is the nearest to 1 in f, -1/3, n?
+n
+Let t be 6/(-9) + (-2)/(-6). What is the nearest to 1/5 in t, -3, -1/2?
+t
+Let c = 14 - -10. Let f = c + -23. Let r = -0.4 + 0. What is the nearest to 0.1 in r, f, -1?
+r
+Let p = 9 + -3. Let f be ((-1)/p)/((-1)/2). What is the closest to f in 2, 1, 0.5?
+0.5
+Let q = 1.196 + 1.7. Let k = q + 0.004. Let o = -3 + k. Which is the closest to o?  (a) 5  (b) -2/11  (c) -2
+b
+Let p = 10 - 10. Which is the closest to p?  (a) 0  (b) -5  (c) -0.3
+a
+Suppose g - 4*o - 5 = 1, -3*g + 2*o + 8 = 0. Let u be g*(3/(-6) + 1). Let x be u - 14/30*3. Which is the nearest to 2/5?  (a) 0.1  (b) 1  (c) x
+a
+Let s = -870/7 - -124. What is the closest to s in -6/11, 2, 0?
+-6/11
+Let z = -13 - -7. Let x = z - -7. Let g = x + -0.9. Which is the closest to g?  (a) -1/2  (b) 0.1  (c) 4
+b
+Let z = -2.4 + 5.4. Which is the closest to z?  (a) 0.1  (b) 2/5  (c) -0.1
+b
+Let v = 5/36 - 97/180. Which is the closest to -0.1?  (a) -0.1  (b) -1  (c) v
+a
+Suppose 2 = 3*g + 5. Let o be -3 + 2 - 51/3. Let s = o - -13. Which is the closest to g?  (a) s  (b) 2  (c) -2/13
+c
+Let r be (5 - 1) + (-1)/(-5 - -4). What is the nearest to -2/3 in -2/5, r, -1?
+-2/5
+Let w = -0.2 + 0.2. Let f = -17 - -12. Let r = -7.8 - -8.8. What is the nearest to 0.1 in r, w, f?
+w
+Let x = 1.1 + -0.1. Let j = -10.1 - -10. What is the closest to j in -3/4, 0.4, x?
+0.4
+Let p = 15 - 17. Which is the nearest to -2?  (a) 0.4  (b) 1/4  (c) p
+c
+Let v(o) = 10 - o. Let a be v(11). What is the nearest to -3 in a, -0.5, -4?
+-4
+Let y = 1.74 + -6.74. Which is the closest to 1?  (a) -3  (b) y  (c) 11
+a
+Let c = 0 - -0.4. Let v = -646/3 - -216. What is the closest to -1/10 in 2, v, c?
+c
+Let m = -12 + 12. What is the closest to -1 in m, -1, -4/7?
+-1
+Let d = 0.1 + 0.3. Let x = -1/18 - -5/9. Let f = 1/4 - x. Which is the closest to 0?  (a) -4  (b) d  (c) f
+c
+Let z = -0.8 - 0.2. Suppose -3*a + 24 = -3. Suppose 4*u = -12, 5*u - a = c - 21. What is the nearest to 2/5 in 1/5, z, c?
+1/5
+Suppose 2*z - 6 = -c - c, -23 = 4*c - 3*z. What is the closest to -0.2 in c, -0.5, 4?
+-0.5
+Let q = -22 - -21.9. Which is the nearest to q?  (a) -3  (b) -1/3  (c) -3/5
+b
+Let y = 0.1 + -0.02. Let r = y + -0.08. Let a = r - -0.1. What is the closest to a in 4, 2, 3?
+2
+Suppose 3*x - v = 10, -2*x + 0 = -4*v - 10. Let g = -309 - -311. What is the closest to 1 in x, g, -5?
+g
+Let o = 111 - 111.1. Let x = -2 - -1.8. What is the closest to x in 2/13, -1, o?
+o
+Let d = 13908/13 - 1070. Let x = -0.05 + -1.95. What is the closest to x in d, -6/7, -2/5?
+-6/7
+Let x = -2.33 + -0.77. Let l = 3 + x. Let w = 2 - -3. What is the nearest to -1 in w, 4, l?
+l
+Let f = 40 + -37. What is the nearest to -1 in 1, f, -1/4?
+-1/4
+Let h = -7.8 - 0.2. Let z = h - -4. Let g = 3 + -2.9. Which is the nearest to -1?  (a) 2/9  (b) g  (c) z
+b
+Let d = 0.2 + 0.2. Let n = 0.1 + d. Let u = n + -0.4. Which is the closest to u?  (a) 5  (b) 2/9  (c) -1/4
+b

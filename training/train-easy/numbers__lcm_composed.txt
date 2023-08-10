@@ -1,0 +1,66 @@
+Suppose -3*w + 5 = m, 0 = -2*w - 1 - 5. What is the lowest common multiple of m and 14?
+14
+Calculate the common denominator of -49/11 and (2/(-8))/((-15)/(-282)).
+110
+Let l = 6296/959 - -40/137. Let w = -14 - -13. Find the common denominator of l and w.
+7
+Let q be ((-19858)/6)/(80/30). Let p = 1248 + q. Calculate the common denominator of p and 3/4.
+8
+Suppose -l = 5*m - 31, 2*m - 2*l - 22 = -0*l. Calculate the smallest common multiple of m and 8.
+56
+Let k = -150 - -1649/11. Let y be 6/3 + -1 - 284. Let j = y - -887/3. Find the common denominator of j and k.
+33
+Suppose 4*v = 4*w - 184, 2*w + v - 103 + 11 = 0. Calculate the least common multiple of 24 and w.
+552
+Let z = 2/2109 + 69581/16872. Calculate the common denominator of -81/4 and z.
+8
+Let a = 203039/20 - 10157. Find the common denominator of a and -5/6.
+60
+Let z be ((-59)/(-2))/(90/(-99)). Let w = z - -71/2. What is the common denominator of w and (-4)/14 - 1738/(-252)?
+180
+Let w = -2 + 3. Calculate the least common multiple of (2/4)/((-2)/(-12)) and w.
+3
+Let m be 2*(29/2 - 2). Let c be (1 - 2)/(1/(-3)). Suppose -2*k = c*t - m, -3*t + k + 18 + 1 = 0. Calculate the least common multiple of 1 and t.
+7
+Suppose b = -4 + 3. Calculate the lowest common multiple of 33 + (b - -2)*-1 and 22.
+352
+Let q(f) = -3*f**2 - 5*f - 2. Let s be q(6). Calculate the common denominator of 4/(-10) + 1239/s and -67/18.
+36
+What is the common denominator of -17/8 and (-2)/9 - 781/90?
+40
+Let k = -23557/955 + 1/2865. Calculate the common denominator of k and (-3 + 94)*((-2)/4)/(-1).
+6
+Let d = -14269/10 + 1428. What is the common denominator of -2 - -2 - (-98)/(-12) and d?
+30
+Let s be 1 - (-1 + 133 - 2). Calculate the common denominator of s/24 - (-1)/(-2) and 85/4.
+8
+Let x = -34655 - -1247693/36. Calculate the common denominator of 61/20 and x.
+180
+Let k = 5/18 - -1/2. Find the common denominator of -91/8 and k.
+72
+Let f(m) = -m**2 - 4*m**2 + 4 + 0*m**2 - m**3 - 3*m**2 - 7*m. What is the lowest common multiple of f(-7) and 10?
+20
+Suppose 5*n = -3*j - j + 17, 4*j = -3*n + 23. Calculate the smallest common multiple of 10 and j.
+40
+Let j = 6317/4 - 1591. Find the common denominator of -29/13 and j.
+52
+Let s(v) = v**2 + 2*v + 2. Let q be s(-2). Calculate the least common multiple of 11 and ((-3)/q)/((-1)/6).
+99
+Let c be (955/(-15))/(1/(-9)). Let p = 5/2 - -37/12. Calculate the common denominator of p and c/30 + (-4)/(-10).
+12
+Let b(u) = -u**2 + 2*u - 9. Let r be b(7). Let p = -30 - r. What is the common denominator of 1/16 and 4/p + 1765/(-420)?
+48
+Let z = -26 + 50. Suppose -9 = o - 5*b, 0 = 4*o + b + z - 72. What is the lowest common multiple of 7 and o?
+77
+Let s = 38/3125 - 19066/334375. Let w be 30891/214*(-20)/(-825). Let y = w + s. Calculate the common denominator of -16/9 and y.
+99
+Let v(d) = -d**2 + 5*d - 1. Let k be v(4). What is the common denominator of (177/(-44))/(k/2) and 31/24?
+264
+Let g(c) = -61*c + 0 + 54*c - 3 + c**2. Let p be 20/3*(-12)/(-10). Calculate the smallest common multiple of g(p) and 7.
+35
+Let j(l) be the second derivative of -l**3/2 + 3*l**2/2 - 3*l. Let v be j(-6). Calculate the least common multiple of (3 + v/(-9))*3 and 16.
+16
+Calculate the least common multiple of (-6)/(-4)*40/3 and 18.
+180
+Let v be 1/4 + (-189)/(-12). Let b = 53/20 + -23/10. Calculate the common denominator of (-4)/(-8) + (-73)/v and b.
+80

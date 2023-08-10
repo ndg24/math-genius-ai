@@ -1,0 +1,66 @@
+Let q(h) be the second derivative of 2*h - 2*h**2 + 0*h**3 - 1/12*h**4 + 0 + 1/20*h**5. Suppose -3*t + t = 0. Give q(t).
+-4
+Suppose -h + 0 = 4*t + 3, -h = -t + 3. Let g(d) be the first derivative of d**3/3 - 168. Calculate g(h).
+9
+Let b(o) = o**3 + 9*o**2 + 8*o + 5. Let p be b(-8). Suppose -p*u = -u + 3*i - 7, -3*u - 3*i + 6 = 0. Let c(k) = 9*k**2 + 1. What is c(u)?
+10
+Let u(a) be the third derivative of -a**5/60 - 5*a**3/6 - 11*a**2. Give u(-4).
+-21
+Suppose 4*v - 8 = 0, 3*q - 3*v + 4 = 1. Let c be 6 + (q - 1) + -1. Let x(t) = t**2 - 5*t - 3. What is x(c)?
+-3
+Let d = -7 - 0. Let j(i) = -i**2 + 2*i + 6. Let n(o) = 4*o**2 - 7*o - 19. Let p(m) = d*j(m) - 2*n(m). Determine p(0).
+-4
+Suppose g + 2*x - 3*x = -5, 3*x = 2*g + 11. Let d(l) = -l**3 - 5*l**2 - 4*l + 2. What is d(g)?
+2
+Let o be 3/(-3)*2*-1. Let n be 6/(4/o) + -1. Let t(i) = -3*i - 3*i**2 - n*i + 4*i. Calculate t(1).
+-4
+Suppose 0 = -2*m + 5*m + 12. Let p(g) be the first derivative of -g**3/6 - 2*g**2 + 2*g + 3. Let x(n) be the first derivative of p(n). Determine x(m).
+0
+Suppose -o - 1 = 1. Let i(b) = -6*b**2 + 3 + 9*b - 7*b**3 + 1 + 1. Let h(d) = 10*d**3 + 9*d**2 - 13*d - 7. Let y(n) = -5*h(n) - 7*i(n). Give y(o).
+-8
+Let n(a) be the third derivative of a**4/12 - a**3/3 - 9*a**2. Calculate n(5).
+8
+Let u(w) = 4*w + 1. Let x = 1 - 13. Let v = -8 - x. Let m be (-2)/((-4)/(-1))*v. Give u(m).
+-7
+Let w(b) = 3*b**2 - 3*b**2 + 6*b**2 - b**3. Determine w(6).
+0
+Let m(u) be the third derivative of -u**4/8 + u**3/6 + 2*u**2. Calculate m(-2).
+7
+Let h(l) = l**3 + 2*l**2 + 0*l**2 - l - l. Suppose -5*r + 0*r = -10. Suppose -2*j + 2*b = -b, -r*j + b = 4. Give h(j).
+-3
+Let l(x) = -5*x**2 - x + 3. Suppose -2*n - 2*c - 3 = -1, 2*n - 2*c + 6 = 0. Give l(n).
+-15
+Suppose 0 = r + 3*r - 48. Let h = -6 + r. Let u(a) = a**2 - 7*a + 3. Calculate u(h).
+-3
+Let j be 83/4 + 2/8. Suppose 0*g + j = 2*g - 3*b, -13 = -g + 2*b. Let o(h) = 1 - 4*h. Let a(x) = 5*x. Let m(z) = 2*a(z) + 3*o(z). Give m(g).
+-3
+Let h(z) = 4 - z**2. Let k(l) = -l**3 - 5*l**2 + 7*l + 6. Let r = -13 + 7. Let y be k(r). Suppose y*j = -j. Determine h(j).
+4
+Let r(i) = 4 - 2*i - 2*i + 2*i**2 + i + 7*i. Let s(l) = 3*l**2 + 8*l + 8. Let b(o) = -5*r(o) + 3*s(o). Give b(6).
+-8
+Let d = 15 + -13. Suppose -3 = -3*o + 3. Let h(z) = -5*z - d*z + o*z - z. Determine h(-2).
+12
+Let r(x) = 18*x**3 + x**2 + x - 1. Let o be r(1). Let c = o + -32. Let b(v) = -v**3 - 12*v**2 + 13*v + 4. Let h be b(c). Let u(l) = 2*l - 4. Determine u(h).
+4
+Let n(k) be the second derivative of 0 + 2/3*k**3 + 0*k**2 + 10*k. What is n(-2)?
+-8
+Let p(z) be the first derivative of -z**4/4 - 4*z**3/3 + 5*z**2/2 - 5*z + 12. What is p(-5)?
+-5
+Let p = -3 - -4. Let c(v) be the first derivative of -11*v**4/4 - v**3/3 + v**2 - v - 6. Calculate c(p).
+-11
+Let q be (-1 + -2 + 4)*2. Let b(o) = 11*o + 4 + o**q - 3*o - 2*o**2. Let d be b(9). Let v(s) = -s**3 - 5*s**2 + 7. What is v(d)?
+7
+Let c = 4 - 7. Let b = -2 - c. Let x(g) = g + 1. Let f(y) = 2*y + 3. Let w(k) = 2*f(k) - 6*x(k). Determine w(b).
+-2
+Let z(m) be the first derivative of m**5/60 - m**4/12 + m**3/3 - 1. Let c(i) be the third derivative of z(i). Determine c(2).
+2
+Let b(m) = 3*m**2 + m + 2. Let q(i) = 4*i**2 + 3. Suppose 0*d - 2 = -d. Let t(a) = d*q(a) - 3*b(a). Calculate t(-2).
+2
+Let d(v) be the first derivative of 7*v**2/2 + 2*v - 6. Let c(i) = 3*i + 1. Let a(k) = -5*c(k) + 2*d(k). Give a(5).
+-6
+Let x(s) = s**2 - 4*s - 7. Suppose -3*d + 0*d + 18 = 0. Determine x(d).
+5
+Let l(y) = -2*y - 4. Suppose 2*o + 1 = -5. Let s be l(o). Let d(h) = 3*h**2 - 2*h + 1. Determine d(s).
+9
+Let b(z) = 3*z. Let y = 5 + -1. Let p = y + -3. Determine b(p).
+3

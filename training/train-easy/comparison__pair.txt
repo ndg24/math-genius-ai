@@ -1,0 +1,66 @@
+Is -2 != -1?
+True
+Which is greater: 0 or 6/7?
+6/7
+Is -0.1 <= 2836/7?
+True
+Which is greater: 1/2 or 6/4075?
+1/2
+Which is bigger: -50 or -55?
+-50
+Does 4.3 = 5?
+False
+Which is smaller: 712 or 8?
+8
+Which is smaller: 0 or -75/559?
+-75/559
+Which is greater: -127 or -123?
+-123
+Which is smaller: 1440 or 1441?
+1440
+Is 0 > 2/675?
+False
+Is -1.304 <= -3?
+False
+Is 63 less than 70?
+True
+Which is smaller: 16878 or -1?
+-1
+Does -26 = -24?
+False
+Which is smaller: 2 or -611?
+-611
+Which is bigger: -1/2763 or 0?
+0
+Is 3 greater than 286/81?
+False
+Which is smaller: 1471 or 1469?
+1469
+Which is bigger: 0.241 or -0.2?
+0.241
+Which is smaller: 0 or -193/8?
+-193/8
+Do -16 and -15 have the same value?
+False
+Which is bigger: -1 or -73/55?
+-1
+Is 119/3 at least as big as 41?
+False
+Is 3/19 >= 71/3?
+False
+Which is smaller: -1 or -4/1517?
+-1
+Is -56 >= -7?
+False
+Is -0.1 at least as big as -2.382?
+True
+Are 6/649 and 1/2 unequal?
+True
+Which is greater: 110 or -6?
+110
+Is 0 less than or equal to -1/9595?
+False
+Is -1/6 equal to -201?
+False
+Which is bigger: 1 or -3/277?
+1

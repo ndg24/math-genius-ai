@@ -1,0 +1,66 @@
+What is the greatest common factor of 48 and 176?
+16
+Calculate the highest common divisor of 30 and 240.
+30
+Calculate the highest common divisor of 132 and 84.
+12
+What is the greatest common divisor of 4190 and 10?
+10
+What is the highest common factor of 169 and 65?
+13
+Calculate the highest common factor of 11 and 176.
+11
+Calculate the greatest common divisor of 667 and 145.
+29
+What is the highest common divisor of 145 and 203?
+29
+What is the highest common divisor of 2215 and 25?
+5
+What is the highest common factor of 3905 and 198?
+11
+Calculate the greatest common factor of 12 and 52.
+4
+Calculate the greatest common factor of 94 and 423.
+47
+Calculate the highest common factor of 12 and 222.
+6
+What is the greatest common factor of 40 and 900?
+20
+What is the greatest common factor of 2318 and 57?
+19
+Calculate the greatest common divisor of 82 and 10.
+2
+Calculate the highest common factor of 981 and 1090.
+109
+What is the greatest common divisor of 52 and 104?
+52
+Calculate the greatest common divisor of 81 and 513.
+27
+Calculate the highest common factor of 2 and 442.
+2
+What is the highest common divisor of 66 and 99?
+33
+What is the highest common divisor of 44 and 77?
+11
+What is the highest common factor of 27 and 45?
+9
+Calculate the greatest common divisor of 6375 and 51.
+51
+Calculate the highest common factor of 107 and 13375.
+107
+What is the highest common factor of 84 and 8?
+4
+Calculate the highest common factor of 390 and 3705.
+195
+What is the highest common factor of 252 and 180?
+36
+What is the greatest common factor of 2016 and 63?
+63
+Calculate the highest common factor of 176 and 96.
+16
+Calculate the highest common factor of 777 and 287.
+7
+Calculate the greatest common divisor of 1799 and 7.
+7
+What is the highest common divisor of 2694 and 6?
+6

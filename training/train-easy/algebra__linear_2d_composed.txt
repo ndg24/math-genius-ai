@@ -1,0 +1,66 @@
+Let g(w) = -w**2 + 7*w - 5. Let m be g(6). Let o be m/(-3)*1*-9. Solve -5*p + q = 7, 2 + 5 = p - o*q for p.
+-2
+Let l(h) = 2*h + 6. Let g be l(6). Let j = g + -14. Let u(t) = 4*t**2 + t - 1. Let d be u(1). Solve d*v = -j*a - 4, v + 16 = 3*a - 7*a for a.
+-5
+Let t(p) = -p**2 + 8*p - 5. Suppose j = 2*j + 2. Let m(c) = -c**3 + c**2 + c - 3. Let l be m(j). Let u be t(l). Solve 2*h = u*w + 3 + 3, 2*h = 6 for w.
+0
+Suppose g = -0*g - 3. Let m = 0 - g. Solve -5*y + 15 = -5*u - m*y, -2*y = -2*u - 12 for u.
+-1
+Let h(f) = -2 + 5*f - 5 - 4*f**3 + 8*f**2 + 5*f**3 - 3. Let r be h(-7). Solve -8 = -4*p - 4*n, -r*p - 3*n + 1 = -3 for p.
+-2
+Suppose -4*p + 24 + 12 = 0. Let c = p + -1. Let j = 240 + -238. Solve -5*u = -0*u + j*t + c, 3*u - 4 = t for u.
+0
+Suppose 3*h + 1 + 2 = 0. Let r be (1/h)/(3/(-51)). Solve -u - 7 = 2*v, 4*v - 3*u = 6*v + r for v.
+-1
+Let v(o) = 7*o - 2. Let d be v(-1). Let b be (-110)/(-6) + 3/d. Solve -b = n + 4*p, 0*p = -3*n - p + 1 for n.
+2
+Let q(s) = s + 3. Suppose -3 = -i - 5*l - 32, 0 = -4*i + l - 11. Let f be q(i). Let h be f*(-1 - (3 - 1)). Solve 0*c + 4*d + 13 = h*c, c - 2*d - 7 = 0 for c.
+-1
+Let t(m) = 7 - m. Let i be t(3). Solve 3*x + 0 + 1 = -4*u, 5*u = i*x - 40 for u.
+-4
+Let x be (0 + -4)*(-3)/4. Solve -x*h = -2*s + 9, 0*s + 5*s + 6 = -2*h for s.
+0
+Suppose 2*j + 0*j = 56. Suppose 2*d + 5 - 3 = 2*y, j = 2*d + 4*y. Solve -p + 16 = 3*t, -d*p + 0*t - t = -9 for p.
+1
+Suppose -3*q + 0*q = d - 29, -5*q - 2*d = -48. Solve 11 = -3*c + 4*k, c - 3*k + q = -3*c for c.
+-1
+Let o(a) = a**3 - 2*a**2 + a + 3. Let i be o(2). Let d = i - -15. Solve -4*j + 5*z + d = -9, -10 = 2*z for j.
+1
+Let d(s) = 4*s**2 - 2*s + 1. Let n be d(1). Suppose -3 - 6 = n*w. Let f be 1/(-2) + w/(-6). Solve -4*a = -f*a + 4*g - 4, -5*g + 21 = a for a.
+-4
+Let o(s) = 6 - s. Let t be o(3). Solve 2*j + 3*d = -3 - 4, 5*j + 7 = t*d for j.
+-2
+Suppose 0 = 4*w - 4*z + 3*z - 20, 2*w - z = 10. Solve -r = w*q + 10, 0*r - 8 = 4*q + 4*r for q.
+-2
+Let i = 3 + 0. Let d be ((-14)/6)/((-2)/6). Solve -i*s - 5*u = -29, 0 = -s - u + d for s.
+3
+Let m(p) = -3*p**2 + p - 4. Let q be m(3). Let t be q/(-16) - (-3)/12. Solve 5 = f + h, t*h + 3*h = -4*f + 20 for f.
+5
+Let x be 5 + -3 - -1 - (-5 + 2). Solve -i - 2*w - 21 = -x*w, -i = 3*w - 7 for i.
+-5
+Suppose -t - 5*m = -17, -5*m + 13 = -t - 0*m. Suppose t = -2*h + 6. Let s be (8 - 2)/(h + 0). Solve s*i + v + v = -11, -4*v = i + 7 for i.
+-3
+Suppose 17 + 6 = 2*s + y, -2*s = -y - 29. Suppose 5*b - 1 - 12 = d, -s = -3*b - 2*d. Solve -k = k + 4*n - 8, 0 = 3*k - b*n + 24 for k.
+-4
+Let b(m) = 2*m**2 + 17*m + 27. Let x be b(-8). Solve 31 = 5*w - j - 2*j, -3*j = 5*w - x for w.
+5
+Suppose -g - 8 = 2*w - 2, -g + 4*w + 24 = 0. Solve -3*y - u + 1 = -2*u, -g*u + 12 = -4*y for y.
+2
+Let v = 6 + -4. Suppose 2*i + v*i = 20. Solve -4*r - 4 = -i*f - 29, -4*f - 24 = -4*r for r.
+5
+Let s(n) = 4 - 6*n. Let b be s(-3). Solve 2*g - g + 5*j = b, 3*j = -5*g for g.
+-3
+Let j be 16/6 + (-6)/9. Solve 2*z + 10 = 4*o, -o = j*z - 3*z - 4 for z.
+-3
+Let x = 0 - 1. Let t = 4 + x. Let a = -14 + 35. Solve -4*r = z - a, -t*z = -3*r - 5 + 2 for r.
+4
+Suppose -4*h - h + 25 = 0. Suppose 0 = 3*l - 6, o = -2*l + 3*l + 13. Solve -q - 10 = u - 0*q, 0 = h*u - 2*q + o for u.
+-5
+Let t(f) = -f**2 + 33*f - 32. Let c be t(32). Solve 2*m + 1 = -3*p - 3, c = -p - 2*m + 4 for p.
+-4
+Let z be ((-4)/(-2))/2 - -15. Solve -2*r - 14 = x - 4*x, -5*r = 2*x + z for r.
+-4
+Let j(n) = 3*n - 10. Let d be j(7). Let s(y) = 4*y**2 - 2*y + 2. Let x be s(1). Solve -x*b = -4*k - 3 + 19, -3*b + 2*k = d for b.
+-3
+Let n be (-38)/(-14) - 2/(-7). Suppose -2*c = -8*u + 5*u - 12, -2*u + 3*c = 3. Let q be 2*(u/(-4))/1. Solve 2*y - 6*y + 10 = -q*d, 0 = -n*y + 3 for d.
+-2

@@ -1,0 +1,66 @@
+Let x(l) = 3*l + 3. What is x(-3)?
+-6
+Let g(t) = -t**2 - 14*t + 43. Give g(-17).
+-8
+Let m(l) = -l**3 + 15*l**2 - 12*l - 12. Calculate m(14).
+16
+Let r(x) = 13*x + 194. Give r(-15).
+-1
+Let b(q) = q**2 + 12*q + 13. What is b(-8)?
+-19
+Let j(h) = -2*h - 5. Determine j(-2).
+-1
+Let c(d) = d**2 - 6*d + 2. Give c(3).
+-7
+Let j(i) = -i**3 + 11*i**2 + 11*i + 13. Calculate j(12).
+1
+Let k(v) = v**2 + 14*v + 3. Calculate k(-13).
+-10
+Let m(n) = n**2 + 6*n + 4. Calculate m(-2).
+-4
+Let n(w) = 7*w - 241. What is n(34)?
+-3
+Let a(x) = 2*x**2 - 13*x + 4. Give a(6).
+-2
+Let g(j) = j**3 + 2*j**2 - 35*j - 3. Calculate g(5).
+-3
+Let a(p) = -3*p**3 - p**2 - p + 3. What is a(2)?
+-27
+Let w(o) = -3*o**2 - 4*o + 14. What is w(2)?
+-6
+Let t(k) = 2*k - 8. Give t(-4).
+-16
+Let i(k) = -k**2 - 17*k - 49. What is i(-13)?
+3
+Let l(q) = 48 - q. Calculate l(5).
+43
+Let w(r) = -r**2 + 13*r - 14. Determine w(8).
+26
+Let n(w) = -w**2 - 18*w + 21. Give n(-19).
+2
+Let y(p) = 6*p - 76. Give y(12).
+-4
+Let s(c) = 4*c - 8. What is s(-6)?
+-32
+Let w(y) = 16 - y. Give w(0).
+16
+Let s(y) = 23 - 15*y. Give s(-6).
+113
+Let u(w) = -w**3 - 12*w**2 + 50*w - 20. What is u(-15)?
+-95
+Let k(s) = -s**3 - 5*s**2 + 6*s + 13. Calculate k(-6).
+13
+Let f(z) = -z**3 + 14*z + 25. Give f(-3).
+10
+Let p(q) = -27*q - 78. What is p(-7)?
+111
+Let k(u) = -u**2 + 32*u - 213. Give k(10).
+7
+Let i(q) = q**2 - 7*q - 54. What is i(-13)?
+206
+Let r(f) = 3*f - 5. Determine r(-7).
+-26
+Let r(c) = c**3 + 11*c**2 - 9*c + 34. Calculate r(-12).
+-2
+Let p(f) = 1 - 8*f. Calculate p(8).
+-63

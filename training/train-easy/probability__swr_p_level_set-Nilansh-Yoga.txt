@@ -1,0 +1,66 @@
+What is prob of picking 1 e, 2 j and 1 n when four letters picked without replacement from {j: 3, e: 3, u: 3, a: 1, n: 6}?
+27/910
+What is prob of picking 1 t and 2 p when three letters picked without replacement from {t: 11, p: 9}?
+33/95
+Three letters picked without replacement from {p: 4, v: 1, z: 7, i: 1}. Give prob of picking 1 p, 1 z and 1 i.
+14/143
+Two letters picked without replacement from {x: 3, z: 1, h: 3, b: 2, g: 1, v: 2}. Give prob of picking 1 g and 1 h.
+1/22
+Four letters picked without replacement from {k: 5, w: 5}. Give prob of picking 4 w.
+1/42
+Two letters picked without replacement from eeweeveveleee. Give prob of picking 1 e and 1 v.
+3/13
+Three letters picked without replacement from ybbjjcbyjybbybyb. Give prob of picking 3 b.
+1/16
+What is prob of picking 3 b when three letters picked without replacement from {b: 4}?
+1
+Calculate prob of picking 1 j and 2 w when three letters picked without replacement from opopjooopojjwjoow.
+1/170
+Three letters picked without replacement from {w: 2, y: 1, d: 1, v: 1, o: 1, j: 1}. What is prob of picking 1 j, 1 o and 1 y?
+1/35
+What is prob of picking 2 c when two letters picked without replacement from {c: 4, y: 2, z: 1, p: 1, d: 1}?
+1/6
+Three letters picked without replacement from {u: 6, e: 2, i: 2, s: 3, j: 1, r: 6}. What is prob of picking 2 u and 1 i?
+1/38
+Calculate prob of picking 1 i and 1 p when two letters picked without replacement from zifnpifp.
+1/7
+Three letters picked without replacement from hhehhhhhe. What is prob of picking 1 h and 2 e?
+1/12
+What is prob of picking 1 w, 1 g and 1 q when three letters picked without replacement from {q: 1, u: 9, w: 2, g: 7, v: 1}?
+7/570
+Calculate prob of picking 2 u when two letters picked without replacement from ujuuuujuuuujuu.
+55/91
+Calculate prob of picking 4 z when four letters picked without replacement from {h: 1, z: 11}.
+2/3
+Calculate prob of picking 1 e and 2 z when three letters picked without replacement from {z: 2, e: 7}.
+1/12
+Two letters picked without replacement from {e: 2, q: 4, c: 3, f: 1}. What is prob of picking 2 c?
+1/15
+Two letters picked without replacement from {b: 2, s: 3, f: 7, z: 8}. What is prob of picking 1 f and 1 b?
+7/95
+Calculate prob of picking 3 s when three letters picked without replacement from sooss.
+1/10
+Four letters picked without replacement from jbjbbjbjjbbb. What is prob of picking 3 b and 1 j?
+35/99
+Two letters picked without replacement from iaazoqa. What is prob of picking 1 a and 1 o?
+1/7
+Three letters picked without replacement from {p: 6, z: 2, o: 10}. Give prob of picking 3 p.
+5/204
+Calculate prob of picking 4 p when four letters picked without replacement from {g: 3, p: 5, z: 1}.
+5/126
+What is prob of picking 1 s, 1 b and 2 y when four letters picked without replacement from {c: 3, y: 3, s: 9, b: 2}?
+27/1190
+Three letters picked without replacement from {w: 2, l: 2, z: 10, u: 1, r: 1, n: 3}. Give prob of picking 1 w, 1 r and 1 z.
+20/969
+Calculate prob of picking 1 w and 1 a when two letters picked without replacement from grwrmwsawrwasm.
+8/91
+What is prob of picking 2 p when two letters picked without replacement from {p: 2, m: 3}?
+1/10
+Calculate prob of picking 2 y when two letters picked without replacement from yypyyyyyyyyp.
+15/22
+Two letters picked without replacement from {i: 1, e: 2, u: 7, h: 4}. Give prob of picking 1 i and 1 u.
+1/13
+Calculate prob of picking 1 x and 1 p when two letters picked without replacement from ioyxuipx.
+1/14
+Three letters picked without replacement from jdvvavvjvgbjavvjd. What is prob of picking 1 a, 1 g and 1 b?
+1/340

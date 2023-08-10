@@ -1,0 +1,66 @@
+Suppose 3*h + 1 = 2*x, -3*h - 3*x = -x - 19. Suppose -4*c + 0*c = -5*z + 165, h*z - 99 = -4*c. Let b = z + 22. Is b prime?
+False
+Let j be 6/33 - (-4)/(-22). Suppose j = -f + 4*f + 15, 2*f + 12 = 2*t. Is (413/7)/(t + 0) prime?
+True
+Let s(f) = f + 17. Let w be s(-13). Suppose -w*p = -p - 66. Is p a prime number?
+False
+Suppose -m = p - 9858, 0 = -5*p - m - 0*m + 49310. Is p composite?
+True
+Let i(u) = 3*u**3 - 2*u**2 + 3*u - 4. Let l be i(3). Suppose p = -4*w - 2*p + 279, -l = -w + p. Is w composite?
+True
+Let h = -902 - -1423. Is h prime?
+True
+Suppose 5*a + 3 = -p, -5*p - 1 + 7 = 4*a. Is 1*p/((-2)/(-181)) a prime number?
+True
+Let u(g) = g**3 - 6*g**2 + 2*g - 5. Let t(j) = -2 + 0*j - 4*j + 4*j + 2*j**2. Let k be t(-2). Is u(k) a prime number?
+True
+Suppose 0 = -3*g + 15 - 6. Let c = 30 + g. Is c a composite number?
+True
+Let s(h) = -42*h**3 - 2*h**2 + 3*h + 9. Is s(-2) a prime number?
+True
+Is 1/4 - ((-113022)/(-24))/(-7) composite?
+False
+Suppose -3*h + 4 = 4*s + 13, -h - 3 = 0. Suppose s = -8*u + 4*u - 132. Let x = -20 - u. Is x prime?
+True
+Is 422 + 3 + -7 + 1 a prime number?
+True
+Let k = -13 - -7. Let n(r) = -15*r - 1. Is n(k) a prime number?
+True
+Suppose 364 = -4*h + 8*h. Is h composite?
+True
+Let s be ((-24)/9)/((-4)/6). Suppose 0 = -s*v + 176 + 572. Is v prime?
+False
+Let u(m) = 7*m**2 + 6*m + 3. Let p be u(-4). Suppose 0 = -v - 4*k + p, -7*v + k + 455 = -2*v. Is v a prime number?
+False
+Let d = 21 + -17. Suppose 2*r - 146 = -2*n, -d*r + 5*n + 256 = -0*n. Is r prime?
+False
+Let s(f) = -f**3 + 7*f**2 - f + 7. Is s(6) a prime number?
+True
+Suppose 2*k - 3*k - 15 = -3*w, -3*w = 5*k - 15. Suppose k = 5*m - 42 - 13. Is m a prime number?
+True
+Let s = 16 + -11. Suppose 9*a - s*a - 332 = 0. Is a prime?
+True
+Suppose -2*d + 9 = d. Let t = d + -1. Is (-4)/(t*-1) + 33 a prime number?
+False
+Let p be (-2)/4 + 9/18. Let k(o) = o + 0*o**2 - o**2 + 2*o**2 + 145. Is k(p) a prime number?
+False
+Let g(z) = -16*z - 33. Is g(-10) prime?
+True
+Let r = -4 - -4. Suppose 4*a + 202 = -2*n, r*n + 186 = -2*n + 4*a. Let l = n - -180. Is l a composite number?
+False
+Is (-1)/(-2 + 129/65) prime?
+False
+Let m be 2 + (1 + 362)*1. Suppose 6*o + m = 7*o. Is o composite?
+True
+Let p = 1502 + -1053. Is p prime?
+True
+Let r be 2/2 - (-3 - -4). Suppose 4*j + 0*j = 0. Suppose r = 2*x - j*x - 322. Is x prime?
+False
+Let v(m) = -398*m**3 + m**2 + m + 5. Is v(-2) prime?
+True
+Let z(n) = -16*n - 10*n + 7*n. Is z(-1) prime?
+True
+Is 3163/((2/(-3))/(38/(-57))) a composite number?
+False
+Let t(l) = -l**2 + l + 155. Let q be t(0). Suppose -q - 19 = -2*h. Is h prime?
+False

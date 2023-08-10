@@ -1,0 +1,66 @@
+What is the o'th term of 957, 935, 905, 861, 797, 707, 585?
+-o**3 + 2*o**2 - 21*o + 977
+What is the v'th term of 55, 106, 161, 226, 307?
+v**3 - 4*v**2 + 56*v + 2
+What is the q'th term of 58, 129, 240, 385, 558, 753?
+-q**3 + 26*q**2 + 33
+What is the o'th term of -3262, -3263, -3264, -3265, -3266?
+-o - 3261
+What is the t'th term of -506, -1015, -1524, -2033, -2542?
+3 - 509*t
+What is the z'th term of -267, -534, -801, -1068, -1335, -1602?
+-267*z
+What is the b'th term of -109, -212, -313, -412, -509?
+b**2 - 106*b - 4
+What is the d'th term of -42, -28, 24, 132, 314, 588, 972, 1484?
+3*d**3 + d**2 - 10*d - 36
+What is the o'th term of 933, 932, 931, 930?
+934 - o
+What is the c'th term of 9414, 9415, 9416?
+c + 9413
+What is the w'th term of -6847, -6846, -6843, -6838?
+w**2 - 2*w - 6846
+What is the q'th term of -2943, -2940, -2937, -2934, -2931, -2928?
+3*q - 2946
+What is the p'th term of 20, 83, 168, 257, 332, 375, 368?
+-3*p**3 + 29*p**2 - 3*p - 3
+What is the p'th term of 409, 818, 1227, 1636, 2045?
+409*p
+What is the t'th term of -22, -55, -114, -199, -310, -447, -610?
+-13*t**2 + 6*t - 15
+What is the x'th term of -12, -17, 2, 63, 184, 383, 678?
+3*x**3 - 6*x**2 - 8*x - 1
+What is the p'th term of 260, 246, 222, 188, 144?
+-5*p**2 + p + 264
+What is the x'th term of -11, -30, -69, -134, -231, -366, -545, -774?
+-x**3 - 4*x**2 - 6
+What is the z'th term of 20, 42, 64, 86, 108?
+22*z - 2
+What is the d'th term of 4072, 4069, 4066, 4063?
+4075 - 3*d
+What is the h'th term of -1708, -3412, -5114, -6814, -8512, -10208?
+h**2 - 1707*h - 2
+What is the u'th term of 68, 140, 212?
+72*u - 4
+What is the w'th term of -175, -171, -169, -169, -171, -175?
+-w**2 + 7*w - 181
+What is the f'th term of 208, 620, 1300, 2242, 3440, 4888, 6580?
+-f**3 + 140*f**2 - f + 70
+What is the r'th term of 2389, 2393, 2399, 2407?
+r**2 + r + 2387
+What is the u'th term of 398, 793, 1190, 1589, 1990?
+u**2 + 392*u + 5
+What is the t'th term of -2, -29, -104, -251, -494?
+-4*t**3 + t + 1
+What is the q'th term of -6032, -12060, -18090, -24122, -30156?
+-q**2 - 6025*q - 6
+What is the u'th term of -1, -4, -17, -46, -97?
+-u**3 + u**2 + u - 2
+What is the k'th term of 698, 689, 668, 629, 566, 473, 344?
+-k**3 - 2*k + 701
+What is the h'th term of -46, -90, -130, -166, -198, -226?
+2*h**2 - 50*h + 2
+What is the f'th term of -5, 24, 89, 208, 399, 680?
+3*f**3 + 8*f - 16
+What is the c'th term of -101, -102, -103, -104, -105?
+-c - 100

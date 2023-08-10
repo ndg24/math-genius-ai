@@ -1,0 +1,66 @@
+What is the hundreds digit of 4883?
+8
+What is the tens digit of 425?
+2
+What is the thousands digit of 59971?
+9
+What is the hundreds digit of 5174?
+1
+What is the ten thousands digit of 11594?
+1
+What is the tens digit of 4064?
+6
+What is the hundreds digit of 9683?
+6
+What is the tens digit of 12678?
+7
+What is the units digit of 3785?
+5
+What is the units digit of 40?
+0
+What is the units digit of 57685?
+5
+What is the units digit of 67236?
+6
+What is the tens digit of 7714?
+1
+What is the units digit of 1236?
+6
+What is the hundreds digit of 982?
+9
+What is the hundred thousands digit of 119415?
+1
+What is the hundreds digit of 267?
+2
+What is the thousands digit of 9074?
+9
+What is the tens digit of 72708?
+0
+What is the hundreds digit of 5208?
+2
+What is the thousands digit of 3537?
+3
+What is the tens digit of 10977?
+7
+What is the hundreds digit of 1170?
+1
+What is the hundreds digit of 497?
+4
+What is the tens digit of 5221?
+2
+What is the tens digit of 199?
+9
+What is the hundreds digit of 2552?
+5
+What is the hundreds digit of 313?
+3
+What is the units digit of 690?
+0
+What is the tens digit of 703?
+0
+What is the tens digit of 13618?
+1
+What is the hundreds digit of 102713?
+7
+What is the ten thousands digit of 119233?
+1

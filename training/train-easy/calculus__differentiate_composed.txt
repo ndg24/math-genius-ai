@@ -1,0 +1,66 @@
+Let h(z) = -5*z**2 - 11*z. Let w(v) = 9*v**2 + 21*v. Let g(y) = -11*h(y) - 6*w(y). Find the second derivative of g(f) wrt f.
+2
+Let p(g) be the second derivative of 7*g**4/6 - 5*g**3/6 + g. Find the second derivative of p(v) wrt v.
+28
+Let c(i) be the third derivative of i**8/3360 + i**7/840 - i**4/12 - i**2. Let a(p) be the second derivative of c(p). Find the third derivative of a(h) wrt h.
+12
+Let p(b) be the third derivative of -b**8/48 - b**5/10 + b**2. What is the third derivative of p(g) wrt g?
+-420*g**2
+Let a(u) be the second derivative of -u**3 + 7*u**2 - 10*u. Differentiate a(q) wrt q.
+-6
+What is the second derivative of -2*x + 219*x**2 - 219*x**2 - 14 + 3*x**5 + 5 wrt x?
+60*x**3
+Let k be (-3)/(-2 - 1) - -26. Let y be 141/k - (-4)/(-18). Find the third derivative of 3*p**2 + 3*p**5 - p**2 - p**y wrt p.
+120*p**2
+Let k(z) = z**2 - z - 1. Let a(v) = -44*v**2 + 5*v + 28. Let x(b) = -a(b) - 5*k(b). What is the first derivative of x(h) wrt h?
+78*h
+Suppose -13 = 4*a + 5*u, -29 = 4*a - 7*a + 4*u. What is the second derivative of -17 - 2*k**a + 4*k + 17 wrt k?
+-12*k
+Let q(c) be the first derivative of 0*c + 0*c**3 - 3 - 1/4*c**4 + 3/2*c**2. What is the second derivative of q(n) wrt n?
+-6*n
+Let a(j) = -35*j**2 + 5*j + 57. Let t(y) = -52*y**2 + 8*y + 86. Let k(f) = -8*a(f) + 5*t(f). Differentiate k(b) wrt b.
+40*b
+Let v = -1 - -1. Let g be 2/9 + 96/54. Find the third derivative of -3*m**2 + 3*m**6 - g*m**6 + m**2 + v*m**6 wrt m.
+120*m**3
+Let s(j) be the third derivative of 1/168*j**8 + 0 + 2*j**2 - 1/24*j**4 + 0*j**7 + 0*j**6 + 0*j**5 + 0*j + 0*j**3. What is the second derivative of s(b) wrt b?
+40*b**3
+Let h(j) = j**3 - 5*j**2 + 5*j - 6. Let q(y) = -y**2 + y - 1. Suppose -4*k - 13 = r + 4, -4*r - 17 = -k. Let v(g) = r*q(g) + h(g). Differentiate v(o) wrt o.
+3*o**2
+Let r(p) be the second derivative of 5*p**4/12 - p**3/2 + 4*p. What is the second derivative of r(v) wrt v?
+10
+What is the derivative of 59*f**4 + 30 - 1005*f**3 + 1005*f**3 wrt f?
+236*f**3
+Find the third derivative of 3*u**2 + 1488*u**4 + 18*u**6 - 1488*u**4 wrt u.
+2160*u**3
+Suppose -z + 2 = -j - 2, z = -3*j - 4. Suppose u - 1 - z = 0. What is the derivative of 3*k + 0*k - 3*k - u - 3*k wrt k?
+-3
+Let w(h) = h**2 - h + 1. Let i(s) = -9*s**3 - 2*s + 2. Let r(z) = -i(z) + 2*w(z). What is the third derivative of r(n) wrt n?
+54
+Suppose -2 + 4 = p. Suppose -2*a = -2*c, 0 = -2*c - 0*a - p*a + 20. What is the second derivative of -2*i**5 - 4*i**5 + 0*i**5 + 2*i + 3*i**c wrt i?
+-60*i**3
+Let x(h) = -13*h**2 - 52. Let u(t) = 1. Let g(c) = -4*u(c) - x(c). Differentiate g(o) wrt o.
+26*o
+Suppose -7*d + 35 = -2*d. Let t(m) = m - 5. Let s be t(d). What is the second derivative of -3*a - s*a**2 + 2*a + 4*a**2 wrt a?
+4
+Let w(j) = -j**2 + j. Let l(r) = 2*r**3 + 12*r**2 - 12*r - 36. Let y(x) = l(x) + 12*w(x). Differentiate y(b) wrt b.
+6*b**2
+Let t(n) be the third derivative of -n**6/15 + 3*n**5/20 + 5*n**2. Find the third derivative of t(v) wrt v.
+-48
+Suppose -2*m + c - 3*c = -30, 4*m - 48 = -c. Let g be (-2)/m - (-184)/44. What is the third derivative of -3*s**2 + s**5 - g*s**5 + s**5 wrt s?
+-120*s**2
+Let h(s) be the second derivative of s**4/2 - 7*s**3/6 - 3*s. What is the second derivative of h(f) wrt f?
+12
+Let b(c) = 4*c**4 + 7*c**2 + 7*c - 12. Let f(p) = 4*p**4 + 6*p**2 + 6*p - 11. Let l(n) = -6*b(n) + 7*f(n). Find the first derivative of l(i) wrt i.
+16*i**3
+Let y(t) = -6 + 11 + 0. Let w(d) = d**3 + 6. Let j(s) = -4*w(s) + 6*y(s). Differentiate j(p) with respect to p.
+-12*p**2
+Suppose h - 3 = 5. Suppose m - 5*m = -h. What is the second derivative of 4*w**5 - m*w**5 + 0*w**5 - w wrt w?
+40*w**3
+Let m(k) = k**3 + 9*k**2 + 8*k + 5. Let r be m(-8). Find the third derivative of -3*d**2 + 24*d**5 - d**6 - 24*d**r wrt d.
+-120*d**3
+Let b(x) = -x**4 - 2*x**2 + x - 1. Let u(m) = 64*m**4 + 8*m**2 - 63*m + 4. Let z(w) = -4*b(w) - u(w). What is the second derivative of z(q) wrt q?
+-720*q**2
+Let j(f) be the third derivative of -f**6/30 + 5*f**4/24 - 3*f**2. Find the second derivative of j(i) wrt i.
+-24*i
+Let u(k) = 1. Let m(w) be the third derivative of w**6/120 + w**5/60 + w**3 + 3*w**2. Let i(z) = -m(z) + 6*u(z). Find the third derivative of i(b) wrt b.
+-6

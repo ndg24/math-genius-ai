@@ -1,0 +1,66 @@
+Simplify (sqrt(180)*-1*-1 + 4)**2 + 3.
+48*sqrt(5) + 199
+Simplify (4*sqrt(10)*2)/(sqrt(72)/sqrt(4)).
+8*sqrt(5)/3
+Simplify -5 + sqrt(66)/sqrt(6) + sqrt(11) + sqrt(11) + (sqrt(11) - (sqrt(891)*-2 - sqrt(891))).
+-5 + 31*sqrt(11)
+Simplify (sqrt(468) + (sqrt(468) - (sqrt(468) + 3)) + sqrt(468) + 2)**2 + 3.
+1876 - 24*sqrt(13)
+Simplify (sqrt(130)*3*-3 + sqrt(130))/(sqrt(120)/sqrt(3)).
+-4*sqrt(13)
+Simplify (sqrt(242) - ((1 + sqrt(242) - sqrt(242))*4 - sqrt(242))**2) + 5.
+-253 + 99*sqrt(2)
+Simplify sqrt(5) + (sqrt(20) + 2)**2 + sqrt(80)*2.
+24 + 17*sqrt(5)
+Simplify (((sqrt(110)*2 - sqrt(110) - sqrt(110) - sqrt(110))*-5)/(sqrt(10) + 3*(sqrt(10) + sqrt(20)/sqrt(2))))**2.
+275/49
+Simplify 0 + (sqrt(17)*2*5 - sqrt(17)) - (sqrt(170) + sqrt(170)*-1*-5)/sqrt(10).
+3*sqrt(17)
+Simplify 3*sqrt(475) + -1 - sqrt(475).
+-1 + 10*sqrt(19)
+Simplify 1*(sqrt(11) + sqrt(275) + (3 + sqrt(275))**2 - (2 + sqrt(55)/sqrt(5))).
+35*sqrt(11) + 282
+Simplify (sqrt(300) - (sqrt(300) - 5*(sqrt(300) + (2 + sqrt(300) + sqrt(300) - sqrt(300)))))**2 + sqrt(300).
+2010*sqrt(3) + 30100
+Simplify (0 + sqrt(5) + sqrt(180) + sqrt(5) + sqrt(25)/(sqrt(5) + (3*sqrt(5) - sqrt(5))))**2.
+3125/9
+Simplify ((sqrt(112) - ((1 + sqrt(112) + -5 - sqrt(112)) + sqrt(112))) + sqrt(112))**2*-6.
+-768 - 192*sqrt(7)
+Simplify -5*sqrt(2736)*-4.
+240*sqrt(19)
+Simplify 5*sqrt(22)/sqrt(2) + 3.
+3 + 5*sqrt(11)
+Simplify (sqrt(1872)*4)**2 + 3.
+29955
+Simplify (sqrt(52)*6 - (-2 + (0 + sqrt(13))**2 + sqrt(13))) + 1 + 4.
+-6 + 11*sqrt(13)
+Simplify (sqrt(320) + sqrt(320)*-1 + -2)**2.
+4
+Simplify (sqrt(468) - sqrt(468)*-2) + 4 + (sqrt(468) - ((sqrt(468) - (2 + sqrt(468) - sqrt(468)))*-1)**2).
+-468 + 48*sqrt(13)
+Simplify sqrt(25)/(sqrt(30)/sqrt(6)*4).
+sqrt(5)/4
+Simplify (sqrt(432)/sqrt(4))/(4*sqrt(18)/sqrt(3)).
+3*sqrt(2)/4
+Simplify 2*(-1 + sqrt(153)).
+-2 + 6*sqrt(17)
+Simplify sqrt(13) - -2*sqrt(1872) - sqrt(52)/sqrt(16).
+49*sqrt(13)/2
+Simplify (sqrt(136) - (sqrt(136) + 2*sqrt(136))*-1)/(sqrt(512) + (sqrt(512) + 2*sqrt(512) - sqrt(512))).
+sqrt(17)/6
+Simplify (6*-5*sqrt(99)*-1)**2.
+89100
+Simplify (sqrt(147) - (sqrt(147) - (-2*sqrt(147) + sqrt(147))))**2 + -3.
+144
+Simplify (sqrt(14)/sqrt(112) - (sqrt(2) + sqrt(10)/(sqrt(5) + sqrt(20)/sqrt(4))))**2 - (sqrt(18)*2*3)**2.
+-5159/8
+Simplify -5 + 1*((-2 + sqrt(272))*-6 - sqrt(272)).
+7 - 28*sqrt(17)
+Simplify -2 + -2 + sqrt(11) + -3 + -4.
+-11 + sqrt(11)
+Simplify (-1 + sqrt(99))*-5.
+5 - 15*sqrt(11)
+Simplify ((-2*sqrt(187)*-6)/((sqrt(1331) - sqrt(1331)*-1 - sqrt(1331)) + sqrt(11)))**2.
+17
+Simplify (sqrt(110)/(sqrt(8)/sqrt(4)))/(sqrt(320) - sqrt(20)).
+sqrt(11)/6

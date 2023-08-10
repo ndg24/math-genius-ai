@@ -1,0 +1,66 @@
+What is the remainder when 26 is divided by 23?
+3
+What is the remainder when 388 is divided by 80?
+68
+Calculate the remainder when 65 is divided by 23.
+19
+What is the remainder when 1347 is divided by 19?
+17
+What is the remainder when 143 is divided by 69?
+5
+What is the remainder when 1614 is divided by 49?
+46
+Calculate the remainder when 20 is divided by 13.
+7
+Calculate the remainder when 100 is divided by 18.
+10
+What is the remainder when 2418 is divided by 46?
+26
+What is the remainder when 7196 is divided by 20?
+16
+What is the remainder when 1861 is divided by 71?
+15
+What is the remainder when 417 is divided by 54?
+39
+What is the remainder when 250 is divided by 28?
+26
+Calculate the remainder when 5299 is divided by 52.
+47
+What is the remainder when 331 is divided by 28?
+23
+Calculate the remainder when 345 is divided by 58.
+55
+What is the remainder when 1270 is divided by 6?
+4
+What is the remainder when 502 is divided by 323?
+179
+What is the remainder when 1906 is divided by 17?
+2
+Calculate the remainder when 79 is divided by 8.
+7
+What is the remainder when 134 is divided by 52?
+30
+Calculate the remainder when 1328 is divided by 153.
+104
+What is the remainder when 473 is divided by 360?
+113
+Calculate the remainder when 1286 is divided by 72.
+62
+Calculate the remainder when 6148 is divided by 143.
+142
+Calculate the remainder when 809 is divided by 90.
+89
+Calculate the remainder when 2337 is divided by 78.
+75
+Calculate the remainder when 1347 is divided by 287.
+199
+What is the remainder when 86 is divided by 33?
+20
+Calculate the remainder when 161 is divided by 57.
+47
+Calculate the remainder when 372 is divided by 17.
+15
+What is the remainder when 482 is divided by 81?
+77
+Calculate the remainder when 1109 is divided by 219.
+14
