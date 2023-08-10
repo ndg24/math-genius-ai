@@ -1,0 +1,200 @@
+Five letters picked without replacement from vvvkvvvekkkvev. Give prob of picking 2 e, 2 v and 1 k.
+8/143
+What is prob of picking 3 a and 2 r when five letters picked without replacement from {a: 6, r: 6}?
+25/66
+Five letters picked without replacement from {l: 4, o: 3}. Give prob of picking 4 l and 1 o.
+1/7
+Five letters picked without replacement from aababbnabnb. Give prob of picking 3 b, 1 a and 1 n.
+40/231
+Five letters picked without replacement from {o: 1, t: 1, p: 4, i: 3}. Give prob of picking 3 p and 2 i.
+2/21
+Five letters picked without replacement from {m: 3, h: 3}. What is prob of picking 3 m and 2 h?
+1/2
+Five letters picked without replacement from rrrrryfsrrffffyrsxxy. Give prob of picking 3 y, 1 f and 1 r.
+5/1938
+Five letters picked without replacement from {l: 4, n: 4, u: 2, b: 1}. What is prob of picking 1 b, 1 u, 2 n and 1 l?
+8/77
+What is prob of picking 1 v and 4 q when five letters picked without replacement from qvvvzrvvqqvvqzv?
+8/3003
+Calculate prob of picking 1 k, 3 s and 1 x when five letters picked without replacement from {i: 6, x: 7, q: 2, s: 3, k: 2}.
+7/7752
+Five letters picked without replacement from {w: 6, f: 2, g: 5, n: 1, i: 2, l: 3}. What is prob of picking 1 l, 1 w and 3 g?
+5/323
+Five letters picked without replacement from {w: 2, j: 3, f: 2, m: 1, l: 2}. Give prob of picking 1 w, 3 j and 1 m.
+1/126
+Five letters picked without replacement from {m: 4, e: 9, l: 1}. Give prob of picking 3 e, 1 m and 1 l.
+24/143
+Five letters picked without replacement from {n: 5, c: 1, t: 1}. Give prob of picking 1 c, 3 n and 1 t.
+10/21
+Five letters picked without replacement from fggvfgnvgnvfv. What is prob of picking 2 n, 2 v and 1 g?
+8/429
+Five letters picked without replacement from rxfffrrqqxqqffppfr. Give prob of picking 3 q and 2 x.
+1/2142
+What is prob of picking 1 g and 4 j when five letters picked without replacement from {j: 9, d: 6, g: 1}?
+3/104
+Five letters picked without replacement from {q: 8, c: 2, s: 3}. What is prob of picking 4 q and 1 c?
+140/1287
+Five letters picked without replacement from {w: 6, v: 1, a: 1, r: 5, y: 1, x: 1}. What is prob of picking 3 v, 1 y and 1 a?
+0
+Five letters picked without replacement from llllilili. Give prob of picking 5 l.
+1/21
+What is prob of picking 4 e and 1 y when five letters picked without replacement from qxxuexyk?
+0
+Five letters picked without replacement from wvkwwwuuwuwuwkuwk. What is prob of picking 4 u and 1 v?
+5/6188
+Calculate prob of picking 3 v and 2 w when five letters picked without replacement from wyvwvwwwwwvyvw.
+8/143
+Calculate prob of picking 1 x and 4 v when five letters picked without replacement from {v: 7, x: 1, e: 5, h: 1}.
+5/286
+Calculate prob of picking 2 i and 3 s when five letters picked without replacement from wwwwisiswswiww.
+3/2002
+Five letters picked without replacement from lllllloilinolllluiil. What is prob of picking 2 i, 1 n and 2 l?
+33/1292
+Five letters picked without replacement from {c: 7, f: 2, s: 9}. Give prob of picking 1 s, 1 f and 3 c.
+5/68
+Five letters picked without replacement from ppopppooooo. Give prob of picking 5 o.
+1/77
+Five letters picked without replacement from {a: 3, j: 10}. What is prob of picking 2 j and 3 a?
+5/143
+Calculate prob of picking 1 m, 1 g, 2 n and 1 t when five letters picked without replacement from {t: 1, s: 3, c: 2, g: 2, n: 2, m: 1}.
+1/231
+Five letters picked without replacement from upauppupuupaapu. What is prob of picking 4 p and 1 u?
+30/1001
+Five letters picked without replacement from {m: 2, r: 1, e: 3}. What is prob of picking 2 r and 3 e?
+0
+Five letters picked without replacement from miiiimmiiiiiiiimi. Give prob of picking 3 m and 2 i.
+6/119
+Five letters picked without replacement from {s: 2, p: 1, f: 6, x: 5, k: 2, c: 2}. Give prob of picking 1 f, 1 x, 2 k and 1 s.
+5/714
+Five letters picked without replacement from tggmgggtgggmt. Give prob of picking 3 g and 2 m.
+56/1287
+Calculate prob of picking 3 b, 1 z and 1 k when five letters picked without replacement from nbbkokbnnnkkzkbonovb.
+25/7752
+Calculate prob of picking 1 x, 1 t and 3 q when five letters picked without replacement from {t: 2, x: 14, q: 3}.
+7/2907
+Calculate prob of picking 1 t and 4 v when five letters picked without replacement from vvtfhvffv.
+1/126
+Calculate prob of picking 3 n, 1 y and 1 m when five letters picked without replacement from {m: 12, y: 2, n: 4}.
+4/357
+Five letters picked without replacement from {q: 4, w: 2, p: 4, r: 4, s: 1}. What is prob of picking 1 p and 4 q?
+4/3003
+Calculate prob of picking 2 c and 3 p when five letters picked without replacement from mmmpmctpclmppcmp.
+5/728
+Five letters picked without replacement from eekofkekkkao. What is prob of picking 2 a, 2 k and 1 e?
+0
+Five letters picked without replacement from {p: 5}. Give prob of picking 5 p.
+1
+Five letters picked without replacement from jjqqqwqqqjjjwqq. Give prob of picking 3 j, 1 q and 1 w.
+160/3003
+What is prob of picking 5 w when five letters picked without replacement from zwwzzwzzwzwzwzzzwwz?
+14/2907
+What is prob of picking 1 e, 1 u, 1 m, 1 z and 1 a when five letters picked without replacement from {a: 1, e: 2, m: 7, z: 7, u: 1}?
+7/612
+What is prob of picking 1 l, 1 h, 1 p and 2 r when five letters picked without replacement from ttllhprrrtlllyptlt?
+1/238
+What is prob of picking 5 b when five letters picked without replacement from {n: 2, b: 7, k: 4}?
+7/429
+What is prob of picking 3 w and 2 s when five letters picked without replacement from swwwwwwwswsw?
+7/22
+Calculate prob of picking 2 n, 1 l, 1 b and 1 r when five letters picked without replacement from nbbnbnbrbrrbrbnlb.
+48/1547
+Five letters picked without replacement from qqedeqefedqvqed. What is prob of picking 3 d, 1 f and 1 q?
+5/3003
+Five letters picked without replacement from {c: 3, x: 3, p: 1, j: 1, r: 2}. Give prob of picking 1 p, 2 c and 2 r.
+1/84
+Five letters picked without replacement from vcafgcvvaa. Give prob of picking 2 v, 1 f, 1 a and 1 c.
+1/14
+Five letters picked without replacement from {n: 1, g: 8}. Give prob of picking 5 g.
+4/9
+What is prob of picking 1 d, 2 m and 2 x when five letters picked without replacement from mddxxdxxdmdxmdxmxx?
+2/17
+Five letters picked without replacement from {j: 2, a: 13, i: 5}. What is prob of picking 1 a and 4 i?
+65/15504
+What is prob of picking 4 u and 1 y when five letters picked without replacement from uyuuluuuuuly?
+35/198
+Five letters picked without replacement from {s: 4, q: 3}. What is prob of picking 1 q and 4 s?
+1/7
+Five letters picked without replacement from dmmjmmdddm. What is prob of picking 3 j, 1 m and 1 d?
+0
+What is prob of picking 5 q when five letters picked without replacement from {w: 8, q: 9}?
+9/442
+Five letters picked without replacement from hhgghhhgghh. Give prob of picking 5 h.
+1/22
+Five letters picked without replacement from nssppdsspsdd. Give prob of picking 1 d, 2 p, 1 n and 1 s.
+5/88
+Five letters picked without replacement from edefdddfwwwwwdwe. Give prob of picking 3 w and 2 d.
+25/546
+Five letters picked without replacement from pphhpppshhhppsphppp. What is prob of picking 5 p?
+77/1938
+What is prob of picking 1 t and 4 a when five letters picked without replacement from {a: 7, t: 1}?
+5/8
+What is prob of picking 2 v, 1 g and 2 t when five letters picked without replacement from ofvgt?
+0
+What is prob of picking 3 r, 1 w and 1 s when five letters picked without replacement from {r: 5, j: 1, w: 6, s: 1, y: 2, k: 2}?
+15/1547
+Five letters picked without replacement from {p: 6, j: 2, k: 4}. Give prob of picking 1 k, 2 p and 2 j.
+5/66
+Calculate prob of picking 1 t, 1 z and 3 l when five letters picked without replacement from zllpttlppllptlp.
+20/1001
+What is prob of picking 5 e when five letters picked without replacement from eeejeej?
+1/21
+What is prob of picking 3 n, 1 y and 1 p when five letters picked without replacement from {y: 5, p: 1, b: 5, n: 4}?
+20/3003
+Calculate prob of picking 3 v and 2 k when five letters picked without replacement from {v: 8, k: 2, l: 2, p: 4}.
+1/78
+Calculate prob of picking 2 r, 1 f, 1 y and 1 g when five letters picked without replacement from ffrfghfffrgyfgkkfr.
+1/119
+Five letters picked without replacement from mmkqqmmmakmmmmammq. What is prob of picking 1 q, 2 m and 2 k?
+55/2856
+Five letters picked without replacement from {n: 1, m: 4, u: 1}. What is prob of picking 1 n and 4 m?
+1/6
+Five letters picked without replacement from {e: 1, g: 14}. Give prob of picking 1 e and 4 g.
+1/3
+Five letters picked without replacement from {g: 5, u: 1, q: 4, k: 2, s: 3, w: 2}. What is prob of picking 1 w, 1 q and 3 s?
+2/1547
+Five letters picked without replacement from rrrrrtrrttr. What is prob of picking 3 r and 2 t?
+4/11
+Five letters picked without replacement from {d: 6, j: 1, a: 4}. Give prob of picking 3 a and 2 d.
+10/77
+What is prob of picking 1 x, 1 i, 2 n and 1 v when five letters picked without replacement from {x: 2, i: 2, v: 1, a: 1, n: 2, j: 1}?
+2/63
+Five letters picked without replacement from gbggzrgzbbrgb. What is prob of picking 1 z and 4 g?
+10/1287
+Five letters picked without replacement from ssssggbssssssggsg. What is prob of picking 4 s and 1 b?
+165/3094
+What is prob of picking 1 s, 2 f, 1 v and 1 w when five letters picked without replacement from skfnwknknwvfnnk?
+2/3003
+What is prob of picking 1 t, 3 c and 1 w when five letters picked without replacement from {s: 2, c: 5, b: 1, t: 5, w: 2, p: 5}?
+25/3876
+Five letters picked without replacement from {h: 5, u: 6, k: 3, j: 3}. Give prob of picking 3 u and 2 j.
+15/1547
+Calculate prob of picking 1 v, 1 z and 3 c when five letters picked without replacement from {v: 1, g: 5, c: 7, z: 1, b: 1}.
+5/429
+What is prob of picking 1 w and 4 p when five letters picked without replacement from {p: 7, w: 1, u: 2, j: 3}?
+35/1287
+Five letters picked without replacement from {b: 9, h: 4}. What is prob of picking 3 b and 2 h?
+56/143
+Five letters picked without replacement from {s: 4, t: 2, d: 2, v: 2, e: 2, y: 3}. What is prob of picking 2 s, 1 v, 1 e and 1 t?
+16/1001
+Five letters picked without replacement from jojzjjtec. What is prob of picking 1 o, 2 t and 2 j?
+0
+Five letters picked without replacement from bbddbddbdbdbssbbbsdb. Give prob of picking 5 d.
+7/5168
+Five letters picked without replacement from {k: 1, v: 10, m: 3}. What is prob of picking 4 v and 1 k?
+15/143
+What is prob of picking 1 d, 1 t and 3 p when five letters picked without replacement from ovopooopooodtppo?
+1/1092
+What is prob of picking 2 v and 3 q when five letters picked without replacement from uiuvqqquvqvvuvv?
+20/1001
+What is prob of picking 5 v when five letters picked without replacement from vvvjvvvvvvv?
+6/11
+Calculate prob of picking 2 u, 2 k and 1 h when five letters picked without replacement from {u: 5, k: 4, h: 3}.
+5/22
+What is prob of picking 5 g when five letters picked without replacement from {c: 14, g: 2}?
+0
+Calculate prob of picking 5 c when five letters picked without replacement from ccccoccp.
+3/28
+What is prob of picking 1 s, 3 z and 1 k when five letters picked without replacement from zzzskzsswzzszzs?
+40/429
+Calculate prob of picking 2 s, 2 m and 1 t when five letters picked without replacement from {m: 2, a: 2, t: 3, s: 5}.
+5/132

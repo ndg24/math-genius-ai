@@ -1,0 +1,200 @@
+Five letters picked without replacement from xwpwgpxqxxf. Give prob of sequence fxwpq.
+1/3465
+What is prob of sequence kekex when five letters picked without replacement from {x: 4, k: 3, e: 8, w: 5}?
+7/9690
+Calculate prob of sequence tyybb when five letters picked without replacement from {f: 5, b: 2, q: 1, y: 9, t: 1}.
+1/7140
+Calculate prob of sequence wssws when five letters picked without replacement from wwsss.
+1/10
+Five letters picked without replacement from {u: 1, e: 2, m: 2, z: 3, g: 12}. What is prob of sequence mgmgu?
+11/77520
+Five letters picked without replacement from vkkkqrqrqqqqvqqqrqq. Give prob of sequence rrqrk.
+11/77520
+Five letters picked without replacement from {f: 1, n: 10, p: 7}. What is prob of sequence pnnpf?
+1/272
+Five letters picked without replacement from zppzppzzpppp. What is prob of sequence pppzp?
+7/99
+Calculate prob of sequence fpxpu when five letters picked without replacement from yxfufxnpfxnfpuxpyf.
+1/4284
+What is prob of sequence icgxq when five letters picked without replacement from {y: 1, c: 3, x: 3, i: 1, g: 3, q: 3}?
+27/80080
+Calculate prob of sequence dddsd when five letters picked without replacement from {d: 8, s: 2}.
+1/9
+Five letters picked without replacement from {o: 2, g: 3, b: 3, u: 3, c: 5, y: 3}. Give prob of sequence yougb.
+3/25840
+What is prob of sequence xaaxx when five letters picked without replacement from axxxxxxxax?
+1/45
+Calculate prob of sequence kccck when five letters picked without replacement from {k: 2, c: 15}.
+1/136
+What is prob of sequence fxxau when five letters picked without replacement from {n: 2, x: 2, f: 4, u: 1, a: 3}?
+1/3960
+What is prob of sequence wfwsw when five letters picked without replacement from wwwhwwisffiss?
+1/429
+Calculate prob of sequence odooo when five letters picked without replacement from {d: 16, o: 4}.
+1/4845
+What is prob of sequence ryryr when five letters picked without replacement from yrrryyryryy?
+5/154
+Five letters picked without replacement from {s: 3, z: 3, m: 3}. What is prob of sequence mzzzs?
+1/280
+Calculate prob of sequence ftkkk when five letters picked without replacement from {k: 4, t: 1, q: 1, f: 1}.
+1/105
+Calculate prob of sequence jiyxz when five letters picked without replacement from yjzxyiyyyzxjyy.
+1/4290
+Five letters picked without replacement from qkmvqmqkkmkvkqk. Give prob of sequence kkkkm.
+3/1001
+Five letters picked without replacement from hxxhrxhraxhrraxqx. Give prob of sequence qrrah.
+1/7735
+What is prob of sequence cmmmc when five letters picked without replacement from mecmcmmcmmcmm?
+56/2145
+Five letters picked without replacement from {p: 1, k: 1, h: 1, n: 2, o: 3, s: 1}. Give prob of sequence popns.
+0
+Five letters picked without replacement from eceyeeey. What is prob of sequence eecee?
+1/56
+Five letters picked without replacement from iyissssiisiisssi. Give prob of sequence ysssi.
+7/1560
+Calculate prob of sequence sssuu when five letters picked without replacement from uusssss.
+1/21
+Five letters picked without replacement from auacdhahphh. What is prob of sequence ucpdh?
+1/13860
+Five letters picked without replacement from hhhhhvhhhhhhhvvhh. What is prob of sequence hhvhh?
+33/340
+Five letters picked without replacement from {l: 1, c: 3, a: 2, h: 3, m: 5}. Give prob of sequence mmaca.
+1/2002
+Calculate prob of sequence toouq when five letters picked without replacement from uqotlo.
+1/360
+Calculate prob of sequence bbmbm when five letters picked without replacement from bmbmmmmmmmmmmbmmb.
+3/595
+Five letters picked without replacement from {n: 1, v: 1, b: 1, w: 1, m: 9, r: 5}. What is prob of sequence brwmv?
+1/22848
+What is prob of sequence gjooj when five letters picked without replacement from {m: 4, g: 4, w: 2, o: 3, j: 3, u: 3}?
+1/9690
+What is prob of sequence lpxvp when five letters picked without replacement from {v: 2, p: 3, x: 2, l: 3, o: 2}?
+1/1320
+Five letters picked without replacement from {y: 1, t: 2, s: 5, k: 2, a: 8}. Give prob of sequence ysaas.
+1/918
+Five letters picked without replacement from gdgsgsgsggsdgsggdggg. What is prob of sequence sgddd?
+1/5168
+Five letters picked without replacement from {f: 1, r: 2, w: 1, y: 1, x: 2, j: 1}. Give prob of sequence yfrry.
+0
+Calculate prob of sequence zgnzg when five letters picked without replacement from {g: 2, z: 4, o: 3, n: 8, t: 1}.
+1/5355
+What is prob of sequence wdwmy when five letters picked without replacement from {e: 5, d: 2, l: 5, m: 4, y: 1, w: 3}?
+1/38760
+Five letters picked without replacement from ttztztzzttzzzzzztt. Give prob of sequence ztttz.
+1/34
+Calculate prob of sequence ktttu when five letters picked without replacement from {f: 1, u: 2, k: 1, t: 3, h: 5, d: 7}.
+1/116280
+What is prob of sequence xuucu when five letters picked without replacement from uucuxucuccccc?
+7/2574
+Calculate prob of sequence ipipf when five letters picked without replacement from ipiuipfiuuuffiui.
+1/2912
+What is prob of sequence lmlln when five letters picked without replacement from mmnlmmnmmlmmmmlmnnmm?
+13/77520
+Five letters picked without replacement from {a: 1, v: 2, y: 3, s: 2, h: 6}. What is prob of sequence syyvy?
+1/10010
+Five letters picked without replacement from {j: 1, p: 2, u: 1, n: 1, i: 2, z: 1}. Give prob of sequence iupzj.
+1/1680
+Five letters picked without replacement from {n: 5, m: 4, p: 2, d: 8}. What is prob of sequence ndmpp?
+2/8721
+Calculate prob of sequence xxxxa when five letters picked without replacement from {a: 13, x: 4}.
+1/2380
+What is prob of sequence qbbbn when five letters picked without replacement from {b: 4, q: 3, n: 1, z: 1}?
+1/210
+Five letters picked without replacement from {t: 9, i: 2, d: 1, r: 2, b: 2}. Give prob of sequence tbirr.
+1/7280
+Five letters picked without replacement from kkkmskkmsskmkklskms. Give prob of sequence mkkkl.
+7/4845
+Five letters picked without replacement from etzeotzbzjjt. Give prob of sequence ezjzb.
+1/3960
+Five letters picked without replacement from {j: 10, b: 2, m: 3}. Give prob of sequence jjbbm.
+3/2002
+What is prob of sequence nillx when five letters picked without replacement from {x: 1, n: 1, i: 1, l: 6}?
+1/504
+Calculate prob of sequence mvoqf when five letters picked without replacement from voqfmppv.
+1/3360
+Five letters picked without replacement from ehrrrrcheeeneheen. Give prob of sequence nhrrh.
+3/15470
+What is prob of sequence ypppw when five letters picked without replacement from hyyhphphpphyhwhhy?
+1/7735
+Five letters picked without replacement from kkkkeknqnqkkknkeqk. Give prob of sequence qeenk.
+1/5712
+Five letters picked without replacement from dhhhhdhdhhdhhhhhhhhh. What is prob of sequence dhddd?
+1/4845
+Calculate prob of sequence xxxxn when five letters picked without replacement from {u: 3, x: 7, e: 1, n: 6}.
+3/442
+What is prob of sequence mlmwl when five letters picked without replacement from {m: 3, w: 8, l: 4}?
+8/5005
+Five letters picked without replacement from pslsllssssslsffs. Give prob of sequence llfll.
+1/10920
+Calculate prob of sequence qtrqr when five letters picked without replacement from {p: 4, r: 2, t: 3, q: 7}.
+1/2080
+What is prob of sequence llucg when five letters picked without replacement from lcllcclullg?
+1/616
+Five letters picked without replacement from {y: 5, t: 4, b: 1}. What is prob of sequence yytbt?
+1/126
+Calculate prob of sequence yqsqs when five letters picked without replacement from {y: 6, q: 8, s: 3}.
+3/1105
+What is prob of sequence wiihr when five letters picked without replacement from {w: 1, h: 1, n: 5, l: 2, i: 2, r: 2}?
+1/38610
+Calculate prob of sequence iuuui when five letters picked without replacement from nniinuinziuunizzn.
+1/6188
+Five letters picked without replacement from {u: 3, d: 5}. Give prob of sequence uddud.
+3/56
+Five letters picked without replacement from jommmomm. Give prob of sequence ommmm.
+1/28
+Calculate prob of sequence anaao when five letters picked without replacement from ayaayaaiyyyoiaiany.
+1/4896
+Calculate prob of sequence wtqtt when five letters picked without replacement from {o: 1, w: 8, t: 7, q: 2}.
+1/306
+What is prob of sequence voooo when five letters picked without replacement from ooooov?
+1/6
+What is prob of sequence uyufu when five letters picked without replacement from kyykfkyueuu?
+1/3080
+Five letters picked without replacement from {m: 1, t: 1, n: 2, f: 1, k: 2, e: 1}. Give prob of sequence ekfmk.
+1/3360
+Five letters picked without replacement from {q: 2, h: 1, u: 1, w: 2, g: 3, f: 5}. Give prob of sequence hwuff.
+1/6006
+Five letters picked without replacement from mcscaccoccv. What is prob of sequence vmocm?
+0
+What is prob of sequence tttst when five letters picked without replacement from ttttttttttttstt?
+1/15
+What is prob of sequence rckcs when five letters picked without replacement from rckckcsdcrrcrc?
+1/1001
+What is prob of sequence ccsss when five letters picked without replacement from sssssccssscsscsc?
+55/1456
+What is prob of sequence rtorr when five letters picked without replacement from {f: 4, r: 2, t: 3, b: 3, o: 3}?
+0
+Five letters picked without replacement from {q: 1, i: 1, u: 2, n: 4, p: 1, x: 2}. What is prob of sequence upnnu?
+1/2310
+Five letters picked without replacement from {l: 1, q: 1, n: 3, c: 1, j: 1, y: 3}. What is prob of sequence yqcnl?
+1/3360
+Five letters picked without replacement from {x: 1, k: 2, h: 1, z: 3, g: 1, b: 1}. Give prob of sequence zkhzx.
+1/1260
+Five letters picked without replacement from ymrgcrm. Give prob of sequence mmcrg.
+1/630
+Five letters picked without replacement from uuxxxxuxxxm. What is prob of sequence uuuxm?
+1/1320
+What is prob of sequence suuuu when five letters picked without replacement from {u: 9, s: 11}?
+231/12920
+Five letters picked without replacement from qqdqqqqqddqqqq. Give prob of sequence qqddq.
+9/364
+Five letters picked without replacement from bmmbbbmdmbbddbdbmdmb. Give prob of sequence bbmbb.
+63/6460
+Five letters picked without replacement from {q: 1, i: 2, v: 5, m: 1, t: 4}. Give prob of sequence vqitm.
+1/3861
+Five letters picked without replacement from {e: 3, y: 1, o: 2, c: 3}. What is prob of sequence cyeco?
+1/420
+Five letters picked without replacement from zpzlpll. What is prob of sequence zlllz?
+1/210
+What is prob of sequence maago when five letters picked without replacement from gmpmaxomam?
+1/3780
+What is prob of sequence hhscc when five letters picked without replacement from {c: 2, u: 3, l: 1, s: 3, h: 2, f: 2}?
+1/12870
+Five letters picked without replacement from qnqcacaaaaaq. What is prob of sequence cacnq?
+1/2640
+What is prob of sequence fxmxw when five letters picked without replacement from xfwmwfmwmmfmwxffm?
+1/3094
+Calculate prob of sequence ahuva when five letters picked without replacement from {u: 1, h: 7, k: 2, a: 1, v: 4, i: 1}.
+0
+Five letters picked without replacement from ddddn. Give prob of sequence ddddn.
+1/5
