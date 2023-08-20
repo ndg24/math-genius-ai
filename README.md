@@ -23,7 +23,7 @@ MathGeniusAI is a cutting-edge project that leverages AI technologies to solve e
 
 ## Created By
 
-Created by [Nilansh](https://github.com/ndg24).
+Created by [Nilansh Dey Ghosh](https://github.com/ndg24).
 
 
 
