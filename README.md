@@ -6,7 +6,7 @@ MathGeniusAI is a cutting-edge project that leverages AI technologies to solve e
 
 ## Features
 
-- AI-powered math problem solving with accuracy exceeding 90%.
+- AI-powered math problem-solving with accuracy exceeding 90%.
 - Utilization of advanced neural network architectures: LSTM, BERT, RNN, and Transformer.
 - Comprehensive coverage of elementary and middle school mathematics.
 - Experimentation with cutting-edge AI models to achieve exceptional performance.
